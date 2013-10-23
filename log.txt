@@ -1,0 +1,6326 @@
+2013-05-29 20:59:33.489000: Starting.2013-05-29 22:06:02.686000: Starting.2013-05-29 22:06:06.661000: Switching state: Hopeful2013-05-29 22:06:19.972000: Starting.2013-05-29 22:06:26.742000: Switching state: Hopeful2013-05-29 22:07:55.094000: Starting.2013-05-29 22:08:13.883000: Starting.2013-05-29 22:08:19.089000: Switching state: Hopeful2013-05-29 22:09:50.082000: Starting.2013-05-29 22:10:01.885000: Switching state: Hopeful2013-05-29 22:12:00.609000: Starting.2013-05-29 22:12:18.343000: Switching state: Hopeful2013-05-29 22:12:42.703000: Starting.2013-05-29 22:12:47.348000: Switching state: Hopeful2013-05-29 22:12:58.022000: Switching state: Lonely2013-05-29 22:12:58.119000: Switching state: Hopeful2013-05-29 22:13:38.463000: Starting.2013-05-29 22:13:41.867000: Switching state: Hopeful2013-05-29 22:13:55.209000: Switching state: Lonely2013-05-29 22:13:55.281000: Switching state: Hopeful2013-05-29 22:23:54.828000: Starting.2013-05-29 22:24:01.644000: Switching state: Hopeful2013-05-29 22:24:59.940000: Starting.2013-05-29 22:25:05.987000: Switching state: Hopeful2013-05-29 22:27:00.450000: Starting.2013-05-29 22:27:19.250000: Switching state: Hopeful2013-05-29 22:28:27.404000: Starting.2013-05-29 22:28:31.901000: Switching state: Hopeful2013-05-29 22:29:11.220000: Starting.2013-05-29 22:29:15.733000: Switching state: Hopeful2013-05-29 22:51:09.191000: Starting.
+
+2013-05-29 22:51:18.275000: Switching state: Hopeful
+
+2013-05-29 23:09:29.993000: Starting.
+
+2013-05-29 23:09:34.518000: Switching state: Hopeful
+
+2013-05-29 23:10:44.918000: Starting.
+
+2013-05-29 23:11:15.646000: Starting.
+
+2013-05-29 23:11:29.103000: Switching state: Hopeful
+
+2013-05-29 23:12:07.325000: Starting.
+
+2013-05-29 23:12:12.932000: Switching state: Hopeful
+
+2013-05-29 23:12:23.826000: Switching state: Sad
+
+2013-05-29 23:12:28.879000: Switching state: Lonely
+
+2013-05-29 23:12:28.957000: Switching state: Hopeful
+
+2013-05-29 23:12:38.970000: Switching state: Sad
+
+2013-05-29 23:12:44.010000: Switching state: Lonely
+
+2013-05-29 23:12:44.130000: Switching state: Hopeful
+
+2013-05-29 23:12:54.146000: Switching state: Sad
+
+2013-05-29 23:12:59.156000: Switching state: Lonely
+
+2013-05-29 23:12:59.242000: Switching state: Hopeful
+
+2013-05-29 23:14:04.821000: Starting.
+
+2013-05-29 23:14:17.289000: Switching state: Hopeful
+
+2013-05-29 23:14:27.730000: Switching state: Sad
+
+2013-05-29 23:14:32.741000: Switching state: Lonely
+
+2013-05-30 06:43:56.459000: Starting.
+
+2013-05-30 06:44:23.975000: Starting.
+
+2013-05-30 06:44:27.148000: Switching state: Hopeful
+
+2013-05-30 06:44:33.246000: Switching state: Why
+
+2013-05-30 06:45:02.840000: Starting.
+
+2013-05-30 06:45:07.181000: Switching state: Hopeful
+
+2013-05-30 06:45:10.984000: Switching state: Why
+
+2013-05-30 06:45:31.565000: Starting.
+
+2013-05-30 06:45:35.342000: Switching state: Hopeful
+
+2013-05-30 06:45:40.212000: Switching state: Why
+
+2013-05-30 06:46:14.999000: Starting.
+
+2013-05-30 06:46:19.916000: Switching state: Hopeful
+
+2013-05-30 06:46:22.451000: Switching state: Why
+
+2013-05-30 06:47:14.674000: Starting.
+
+2013-05-30 06:47:17.844000: Switching state: Hopeful
+
+2013-05-30 06:47:21.281000: Switching state: Why
+
+2013-05-30 06:47:46.511000: Switching state: Scared
+
+2013-05-30 06:49:23.673000: Starting.
+
+2013-05-30 06:49:27.276000: Switching state: Hopeful
+
+2013-05-30 06:49:31.040000: Switching state: Why
+
+2013-05-30 06:49:56.110000: Switching state: Scared
+
+2013-05-30 06:51:21.807000: Starting.
+
+2013-05-30 06:51:25.615000: Switching state: Hopeful
+
+2013-05-30 06:51:28.119000: Switching state: Why
+
+2013-05-30 06:51:35.694000: Switching state: Sad
+
+2013-05-30 06:51:40.766000: Switching state: Lonely
+
+2013-05-30 06:51:40.898000: Switching state: Hopeful
+
+2013-05-30 06:51:45.133000: Switching state: Why
+
+2013-05-30 06:51:49.984000: Switching state: Sad
+
+2013-05-30 06:51:55.085000: Switching state: Lonely
+
+2013-05-30 06:51:55.242000: Switching state: Hopeful
+
+2013-05-30 06:51:58.482000: Switching state: Why
+
+2013-05-30 06:52:07.789000: Switching state: Sad
+
+2013-05-30 06:52:12.858000: Switching state: Lonely
+
+2013-05-30 06:52:12.995000: Switching state: Hopeful
+
+2013-05-30 06:52:21.735000: Switching state: Why
+
+2013-05-30 06:52:26.378000: Switching state: Choices
+
+2013-05-30 06:53:01.758000: Starting.
+
+2013-05-30 06:53:06.855000: Switching state: Hopeful
+
+2013-05-30 06:53:08.733000: Switching state: Scared
+
+2013-05-30 06:53:32.865000: Starting.
+
+2013-05-30 06:53:36.881000: Switching state: Hopeful
+
+2013-05-30 06:53:39.792000: Switching state: Scared
+
+2013-05-30 06:53:52.390000: Starting.
+
+2013-05-30 06:53:55.865000: Switching state: Hopeful
+
+2013-05-30 06:53:57.124000: Switching state: Scared
+
+2013-05-30 06:53:57.327000: Switching state: Scared
+
+2013-05-30 06:53:57.532000: Switching state: Scared
+
+2013-05-30 06:53:57.727000: Switching state: Scared
+
+2013-05-30 06:53:57.971000: Switching state: Scared
+
+2013-05-30 06:53:58.209000: Switching state: Scared
+
+2013-05-30 06:53:58.452000: Switching state: Scared
+
+2013-05-30 06:53:58.700000: Switching state: Scared
+
+2013-05-30 06:53:58.943000: Switching state: Scared
+
+2013-05-30 06:53:59.173000: Switching state: Scared
+
+2013-05-30 06:53:59.419000: Switching state: Scared
+
+2013-05-30 06:53:59.635000: Switching state: Scared
+
+2013-05-30 06:53:59.830000: Switching state: Scared
+
+2013-05-30 06:54:00.069000: Switching state: Scared
+
+2013-05-30 06:54:00.215000: Switching state: Scared
+
+2013-05-30 06:54:00.324000: Switching state: Scared
+
+2013-05-30 06:54:00.419000: Switching state: Scared
+
+2013-05-30 06:54:00.515000: Switching state: Scared
+
+2013-05-30 06:54:00.616000: Switching state: Scared
+
+2013-05-30 06:54:00.714000: Switching state: Scared
+
+2013-05-30 06:54:00.816000: Switching state: Scared
+
+2013-05-30 06:54:00.914000: Switching state: Scared
+
+2013-05-30 06:54:21.395000: Starting.
+
+2013-05-30 06:54:24.890000: Switching state: Hopeful
+
+2013-05-30 06:54:25.360000: Switching state: Scared
+
+2013-05-30 06:54:25.590000: Switching state: Scared
+
+2013-05-30 06:54:25.782000: Switching state: Scared
+
+2013-05-30 06:54:25.985000: Switching state: Scared
+
+2013-05-30 06:54:26.197000: Switching state: Scared
+
+2013-05-30 06:54:26.435000: Switching state: Scared
+
+2013-05-30 06:54:26.694000: Switching state: Scared
+
+2013-05-30 06:54:26.944000: Switching state: Scared
+
+2013-05-30 06:54:27.160000: Switching state: Scared
+
+2013-05-30 06:54:27.416000: Switching state: Scared
+
+2013-05-30 06:54:27.689000: Switching state: Scared
+
+2013-05-30 06:54:27.884000: Switching state: Scared
+
+2013-05-30 06:54:28.111000: Switching state: Scared
+
+2013-05-30 06:54:28.302000: Switching state: Scared
+
+2013-05-30 06:54:28.507000: Switching state: Scared
+
+2013-05-30 06:54:28.695000: Switching state: Scared
+
+2013-05-30 06:54:28.819000: Switching state: Scared
+
+2013-05-30 06:54:28.911000: Switching state: Scared
+
+2013-05-30 06:54:29.011000: Switching state: Scared
+
+2013-05-30 06:54:29.108000: Switching state: Scared
+
+2013-05-30 06:54:29.211000: Switching state: Scared
+
+2013-05-30 06:54:29.311000: Switching state: Scared
+
+2013-05-30 06:54:29.410000: Switching state: Scared
+
+2013-05-30 06:54:29.510000: Switching state: Scared
+
+2013-05-30 06:54:29.611000: Switching state: Scared
+
+2013-05-30 06:54:29.708000: Switching state: Scared
+
+2013-05-30 06:54:29.811000: Switching state: Scared
+
+2013-05-30 06:54:29.910000: Switching state: Scared
+
+2013-05-30 06:54:30.012000: Switching state: Scared
+
+2013-05-30 06:54:30.110000: Switching state: Scared
+
+2013-05-30 06:54:51.570000: Starting.
+
+2013-05-30 06:54:55.064000: Switching state: Scared
+
+2013-05-30 06:54:55.265000: Switching state: Scared
+
+2013-05-30 06:54:55.471000: Switching state: Scared
+
+2013-05-30 06:54:55.742000: Switching state: Scared
+
+2013-05-30 06:54:55.938000: Switching state: Scared
+
+2013-05-30 06:54:56.171000: Switching state: Scared
+
+2013-05-30 06:54:56.383000: Switching state: Scared
+
+2013-05-30 06:54:56.601000: Switching state: Scared
+
+2013-05-30 06:54:56.804000: Switching state: Scared
+
+2013-05-30 06:54:57.005000: Switching state: Scared
+
+2013-05-30 06:54:57.245000: Switching state: Scared
+
+2013-05-30 06:54:57.442000: Switching state: Scared
+
+2013-05-30 06:54:57.654000: Switching state: Scared
+
+2013-05-30 06:54:57.874000: Switching state: Scared
+
+2013-05-30 06:54:58.115000: Switching state: Scared
+
+2013-05-30 06:54:58.310000: Switching state: Scared
+
+2013-05-30 06:54:58.508000: Switching state: Scared
+
+2013-05-30 06:54:58.740000: Switching state: Scared
+
+2013-05-30 06:54:59.010000: Switching state: Scared
+
+2013-05-30 06:54:59.247000: Switching state: Scared
+
+2013-05-30 06:54:59.473000: Switching state: Scared
+
+2013-05-30 06:54:59.684000: Switching state: Scared
+
+2013-05-30 06:54:59.876000: Switching state: Scared
+
+2013-05-30 06:55:00.080000: Switching state: Scared
+
+2013-05-30 06:55:00.312000: Switching state: Scared
+
+2013-05-30 06:55:00.506000: Switching state: Scared
+
+2013-05-30 06:55:00.715000: Switching state: Scared
+
+2013-05-30 06:55:00.920000: Switching state: Scared
+
+2013-05-30 06:55:01.145000: Switching state: Scared
+
+2013-05-30 06:55:01.341000: Switching state: Scared
+
+2013-05-30 06:55:01.542000: Switching state: Scared
+
+2013-05-30 06:55:01.774000: Switching state: Scared
+
+2013-05-30 06:55:01.973000: Switching state: Scared
+
+2013-05-30 06:55:02.210000: Switching state: Scared
+
+2013-05-30 06:55:02.414000: Switching state: Scared
+
+2013-05-30 06:55:02.627000: Switching state: Scared
+
+2013-05-30 06:55:02.839000: Switching state: Scared
+
+2013-05-30 06:55:03.037000: Switching state: Scared
+
+2013-05-30 06:55:03.243000: Switching state: Scared
+
+2013-05-30 06:55:03.409000: Switching state: Scared
+
+2013-05-30 06:55:03.609000: Switching state: Scared
+
+2013-05-30 06:55:03.814000: Switching state: Scared
+
+2013-05-30 06:55:04.011000: Switching state: Scared
+
+2013-05-30 06:55:04.207000: Switching state: Scared
+
+2013-05-30 06:55:04.415000: Switching state: Scared
+
+2013-05-30 06:55:04.619000: Switching state: Scared
+
+2013-05-30 06:55:04.818000: Switching state: Scared
+
+2013-05-30 06:55:05.003000: Switching state: Scared
+
+2013-05-30 06:55:05.213000: Switching state: Scared
+
+2013-05-30 06:55:05.413000: Switching state: Scared
+
+2013-05-30 06:55:05.616000: Switching state: Scared
+
+2013-05-30 06:55:05.815000: Switching state: Scared
+
+2013-05-30 06:55:06.045000: Switching state: Scared
+
+2013-05-30 06:55:06.246000: Switching state: Scared
+
+2013-05-30 06:55:06.447000: Switching state: Scared
+
+2013-05-30 06:55:06.649000: Switching state: Scared
+
+2013-05-30 06:55:06.853000: Switching state: Scared
+
+2013-05-30 06:55:07.048000: Switching state: Scared
+
+2013-05-30 06:55:07.246000: Switching state: Scared
+
+2013-05-30 06:55:07.455000: Switching state: Scared
+
+2013-05-30 06:55:07.652000: Switching state: Scared
+
+2013-05-30 06:55:07.891000: Switching state: Scared
+
+2013-05-30 06:55:08.081000: Switching state: Scared
+
+2013-05-30 06:55:08.321000: Switching state: Scared
+
+2013-05-30 06:55:08.522000: Switching state: Scared
+
+2013-05-30 06:55:08.723000: Switching state: Scared
+
+2013-05-30 06:55:08.927000: Switching state: Scared
+
+2013-05-30 06:55:09.121000: Switching state: Scared
+
+2013-05-30 06:55:09.326000: Switching state: Scared
+
+2013-05-30 06:55:09.521000: Switching state: Scared
+
+2013-05-30 06:55:09.753000: Switching state: Scared
+
+2013-05-30 06:55:09.962000: Switching state: Scared
+
+2013-05-30 06:55:10.156000: Switching state: Scared
+
+2013-05-30 06:55:10.349000: Switching state: Scared
+
+2013-05-30 06:55:10.556000: Switching state: Scared
+
+2013-05-30 06:55:10.754000: Switching state: Scared
+
+2013-05-30 06:55:10.961000: Switching state: Scared
+
+2013-05-30 06:55:11.207000: Switching state: Scared
+
+2013-05-30 06:55:11.455000: Switching state: Scared
+
+2013-05-30 06:55:11.698000: Switching state: Scared
+
+2013-05-30 06:55:11.890000: Switching state: Scared
+
+2013-05-30 06:55:12.085000: Switching state: Scared
+
+2013-05-30 06:55:12.323000: Switching state: Scared
+
+2013-05-30 06:55:12.548000: Switching state: Scared
+
+2013-05-30 06:55:12.783000: Switching state: Scared
+
+2013-05-30 06:55:12.992000: Switching state: Scared
+
+2013-05-30 06:55:13.216000: Switching state: Scared
+
+2013-05-30 06:55:13.416000: Switching state: Scared
+
+2013-05-30 06:55:13.580000: Switching state: Scared
+
+2013-05-30 06:55:13.734000: Switching state: Scared
+
+2013-05-30 06:55:13.864000: Switching state: Scared
+
+2013-05-30 06:55:13.959000: Switching state: Scared
+
+2013-05-30 06:55:14.053000: Switching state: Scared
+
+2013-05-30 06:55:14.161000: Switching state: Scared
+
+2013-05-30 06:55:14.256000: Switching state: Scared
+
+2013-05-30 06:55:14.354000: Switching state: Scared
+
+2013-05-30 06:55:14.456000: Switching state: Scared
+
+2013-05-30 06:55:14.553000: Switching state: Scared
+
+2013-05-30 06:55:14.653000: Switching state: Scared
+
+2013-05-30 06:55:14.752000: Switching state: Scared
+
+2013-05-30 06:55:14.852000: Switching state: Scared
+
+2013-05-30 06:55:14.954000: Switching state: Scared
+
+2013-05-30 06:55:15.053000: Switching state: Scared
+
+2013-05-30 06:55:15.153000: Switching state: Scared
+
+2013-05-30 06:55:15.251000: Switching state: Scared
+
+2013-05-30 06:55:15.353000: Switching state: Scared
+
+2013-05-30 06:55:15.452000: Switching state: Scared
+
+2013-05-30 06:55:15.555000: Switching state: Scared
+
+2013-05-30 06:55:15.653000: Switching state: Scared
+
+2013-05-30 06:55:15.752000: Switching state: Scared
+
+2013-05-30 06:55:15.851000: Switching state: Scared
+
+2013-05-30 06:55:15.952000: Switching state: Scared
+
+2013-05-30 06:55:16.051000: Switching state: Scared
+
+2013-05-30 06:55:16.154000: Switching state: Scared
+
+2013-05-30 06:55:16.252000: Switching state: Scared
+
+2013-05-30 06:55:16.356000: Switching state: Scared
+
+2013-05-30 06:55:16.456000: Switching state: Scared
+
+2013-05-30 06:55:16.554000: Switching state: Scared
+
+2013-05-30 06:55:16.657000: Switching state: Scared
+
+2013-05-30 06:55:16.757000: Switching state: Scared
+
+2013-05-30 06:55:16.856000: Switching state: Scared
+
+2013-05-30 06:55:16.956000: Switching state: Scared
+
+2013-05-30 06:55:17.054000: Switching state: Scared
+
+2013-05-30 06:55:17.155000: Switching state: Scared
+
+2013-05-30 06:55:17.254000: Switching state: Scared
+
+2013-05-30 06:55:17.354000: Switching state: Scared
+
+2013-05-30 06:55:17.455000: Switching state: Scared
+
+2013-05-30 06:55:17.554000: Switching state: Scared
+
+2013-05-30 06:55:17.654000: Switching state: Scared
+
+2013-05-30 06:55:17.754000: Switching state: Scared
+
+2013-05-30 06:55:17.853000: Switching state: Scared
+
+2013-05-30 06:55:17.954000: Switching state: Scared
+
+2013-05-30 06:55:18.054000: Switching state: Scared
+
+2013-05-30 06:55:18.156000: Switching state: Scared
+
+2013-05-30 06:55:18.256000: Switching state: Scared
+
+2013-05-30 06:55:18.355000: Switching state: Scared
+
+2013-05-30 06:55:18.455000: Switching state: Scared
+
+2013-05-30 06:55:18.555000: Switching state: Scared
+
+2013-05-30 06:55:18.656000: Switching state: Scared
+
+2013-05-30 06:55:41.154000: Starting.
+
+2013-05-30 06:55:44.613000: Switching state: Scared
+
+2013-05-30 06:55:44.811000: Switching state: Scared
+
+2013-05-30 06:55:45.012000: Switching state: Scared
+
+2013-05-30 06:55:45.221000: Switching state: Scared
+
+2013-05-30 06:55:45.420000: Switching state: Scared
+
+2013-05-30 06:55:45.623000: Switching state: Scared
+
+2013-05-30 06:55:45.822000: Switching state: Scared
+
+2013-05-30 06:55:46.033000: Switching state: Scared
+
+2013-05-30 06:55:46.219000: Switching state: Scared
+
+2013-05-30 06:55:46.421000: Switching state: Scared
+
+2013-05-30 06:55:46.629000: Switching state: Scared
+
+2013-05-30 06:55:46.835000: Switching state: Scared
+
+2013-05-30 06:55:47.055000: Switching state: Scared
+
+2013-05-30 06:55:47.291000: Switching state: Scared
+
+2013-05-30 06:55:47.486000: Switching state: Scared
+
+2013-05-30 06:55:47.692000: Switching state: Scared
+
+2013-05-30 06:55:47.887000: Switching state: Scared
+
+2013-05-30 06:55:48.087000: Switching state: Scared
+
+2013-05-30 06:55:48.287000: Switching state: Scared
+
+2013-05-30 06:55:48.489000: Switching state: Scared
+
+2013-05-30 06:55:48.692000: Switching state: Scared
+
+2013-05-30 06:55:48.893000: Switching state: Scared
+
+2013-05-30 06:55:49.111000: Switching state: Scared
+
+2013-05-30 06:55:49.368000: Switching state: Scared
+
+2013-05-30 06:55:49.610000: Switching state: Scared
+
+2013-05-30 06:55:49.825000: Switching state: Scared
+
+2013-05-30 06:55:50.021000: Switching state: Scared
+
+2013-05-30 06:55:50.208000: Switching state: Scared
+
+2013-05-30 06:55:50.338000: Switching state: Scared
+
+2013-05-30 06:55:50.470000: Switching state: Scared
+
+2013-05-30 06:55:50.569000: Switching state: Scared
+
+2013-05-30 06:55:50.669000: Switching state: Scared
+
+2013-05-30 06:56:02.655000: Starting.
+
+2013-05-30 06:56:06: Switching state: Scared
+
+2013-05-30 06:56:06.201000: Switching state: Scared
+
+2013-05-30 06:56:06.400000: Switching state: Scared
+
+2013-05-30 06:56:06.601000: Switching state: Scared
+
+2013-05-30 06:56:06.768000: Switching state: Scared
+
+2013-05-30 06:56:06.940000: Switching state: Scared
+
+2013-05-30 06:56:07.120000: Switching state: Scared
+
+2013-05-30 06:56:07.300000: Switching state: Scared
+
+2013-05-30 06:56:07.457000: Switching state: Scared
+
+2013-05-30 06:56:07.621000: Switching state: Scared
+
+2013-05-30 06:56:07.802000: Switching state: Scared
+
+2013-05-30 06:56:07.971000: Switching state: Scared
+
+2013-05-30 06:56:08.175000: Switching state: Scared
+
+2013-05-30 06:56:08.376000: Switching state: Scared
+
+2013-05-30 06:56:08.582000: Switching state: Scared
+
+2013-05-30 06:56:08.788000: Switching state: Scared
+
+2013-05-30 06:56:08.979000: Switching state: Scared
+
+2013-05-30 06:56:09.210000: Switching state: Scared
+
+2013-05-30 06:56:09.409000: Switching state: Scared
+
+2013-05-30 06:56:09.609000: Switching state: Scared
+
+2013-05-30 06:56:09.816000: Switching state: Scared
+
+2013-05-30 06:56:10.016000: Switching state: Scared
+
+2013-05-30 06:56:10.210000: Switching state: Scared
+
+2013-05-30 06:56:10.410000: Switching state: Scared
+
+2013-05-30 06:56:10.612000: Switching state: Scared
+
+2013-05-30 06:56:10.846000: Switching state: Scared
+
+2013-05-30 06:56:11.051000: Switching state: Scared
+
+2013-05-30 06:56:11.249000: Switching state: Scared
+
+2013-05-30 06:56:11.424000: Switching state: Scared
+
+2013-05-30 06:56:11.610000: Switching state: Scared
+
+2013-05-30 06:56:11.807000: Switching state: Scared
+
+2013-05-30 06:56:12.008000: Switching state: Scared
+
+2013-05-30 06:56:12.208000: Switching state: Scared
+
+2013-05-30 06:56:12.412000: Switching state: Scared
+
+2013-05-30 06:56:12.606000: Switching state: Scared
+
+2013-05-30 06:56:12.797000: Switching state: Scared
+
+2013-05-30 06:56:12.983000: Switching state: Scared
+
+2013-05-30 06:56:13.177000: Switching state: Scared
+
+2013-05-30 06:56:13.375000: Switching state: Scared
+
+2013-05-30 06:56:13.551000: Switching state: Scared
+
+2013-05-30 06:56:13.759000: Switching state: Scared
+
+2013-05-30 06:56:13.958000: Switching state: Scared
+
+2013-05-30 06:56:14.146000: Switching state: Scared
+
+2013-05-30 06:56:14.348000: Switching state: Scared
+
+2013-05-30 06:56:14.555000: Switching state: Scared
+
+2013-05-30 06:56:14.750000: Switching state: Scared
+
+2013-05-30 06:56:14.984000: Switching state: Scared
+
+2013-05-30 06:56:15.220000: Switching state: Scared
+
+2013-05-30 06:56:15.452000: Switching state: Scared
+
+2013-05-30 06:56:15.687000: Switching state: Scared
+
+2013-05-30 06:56:15.879000: Switching state: Scared
+
+2013-05-30 06:56:16.122000: Switching state: Scared
+
+2013-05-30 06:56:16.326000: Switching state: Scared
+
+2013-05-30 06:56:16.516000: Switching state: Scared
+
+2013-05-30 06:56:16.754000: Switching state: Scared
+
+2013-05-30 06:56:16.984000: Switching state: Scared
+
+2013-05-30 06:56:17.186000: Switching state: Scared
+
+2013-05-30 06:56:17.390000: Switching state: Scared
+
+2013-05-30 06:56:17.587000: Switching state: Scared
+
+2013-05-30 06:56:17.787000: Switching state: Scared
+
+2013-05-30 06:56:18.070000: Switching state: Scared
+
+2013-05-30 06:56:18.298000: Switching state: Scared
+
+2013-05-30 06:56:18.491000: Switching state: Scared
+
+2013-05-30 06:56:18.711000: Switching state: Scared
+
+2013-05-30 06:56:18.913000: Switching state: Scared
+
+2013-05-30 06:56:19.120000: Switching state: Scared
+
+2013-05-30 06:56:19.320000: Switching state: Scared
+
+2013-05-30 06:56:19.519000: Switching state: Scared
+
+2013-05-30 06:56:19.715000: Switching state: Scared
+
+2013-05-30 06:56:19.998000: Switching state: Scared
+
+2013-05-30 06:56:20.263000: Switching state: Scared
+
+2013-05-30 06:56:20.482000: Switching state: Scared
+
+2013-05-30 06:56:20.731000: Switching state: Scared
+
+2013-05-30 06:56:20.970000: Switching state: Scared
+
+2013-05-30 06:56:21.203000: Switching state: Scared
+
+2013-05-30 06:56:21.435000: Switching state: Scared
+
+2013-05-30 06:56:21.700000: Switching state: Scared
+
+2013-05-30 06:56:21.936000: Switching state: Scared
+
+2013-05-30 06:56:22.225000: Switching state: Scared
+
+2013-05-30 06:56:22.505000: Switching state: Scared
+
+2013-05-30 06:56:22.770000: Switching state: Scared
+
+2013-05-30 06:56:22.993000: Switching state: Scared
+
+2013-05-30 06:56:23.254000: Switching state: Scared
+
+2013-05-30 06:56:23.456000: Switching state: Scared
+
+2013-05-30 06:56:23.692000: Switching state: Scared
+
+2013-05-30 06:56:23.925000: Switching state: Scared
+
+2013-05-30 06:56:24.162000: Switching state: Scared
+
+2013-05-30 06:56:24.369000: Switching state: Scared
+
+2013-05-30 06:56:24.567000: Switching state: Scared
+
+2013-05-30 06:56:24.786000: Switching state: Scared
+
+2013-05-30 06:56:25.011000: Switching state: Scared
+
+2013-05-30 06:56:25.255000: Switching state: Scared
+
+2013-05-30 06:56:25.495000: Switching state: Scared
+
+2013-05-30 06:56:25.731000: Switching state: Scared
+
+2013-05-30 06:56:25.921000: Switching state: Scared
+
+2013-05-30 06:56:26.127000: Switching state: Scared
+
+2013-05-30 06:56:26.355000: Switching state: Scared
+
+2013-05-30 06:56:26.555000: Switching state: Scared
+
+2013-05-30 06:56:26.751000: Switching state: Scared
+
+2013-05-30 06:56:26.953000: Switching state: Scared
+
+2013-05-30 06:56:27.155000: Switching state: Scared
+
+2013-05-30 06:56:27.391000: Switching state: Scared
+
+2013-05-30 06:56:27.606000: Switching state: Scared
+
+2013-05-30 06:56:27.832000: Switching state: Scared
+
+2013-05-30 06:56:28.038000: Switching state: Scared
+
+2013-05-30 06:56:28.256000: Switching state: Scared
+
+2013-05-30 06:56:28.456000: Switching state: Scared
+
+2013-05-30 06:56:28.655000: Switching state: Scared
+
+2013-05-30 06:56:28.857000: Switching state: Scared
+
+2013-05-30 06:56:29.057000: Switching state: Scared
+
+2013-05-30 06:56:29.260000: Switching state: Scared
+
+2013-05-30 06:56:29.456000: Switching state: Scared
+
+2013-05-30 06:56:29.657000: Switching state: Scared
+
+2013-05-30 06:56:29.858000: Switching state: Scared
+
+2013-05-30 06:56:30.058000: Switching state: Scared
+
+2013-05-30 06:56:30.315000: Switching state: Scared
+
+2013-05-30 06:56:30.519000: Switching state: Scared
+
+2013-05-30 06:56:30.769000: Switching state: Scared
+
+2013-05-30 06:56:30.976000: Switching state: Scared
+
+2013-05-30 06:56:31.239000: Switching state: Scared
+
+2013-05-30 06:56:31.472000: Switching state: Scared
+
+2013-05-30 06:56:31.706000: Switching state: Scared
+
+2013-05-30 06:56:31.941000: Switching state: Scared
+
+2013-05-30 06:56:32.180000: Switching state: Scared
+
+2013-05-30 06:56:32.408000: Switching state: Scared
+
+2013-05-30 06:56:32.647000: Switching state: Scared
+
+2013-05-30 06:56:32.877000: Switching state: Scared
+
+2013-05-30 06:56:33.154000: Switching state: Scared
+
+2013-05-30 06:56:33.462000: Switching state: Scared
+
+2013-05-30 06:56:33.713000: Switching state: Scared
+
+2013-05-30 06:56:33.960000: Switching state: Scared
+
+2013-05-30 06:56:34.247000: Switching state: Scared
+
+2013-05-30 06:56:34.484000: Switching state: Scared
+
+2013-05-30 06:56:34.750000: Switching state: Scared
+
+2013-05-30 06:56:34.988000: Switching state: Scared
+
+2013-05-30 06:56:35.224000: Switching state: Scared
+
+2013-05-30 06:56:35.449000: Switching state: Scared
+
+2013-05-30 06:56:35.684000: Switching state: Scared
+
+2013-05-30 06:56:35.919000: Switching state: Scared
+
+2013-05-30 06:56:36.188000: Switching state: Scared
+
+2013-05-30 06:56:36.457000: Switching state: Scared
+
+2013-05-30 06:56:36.681000: Switching state: Scared
+
+2013-05-30 06:56:36.924000: Switching state: Scared
+
+2013-05-30 06:56:37.187000: Switching state: Scared
+
+2013-05-30 06:56:37.463000: Switching state: Scared
+
+2013-05-30 06:56:37.755000: Switching state: Scared
+
+2013-05-30 06:56:38.027000: Switching state: Scared
+
+2013-05-30 06:56:38.287000: Switching state: Scared
+
+2013-05-30 06:56:38.531000: Switching state: Scared
+
+2013-05-30 06:56:38.733000: Switching state: Scared
+
+2013-05-30 06:56:38.926000: Switching state: Scared
+
+2013-05-30 06:56:39.070000: Switching state: Scared
+
+2013-05-30 06:57:05.119000: Starting.
+
+2013-05-30 06:57:08.630000: Switching state: Scared
+
+2013-05-30 06:57:08.835000: Switching state: Scared
+
+2013-05-30 06:57:09.031000: Switching state: Scared
+
+2013-05-30 06:57:09.234000: Switching state: Scared
+
+2013-05-30 06:57:09.448000: Switching state: Scared
+
+2013-05-30 06:57:09.637000: Switching state: Scared
+
+2013-05-30 06:57:09.837000: Switching state: Scared
+
+2013-05-30 06:57:10.035000: Switching state: Scared
+
+2013-05-30 06:57:10.232000: Switching state: Scared
+
+2013-05-30 06:57:10.436000: Switching state: Scared
+
+2013-05-30 06:57:10.637000: Switching state: Scared
+
+2013-05-30 06:57:10.838000: Switching state: Scared
+
+2013-05-30 06:57:11.038000: Switching state: Scared
+
+2013-05-30 06:57:11.237000: Switching state: Scared
+
+2013-05-30 06:57:11.437000: Switching state: Scared
+
+2013-05-30 06:57:11.638000: Switching state: Scared
+
+2013-05-30 06:57:11.842000: Switching state: Scared
+
+2013-05-30 06:57:12.076000: Switching state: Scared
+
+2013-05-30 06:57:12.269000: Switching state: Scared
+
+2013-05-30 06:57:12.470000: Switching state: Scared
+
+2013-05-30 06:57:12.676000: Switching state: Scared
+
+2013-05-30 06:57:12.874000: Switching state: Scared
+
+2013-05-30 06:57:13.070000: Switching state: Scared
+
+2013-05-30 06:57:13.307000: Switching state: Scared
+
+2013-05-30 06:57:13.507000: Switching state: Scared
+
+2013-05-30 06:57:13.707000: Switching state: Scared
+
+2013-05-30 06:57:13.903000: Switching state: Scared
+
+2013-05-30 06:57:14.103000: Switching state: Scared
+
+2013-05-30 06:57:14.338000: Switching state: Scared
+
+2013-05-30 06:57:14.544000: Switching state: Scared
+
+2013-05-30 06:57:14.738000: Switching state: Scared
+
+2013-05-30 06:57:14.946000: Switching state: Scared
+
+2013-05-30 06:57:15.150000: Switching state: Scared
+
+2013-05-30 06:57:15.404000: Switching state: Scared
+
+2013-05-30 06:57:15.644000: Switching state: Scared
+
+2013-05-30 06:57:15.839000: Switching state: Scared
+
+2013-05-30 06:57:16.042000: Switching state: Scared
+
+2013-05-30 06:57:16.268000: Switching state: Scared
+
+2013-05-30 06:57:16.470000: Switching state: Scared
+
+2013-05-30 06:57:16.673000: Switching state: Scared
+
+2013-05-30 06:57:16.871000: Switching state: Scared
+
+2013-05-30 06:57:17.075000: Switching state: Scared
+
+2013-05-30 06:57:17.309000: Switching state: Scared
+
+2013-05-30 06:57:17.508000: Switching state: Scared
+
+2013-05-30 06:57:17.710000: Switching state: Scared
+
+2013-05-30 06:57:17.906000: Switching state: Scared
+
+2013-05-30 06:57:18.112000: Switching state: Scared
+
+2013-05-30 06:57:18.343000: Switching state: Scared
+
+2013-05-30 06:57:18.546000: Switching state: Scared
+
+2013-05-30 06:57:18.744000: Switching state: Scared
+
+2013-05-30 06:57:18.921000: Switching state: Scared
+
+2013-05-30 06:57:19.111000: Switching state: Scared
+
+2013-05-30 06:57:19.335000: Switching state: Scared
+
+2013-05-30 06:57:19.559000: Switching state: Scared
+
+2013-05-30 06:57:19.781000: Switching state: Scared
+
+2013-05-30 06:57:19.986000: Switching state: Scared
+
+2013-05-30 06:57:20.234000: Switching state: Scared
+
+2013-05-30 06:57:20.486000: Switching state: Scared
+
+2013-05-30 06:57:20.689000: Switching state: Scared
+
+2013-05-30 06:57:20.944000: Switching state: Scared
+
+2013-05-30 06:57:21.046000: Switching state: Scared
+
+2013-05-30 06:57:21.149000: Switching state: Scared
+
+2013-05-30 06:57:21.246000: Switching state: Scared
+
+2013-05-30 06:58:03.309000: Starting.
+
+2013-05-30 06:58:10.293000: Switching state: Scared
+
+2013-05-30 06:58:10.493000: Switching state: Scared
+
+2013-05-30 06:58:10.690000: Switching state: Scared
+
+2013-05-30 06:58:10.889000: Switching state: Scared
+
+2013-05-30 06:58:11.091000: Switching state: Scared
+
+2013-05-30 06:58:11.296000: Switching state: Scared
+
+2013-05-30 06:58:11.497000: Switching state: Scared
+
+2013-05-30 06:58:11.694000: Switching state: Scared
+
+2013-05-30 06:58:11.919000: Switching state: Scared
+
+2013-05-30 06:58:12.159000: Switching state: Scared
+
+2013-05-30 06:58:12.401000: Switching state: Scared
+
+2013-05-30 06:58:12.598000: Switching state: Scared
+
+2013-05-30 06:58:12.804000: Switching state: Scared
+
+2013-05-30 06:58:12.999000: Switching state: Scared
+
+2013-05-30 06:58:13.271000: Switching state: Scared
+
+2013-05-30 06:58:13.499000: Switching state: Scared
+
+2013-05-30 06:58:13.765000: Switching state: Scared
+
+2013-05-30 06:58:14.006000: Switching state: Scared
+
+2013-05-30 06:58:14.200000: Switching state: Scared
+
+2013-05-30 06:58:14.402000: Switching state: Scared
+
+2013-05-30 06:58:14.601000: Switching state: Scared
+
+2013-05-30 06:58:14.811000: Switching state: Scared
+
+2013-05-30 06:58:15.032000: Switching state: Scared
+
+2013-05-30 06:58:15.232000: Switching state: Scared
+
+2013-05-30 06:58:15.429000: Switching state: Scared
+
+2013-05-30 06:58:15.636000: Switching state: Scared
+
+2013-05-30 06:58:15.843000: Switching state: Scared
+
+2013-05-30 06:58:16.037000: Switching state: Scared
+
+2013-05-30 06:58:16.233000: Switching state: Scared
+
+2013-05-30 06:58:16.433000: Switching state: Scared
+
+2013-05-30 06:58:16.632000: Switching state: Scared
+
+2013-05-30 06:58:16.842000: Switching state: Scared
+
+2013-05-30 06:58:17.035000: Switching state: Scared
+
+2013-05-30 06:58:17.297000: Switching state: Scared
+
+2013-05-30 06:58:17.501000: Switching state: Scared
+
+2013-05-30 06:58:17.699000: Switching state: Scared
+
+2013-05-30 06:58:17.901000: Switching state: Scared
+
+2013-05-30 06:58:18.102000: Switching state: Scared
+
+2013-05-30 06:58:18.341000: Switching state: Scared
+
+2013-05-30 06:58:18.534000: Switching state: Scared
+
+2013-05-30 06:58:18.736000: Switching state: Scared
+
+2013-05-30 06:58:18.940000: Switching state: Scared
+
+2013-05-30 06:58:19.136000: Switching state: Scared
+
+2013-05-30 06:58:19.378000: Switching state: Scared
+
+2013-05-30 06:58:19.567000: Switching state: Scared
+
+2013-05-30 06:58:19.767000: Switching state: Scared
+
+2013-05-30 06:58:20.003000: Switching state: Scared
+
+2013-05-30 06:58:20.202000: Switching state: Scared
+
+2013-05-30 06:58:20.441000: Switching state: Scared
+
+2013-05-30 06:58:20.646000: Switching state: Scared
+
+2013-05-30 06:58:20.847000: Switching state: Scared
+
+2013-05-30 06:58:21.033000: Switching state: Scared
+
+2013-05-30 06:58:21.224000: Switching state: Scared
+
+2013-05-30 06:58:21.390000: Switching state: Scared
+
+2013-05-30 06:58:21.558000: Switching state: Scared
+
+2013-05-30 06:58:21.727000: Switching state: Scared
+
+2013-05-30 06:58:21.894000: Switching state: Scared
+
+2013-05-30 06:58:22.054000: Switching state: Scared
+
+2013-05-30 06:58:22.230000: Switching state: Scared
+
+2013-05-30 06:58:22.387000: Switching state: Scared
+
+2013-05-30 06:58:22.526000: Switching state: Scared
+
+2013-05-30 06:58:22.656000: Switching state: Scared
+
+2013-05-30 06:58:22.788000: Switching state: Scared
+
+2013-05-30 06:58:22.924000: Switching state: Scared
+
+2013-05-30 06:58:23.056000: Switching state: Scared
+
+2013-05-30 06:58:23.205000: Switching state: Scared
+
+2013-05-30 06:58:23.389000: Switching state: Scared
+
+2013-05-30 06:58:23.532000: Switching state: Scared
+
+2013-05-30 06:58:23.690000: Switching state: Scared
+
+2013-05-30 06:58:23.826000: Switching state: Scared
+
+2013-05-30 06:58:23.985000: Switching state: Scared
+
+2013-05-30 06:58:24.126000: Switching state: Scared
+
+2013-05-30 06:58:24.255000: Switching state: Scared
+
+2013-05-30 06:58:24.387000: Switching state: Scared
+
+2013-05-30 06:58:24.526000: Switching state: Scared
+
+2013-05-30 06:58:24.651000: Switching state: Scared
+
+2013-05-30 06:58:24.792000: Switching state: Scared
+
+2013-05-30 06:58:24.928000: Switching state: Scared
+
+2013-05-30 06:58:25.058000: Switching state: Scared
+
+2013-05-30 06:58:25.191000: Switching state: Scared
+
+2013-05-30 06:58:25.333000: Switching state: Scared
+
+2013-05-30 06:58:25.493000: Switching state: Scared
+
+2013-05-30 06:58:25.631000: Switching state: Scared
+
+2013-05-30 06:58:25.790000: Switching state: Scared
+
+2013-05-30 06:58:25.919000: Switching state: Scared
+
+2013-05-30 06:58:26.059000: Switching state: Scared
+
+2013-05-30 06:58:26.188000: Switching state: Scared
+
+2013-05-30 06:58:26.369000: Switching state: Scared
+
+2013-05-30 06:58:26.525000: Switching state: Scared
+
+2013-05-30 06:58:26.659000: Switching state: Scared
+
+2013-05-30 06:58:26.797000: Switching state: Scared
+
+2013-05-30 06:58:26.960000: Switching state: Scared
+
+2013-05-30 06:58:27.127000: Switching state: Scared
+
+2013-05-30 06:58:27.246000: Switching state: Scared
+
+2013-05-30 06:58:27.421000: Switching state: Scared
+
+2013-05-30 06:58:27.594000: Switching state: Scared
+
+2013-05-30 06:58:27.728000: Switching state: Scared
+
+2013-05-30 06:58:27.896000: Switching state: Scared
+
+2013-05-30 06:58:28.061000: Switching state: Scared
+
+2013-05-30 06:58:28.232000: Switching state: Scared
+
+2013-05-30 06:58:28.412000: Switching state: Scared
+
+2013-05-30 06:58:28.607000: Switching state: Scared
+
+2013-05-30 06:58:28.768000: Switching state: Scared
+
+2013-05-30 06:58:28.963000: Switching state: Scared
+
+2013-05-30 06:58:29.144000: Switching state: Scared
+
+2013-05-30 06:58:29.347000: Switching state: Scared
+
+2013-05-30 06:58:29.519000: Switching state: Scared
+
+2013-05-30 06:58:29.707000: Switching state: Scared
+
+2013-05-30 06:58:29.866000: Switching state: Scared
+
+2013-05-30 06:58:30.027000: Switching state: Scared
+
+2013-05-30 06:58:30.163000: Switching state: Scared
+
+2013-05-30 06:58:30.292000: Switching state: Scared
+
+2013-05-30 06:58:30.417000: Switching state: Scared
+
+2013-05-30 06:58:30.524000: Switching state: Scared
+
+2013-05-30 06:58:30.711000: Switching state: Scared
+
+2013-05-30 06:58:30.812000: Switching state: Scared
+
+2013-05-30 06:58:30.912000: Switching state: Scared
+
+2013-05-30 06:58:31.012000: Switching state: Scared
+
+2013-05-30 06:58:31.118000: Switching state: Scared
+
+2013-05-30 06:58:31.215000: Switching state: Scared
+
+2013-05-30 06:58:31.316000: Switching state: Scared
+
+2013-05-30 06:58:31.411000: Switching state: Scared
+
+2013-05-30 06:58:31.515000: Switching state: Scared
+
+2013-05-30 06:58:31.616000: Switching state: Scared
+
+2013-05-30 06:58:31.710000: Switching state: Scared
+
+2013-05-30 06:58:31.812000: Switching state: Scared
+
+2013-05-30 06:58:31.910000: Switching state: Scared
+
+2013-05-30 06:58:32.012000: Switching state: Scared
+
+2013-05-30 06:58:32.115000: Switching state: Scared
+
+2013-05-30 06:58:32.213000: Switching state: Scared
+
+2013-05-30 06:58:32.312000: Switching state: Scared
+
+2013-05-30 06:58:32.410000: Switching state: Scared
+
+2013-05-30 06:58:32.512000: Switching state: Scared
+
+2013-05-30 06:58:32.617000: Switching state: Scared
+
+2013-05-30 06:59:37.305000: Starting.
+
+2013-05-30 06:59:40.431000: Switching state: Hopeful
+
+2013-05-30 06:59:43.215000: Switching state: Scared
+
+2013-05-30 06:59:43.413000: Switching state: Scared
+
+2013-05-30 06:59:43.609000: Switching state: Scared
+
+2013-05-30 06:59:43.810000: Switching state: Scared
+
+2013-05-30 06:59:44.013000: Switching state: Scared
+
+2013-05-30 06:59:44.217000: Switching state: Scared
+
+2013-05-30 06:59:44.412000: Switching state: Scared
+
+2013-05-30 06:59:44.614000: Switching state: Scared
+
+2013-05-30 06:59:44.814000: Switching state: Scared
+
+2013-05-30 06:59:45.011000: Switching state: Scared
+
+2013-05-30 06:59:45.179000: Switching state: Scared
+
+2013-05-30 06:59:45.470000: Switching state: Scared
+
+2013-05-30 06:59:45.613000: Switching state: Scared
+
+2013-05-30 06:59:45.776000: Switching state: Scared
+
+2013-05-30 06:59:45.939000: Switching state: Scared
+
+2013-05-30 06:59:46.103000: Switching state: Scared
+
+2013-05-30 06:59:46.239000: Switching state: Scared
+
+2013-05-30 06:59:46.374000: Switching state: Scared
+
+2013-05-30 06:59:46.532000: Switching state: Scared
+
+2013-05-30 06:59:46.672000: Switching state: Scared
+
+2013-05-30 06:59:46.854000: Switching state: Scared
+
+2013-05-30 06:59:47.003000: Switching state: Scared
+
+2013-05-30 06:59:47.177000: Switching state: Scared
+
+2013-05-30 06:59:47.338000: Switching state: Scared
+
+2013-05-30 06:59:47.464000: Switching state: Scared
+
+2013-05-30 06:59:47.605000: Switching state: Scared
+
+2013-05-30 06:59:47.747000: Switching state: Scared
+
+2013-05-30 06:59:47.903000: Switching state: Scared
+
+2013-05-30 06:59:48.039000: Switching state: Scared
+
+2013-05-30 06:59:48.203000: Switching state: Scared
+
+2013-05-30 06:59:48.346000: Switching state: Scared
+
+2013-05-30 06:59:48.485000: Switching state: Scared
+
+2013-05-30 06:59:48.638000: Switching state: Scared
+
+2013-05-30 06:59:48.772000: Switching state: Scared
+
+2013-05-30 06:59:48.907000: Switching state: Scared
+
+2013-05-30 06:59:49.036000: Switching state: Scared
+
+2013-05-30 06:59:49.209000: Switching state: Scared
+
+2013-05-30 06:59:49.371000: Switching state: Scared
+
+2013-05-30 06:59:49.524000: Switching state: Scared
+
+2013-05-30 06:59:49.680000: Switching state: Scared
+
+2013-05-30 06:59:49.840000: Switching state: Scared
+
+2013-05-30 06:59:49.974000: Switching state: Scared
+
+2013-05-30 06:59:50.111000: Switching state: Scared
+
+2013-05-30 06:59:50.247000: Switching state: Scared
+
+2013-05-30 06:59:50.374000: Switching state: Scared
+
+2013-05-30 06:59:50.505000: Switching state: Scared
+
+2013-05-30 06:59:50.641000: Switching state: Scared
+
+2013-05-30 06:59:50.780000: Switching state: Scared
+
+2013-05-30 06:59:50.941000: Switching state: Scared
+
+2013-05-30 06:59:51.105000: Switching state: Scared
+
+2013-05-30 06:59:51.245000: Switching state: Scared
+
+2013-05-30 06:59:51.383000: Switching state: Scared
+
+2013-05-30 06:59:51.544000: Switching state: Scared
+
+2013-05-30 06:59:51.705000: Switching state: Scared
+
+2013-05-30 06:59:51.842000: Switching state: Scared
+
+2013-05-30 06:59:51.973000: Switching state: Scared
+
+2013-05-30 06:59:52.102000: Switching state: Scared
+
+2013-05-30 06:59:52.241000: Switching state: Scared
+
+2013-05-30 06:59:52.375000: Switching state: Scared
+
+2013-05-30 06:59:52.507000: Switching state: Scared
+
+2013-05-30 06:59:52.643000: Switching state: Scared
+
+2013-05-30 06:59:52.774000: Switching state: Scared
+
+2013-05-30 06:59:52.913000: Switching state: Scared
+
+2013-05-30 06:59:53.041000: Switching state: Scared
+
+2013-05-30 06:59:53.177000: Switching state: Scared
+
+2013-05-30 06:59:53.346000: Switching state: Scared
+
+2013-05-30 06:59:53.483000: Switching state: Scared
+
+2013-05-30 06:59:53.620000: Switching state: Scared
+
+2013-05-30 06:59:53.751000: Switching state: Scared
+
+2013-05-30 06:59:53.888000: Switching state: Scared
+
+2013-05-30 06:59:54.013000: Switching state: Scared
+
+2013-05-30 06:59:54.176000: Switching state: Scared
+
+2013-05-30 06:59:54.319000: Switching state: Scared
+
+2013-05-30 06:59:54.442000: Switching state: Scared
+
+2013-05-30 06:59:54.557000: Switching state: Scared
+
+2013-05-30 06:59:54.715000: Switching state: Scared
+
+2013-05-30 06:59:54.906000: Switching state: Scared
+
+2013-05-30 06:59:55.082000: Switching state: Scared
+
+2013-05-30 06:59:55.251000: Switching state: Scared
+
+2013-05-30 06:59:55.415000: Switching state: Scared
+
+2013-05-30 06:59:55.582000: Switching state: Scared
+
+2013-05-30 06:59:55.751000: Switching state: Scared
+
+2013-05-30 06:59:55.924000: Switching state: Scared
+
+2013-05-30 06:59:56.125000: Switching state: Scared
+
+2013-05-30 06:59:56.357000: Switching state: Scared
+
+2013-05-30 06:59:56.597000: Switching state: Scared
+
+2013-05-30 06:59:56.841000: Switching state: Scared
+
+2013-05-30 06:59:56.981000: Switching state: Scared
+
+2013-05-30 06:59:57.097000: Switching state: Scared
+
+2013-05-30 06:59:57.195000: Switching state: Scared
+
+2013-05-30 07:01:03.714000: Starting.
+
+2013-05-30 07:01:06.988000: Switching state: Hopeful
+
+2013-05-30 07:01:08.163000: Switching state: Scared
+
+2013-05-30 07:01:08.370000: Switching state: Scared
+
+2013-05-30 07:01:08.585000: Switching state: Scared
+
+2013-05-30 07:01:08.817000: Switching state: Scared
+
+2013-05-30 07:01:09.063000: Switching state: Scared
+
+2013-05-30 07:01:09.370000: Switching state: Scared
+
+2013-05-30 07:01:09.637000: Switching state: Scared
+
+2013-05-30 07:01:09.986000: Switching state: Hopeful
+
+2013-05-30 07:01:17.433000: Switching state: Choices
+
+2013-05-30 07:01:21.232000: Switching state: Joke
+
+2013-05-30 07:01:49.738000: Starting.
+
+2013-05-30 07:01:55.463000: Switching state: Hopeful
+
+2013-05-30 07:01:59.036000: Switching state: Why
+
+2013-05-30 07:02:06.320000: Switching state: Choices
+
+2013-05-30 07:02:10.279000: Switching state: Joke
+
+2013-05-30 07:02:12.963000: Switching state: Scared
+
+2013-05-30 07:02:13.169000: Switching state: Scared
+
+2013-05-30 07:02:13.406000: Switching state: Scared
+
+2013-05-30 07:02:13.678000: Switching state: Scared
+
+2013-05-30 07:02:13.876000: Switching state: Scared
+
+2013-05-30 07:02:14.065000: Switching state: Scared
+
+2013-05-30 07:02:14.266000: Switching state: Scared
+
+2013-05-30 07:02:14.419000: Switching state: Scared
+
+2013-05-30 07:02:14.579000: Switching state: Scared
+
+2013-05-30 07:02:14.730000: Switching state: Scared
+
+2013-05-30 07:02:14.918000: Switching state: Scared
+
+2013-05-30 07:02:15.080000: Switching state: Joke
+
+2013-05-30 07:02:24.190000: Switching state: Sad
+
+2013-05-30 07:02:29.296000: Switching state: Lonely
+
+2013-05-30 07:02:29.439000: Switching state: Hopeful
+
+2013-05-30 07:02:30.915000: Switching state: Scared
+
+2013-05-30 07:02:31.120000: Switching state: Scared
+
+2013-05-30 07:02:31.325000: Switching state: Scared
+
+2013-05-30 07:02:31.525000: Switching state: Scared
+
+2013-05-30 07:02:31.741000: Switching state: Scared
+
+2013-05-30 07:02:31.911000: Switching state: Scared
+
+2013-05-30 07:02:32.115000: Switching state: Hopeful
+
+2013-05-30 07:19:14.017000: Starting.
+
+2013-05-30 07:19:37.725000: Switching state: Hopeful
+
+2013-05-30 07:20:17.935000: Starting.
+
+2013-05-30 07:20:24.552000: Switching state: Hopeful
+
+2013-05-30 07:20:29.551000: Switching state: Sad
+
+2013-05-30 07:20:34.647000: Switching state: Lonely
+
+2013-05-30 07:20:34.865000: Switching state: Hopeful
+
+2013-05-30 07:20:44.207000: Switching state: Choices
+
+2013-05-30 07:20:48.074000: Switching state: Happy
+
+2013-05-30 07:20:51.242000: Switching state: Lonely
+
+2013-05-30 07:20:51.504000: Switching state: Hopeful
+
+2013-05-30 07:20:58.895000: Switching state: Why
+
+2013-05-30 07:21:05.699000: Switching state: Scared
+
+2013-05-30 07:21:05.898000: Switching state: Scared
+
+2013-05-30 07:21:06.159000: Switching state: Scared
+
+2013-05-30 07:21:06.405000: Switching state: Scared
+
+2013-05-30 07:21:06.646000: Switching state: Scared
+
+2013-05-30 07:21:06.849000: Switching state: Scared
+
+2013-05-30 07:21:07.025000: Switching state: Scared
+
+2013-05-30 07:21:07.277000: Switching state: Scared
+
+2013-05-30 07:21:07.711000: Switching state: Why
+
+2013-05-30 07:21:12.713000: Switching state: Sad
+
+2013-05-30 07:21:15.816000: Switching state: Scared
+
+2013-05-30 07:21:16.105000: Switching state: Scared
+
+2013-05-30 07:21:16.426000: Switching state: Scared
+
+2013-05-30 07:21:16.655000: Switching state: Scared
+
+2013-05-30 07:21:16.911000: Switching state: Scared
+
+2013-05-30 07:21:17.197000: Switching state: Scared
+
+2013-05-30 07:21:17.486000: Switching state: Scared
+
+2013-05-30 07:21:18.047000: Switching state: Sad
+
+2013-05-30 07:21:18.567000: Switching state: Scared
+
+2013-05-30 07:21:18.929000: Switching state: Scared
+
+2013-05-30 07:21:19.260000: Switching state: Scared
+
+2013-05-30 07:21:19.513000: Switching state: Scared
+
+2013-05-30 07:21:19.728000: Switching state: Scared
+
+2013-05-30 07:21:19.882000: Switching state: Scared
+
+2013-05-30 07:21:19.977000: Switching state: Sad
+
+2013-05-30 07:21:25.096000: Switching state: Lonely
+
+2013-05-30 07:21:25.288000: Switching state: Hopeful
+
+2013-05-30 07:21:30.319000: Switching state: Sad
+
+2013-05-30 07:21:35.416000: Switching state: Lonely
+
+2013-05-30 07:21:38.987000: Switching state: Hopeful
+
+2013-05-30 07:21:43.997000: Switching state: Sad
+
+2013-05-30 07:21:49.070000: Switching state: Lonely
+
+2013-05-30 07:22:07.067000: Switching state: Hopeful
+
+2013-05-30 07:22:09.129000: Switching state: Scared
+
+2013-05-30 07:22:09.388000: Switching state: Scared
+
+2013-05-30 07:22:09.593000: Switching state: Scared
+
+2013-05-30 07:22:09.813000: Switching state: Scared
+
+2013-05-30 07:22:10.083000: Switching state: Scared
+
+2013-05-30 07:22:10.333000: Switching state: Scared
+
+2013-05-30 07:22:10.608000: Switching state: Scared
+
+2013-05-30 07:22:10.854000: Switching state: Scared
+
+2013-05-30 07:22:11.048000: Switching state: Scared
+
+2013-05-30 07:22:11.328000: Switching state: Scared
+
+2013-05-30 07:22:11.570000: Switching state: Scared
+
+2013-05-30 07:22:11.811000: Switching state: Scared
+
+2013-05-30 07:22:12.004000: Switching state: Scared
+
+2013-05-30 07:22:12.249000: Switching state: Scared
+
+2013-05-30 07:22:12.516000: Switching state: Scared
+
+2013-05-30 07:22:12.710000: Switching state: Scared
+
+2013-05-30 07:22:12.933000: Switching state: Scared
+
+2013-05-30 07:22:13.200000: Switching state: Scared
+
+2013-05-30 07:22:13.431000: Switching state: Scared
+
+2013-05-30 07:22:13.644000: Switching state: Scared
+
+2013-05-30 07:22:13.867000: Switching state: Scared
+
+2013-05-30 07:22:14.069000: Switching state: Scared
+
+2013-05-30 07:22:14.288000: Switching state: Scared
+
+2013-05-30 07:22:14.540000: Switching state: Scared
+
+2013-05-30 07:22:14.767000: Switching state: Scared
+
+2013-05-30 07:22:15.005000: Switching state: Scared
+
+2013-05-30 07:22:15.266000: Switching state: Scared
+
+2013-05-30 07:22:15.498000: Switching state: Scared
+
+2013-05-30 07:22:15.728000: Switching state: Scared
+
+2013-05-30 07:22:15.970000: Switching state: Scared
+
+2013-05-30 07:22:16.262000: Switching state: Scared
+
+2013-05-30 07:22:16.523000: Switching state: Scared
+
+2013-05-30 07:22:16.821000: Switching state: Scared
+
+2013-05-30 07:22:17.076000: Switching state: Scared
+
+2013-05-30 07:22:17.292000: Switching state: Scared
+
+2013-05-30 07:22:17.491000: Switching state: Scared
+
+2013-05-30 07:22:17.698000: Switching state: Scared
+
+2013-05-30 07:22:17.922000: Switching state: Scared
+
+2013-05-30 07:22:18.167000: Switching state: Scared
+
+2013-05-30 07:22:18.378000: Switching state: Scared
+
+2013-05-30 07:22:18.573000: Switching state: Scared
+
+2013-05-30 07:22:18.770000: Switching state: Scared
+
+2013-05-30 07:22:18.966000: Switching state: Scared
+
+2013-05-30 07:22:19.170000: Switching state: Scared
+
+2013-05-30 07:22:19.401000: Switching state: Scared
+
+2013-05-30 07:22:19.638000: Switching state: Scared
+
+2013-05-30 07:22:19.836000: Switching state: Scared
+
+2013-05-30 07:22:20.038000: Switching state: Scared
+
+2013-05-30 07:22:20.270000: Switching state: Scared
+
+2013-05-30 07:22:20.474000: Switching state: Scared
+
+2013-05-30 07:22:20.664000: Switching state: Scared
+
+2013-05-30 07:22:20.868000: Switching state: Scared
+
+2013-05-30 07:22:21.071000: Switching state: Scared
+
+2013-05-30 07:22:21.275000: Switching state: Scared
+
+2013-05-30 07:22:21.470000: Switching state: Scared
+
+2013-05-30 07:22:21.722000: Switching state: Scared
+
+2013-05-30 07:22:21.993000: Switching state: Scared
+
+2013-05-30 07:22:22.333000: Switching state: Scared
+
+2013-05-30 07:22:22.569000: Switching state: Scared
+
+2013-05-30 07:22:22.803000: Switching state: Scared
+
+2013-05-30 07:22:23.001000: Switching state: Scared
+
+2013-05-30 07:22:23.207000: Switching state: Scared
+
+2013-05-30 07:22:23.436000: Switching state: Scared
+
+2013-05-30 07:22:23.638000: Switching state: Scared
+
+2013-05-30 07:22:23.837000: Switching state: Scared
+
+2013-05-30 07:22:24.042000: Switching state: Scared
+
+2013-05-30 07:22:24.287000: Switching state: Scared
+
+2013-05-30 07:22:24.507000: Switching state: Scared
+
+2013-05-30 07:22:24.771000: Switching state: Scared
+
+2013-05-30 07:22:25.019000: Switching state: Scared
+
+2013-05-30 07:22:25.315000: Switching state: Scared
+
+2013-05-30 07:22:25.532000: Switching state: Scared
+
+2013-05-30 07:22:25.772000: Switching state: Scared
+
+2013-05-30 07:22:26.023000: Switching state: Scared
+
+2013-05-30 07:22:26.319000: Switching state: Scared
+
+2013-05-30 07:22:26.587000: Switching state: Scared
+
+2013-05-30 07:22:26.843000: Switching state: Scared
+
+2013-05-30 07:22:27.048000: Switching state: Scared
+
+2013-05-30 07:22:27.252000: Switching state: Scared
+
+2013-05-30 07:22:27.440000: Switching state: Scared
+
+2013-05-30 07:22:27.653000: Switching state: Scared
+
+2013-05-30 07:22:27.876000: Switching state: Scared
+
+2013-05-30 07:22:28.077000: Switching state: Scared
+
+2013-05-30 07:22:28.283000: Switching state: Scared
+
+2013-05-30 07:22:28.504000: Switching state: Scared
+
+2013-05-30 07:22:28.781000: Switching state: Scared
+
+2013-05-30 07:22:29.006000: Switching state: Scared
+
+2013-05-30 07:22:29.226000: Switching state: Scared
+
+2013-05-30 07:22:29.449000: Switching state: Scared
+
+2013-05-30 07:22:29.651000: Switching state: Scared
+
+2013-05-30 07:22:29.860000: Switching state: Scared
+
+2013-05-30 07:22:30.082000: Switching state: Scared
+
+2013-05-30 07:22:30.337000: Switching state: Scared
+
+2013-05-30 07:22:30.573000: Switching state: Scared
+
+2013-05-30 07:22:30.784000: Switching state: Scared
+
+2013-05-30 07:22:31.042000: Switching state: Scared
+
+2013-05-30 07:22:31.259000: Switching state: Scared
+
+2013-05-30 07:22:31.445000: Switching state: Scared
+
+2013-05-30 07:22:31.649000: Switching state: Scared
+
+2013-05-30 07:22:31.882000: Switching state: Scared
+
+2013-05-30 07:22:32.106000: Switching state: Scared
+
+2013-05-30 07:22:32.337000: Switching state: Scared
+
+2013-05-30 07:22:32.538000: Switching state: Scared
+
+2013-05-30 07:22:32.750000: Switching state: Scared
+
+2013-05-30 07:22:32.986000: Switching state: Scared
+
+2013-05-30 07:22:33.242000: Switching state: Scared
+
+2013-05-30 07:22:33.452000: Switching state: Scared
+
+2013-05-30 07:22:33.718000: Switching state: Scared
+
+2013-05-30 07:22:33.981000: Switching state: Scared
+
+2013-05-30 07:22:34.237000: Switching state: Scared
+
+2013-05-30 07:22:34.493000: Switching state: Scared
+
+2013-05-30 07:22:34.746000: Switching state: Scared
+
+2013-05-30 07:22:35.028000: Switching state: Scared
+
+2013-05-30 07:22:35.268000: Switching state: Scared
+
+2013-05-30 07:22:35.509000: Switching state: Scared
+
+2013-05-30 07:22:35.799000: Switching state: Scared
+
+2013-05-30 07:22:36.082000: Switching state: Scared
+
+2013-05-30 07:22:36.346000: Switching state: Scared
+
+2013-05-30 07:22:36.630000: Switching state: Scared
+
+2013-05-30 07:22:36.859000: Switching state: Scared
+
+2013-05-30 07:22:37.152000: Switching state: Scared
+
+2013-05-30 07:22:37.436000: Switching state: Scared
+
+2013-05-30 07:22:37.685000: Switching state: Scared
+
+2013-05-30 07:22:37.923000: Switching state: Scared
+
+2013-05-30 07:22:38.166000: Switching state: Scared
+
+2013-05-30 07:22:38.419000: Switching state: Scared
+
+2013-05-30 07:22:38.650000: Switching state: Scared
+
+2013-05-30 07:22:38.924000: Switching state: Scared
+
+2013-05-30 07:22:39.215000: Switching state: Scared
+
+2013-05-30 07:22:39.462000: Switching state: Scared
+
+2013-05-30 07:22:39.685000: Switching state: Scared
+
+2013-05-30 07:22:39.949000: Switching state: Scared
+
+2013-05-30 07:22:40.108000: Switching state: Scared
+
+2013-05-30 07:22:40.270000: Switching state: Scared
+
+2013-05-30 07:22:40.514000: Switching state: Hopeful
+
+2013-05-30 07:22:45.583000: Switching state: Sad
+
+2013-05-30 07:22:50.691000: Switching state: Lonely
+
+2013-05-30 07:22:56.003000: Switching state: Hopeful
+
+2013-05-30 07:23:01.060000: Switching state: Sad
+
+2013-05-30 07:23:06.157000: Switching state: Lonely
+
+2013-05-30 07:23:45.546000: Switching state: Hopeful
+
+2013-05-30 07:23:48.155000: Switching state: Scared
+
+2013-05-30 07:23:48.253000: Switching state: Hopeful
+
+2013-05-30 07:23:53.353000: Switching state: Sad
+
+2013-05-30 07:23:58.464000: Switching state: Lonely
+
+2013-05-30 07:24:59.922000: Switching state: Hopeful
+
+2013-05-30 07:25:04.955000: Switching state: Sad
+
+2013-05-30 07:25:10.030000: Switching state: Lonely
+
+2013-05-30 07:26:22.696000: Switching state: Hopeful
+
+2013-05-30 07:26:27.700000: Switching state: Sad
+
+2013-05-30 07:26:32.773000: Switching state: Lonely
+
+2013-05-30 07:26:35.540000: Switching state: Hopeful
+
+2013-05-30 07:26:40.613000: Switching state: Sad
+
+2013-05-30 07:26:45.688000: Switching state: Lonely
+
+2013-05-30 07:26:46.984000: Switching state: Hopeful
+
+2013-05-30 07:26:51.964000: Switching state: Sad
+
+2013-05-30 07:26:57.032000: Switching state: Lonely
+
+2013-05-30 07:27:08.030000: Switching state: Scared
+
+2013-05-30 07:27:08.183000: Switching state: Scared
+
+2013-05-30 07:27:08.305000: Switching state: Lonely
+
+2013-05-30 07:27:41.259000: Switching state: Hopeful
+
+2013-05-30 07:27:46.344000: Switching state: Sad
+
+2013-05-30 07:27:51.427000: Switching state: Lonely
+
+2013-05-30 07:27:52.173000: Switching state: Hopeful
+
+2013-05-30 07:27:57.261000: Switching state: Sad
+
+2013-05-30 07:28:02.333000: Switching state: Lonely
+
+2013-05-30 07:30:24.722000: Switching state: Hopeful
+
+2013-05-30 07:30:25.078000: Switching state: Scared
+
+2013-05-30 07:30:25.216000: Switching state: Scared
+
+2013-05-30 07:30:25.532000: Switching state: Hopeful
+
+2013-05-30 07:30:30.536000: Switching state: Sad
+
+2013-05-30 07:30:35.749000: Switching state: Lonely
+
+2013-05-30 07:32:43.244000: Switching state: Hopeful
+
+2013-05-30 07:32:48.940000: Switching state: Sad
+
+2013-05-30 07:32:54.010000: Switching state: Lonely
+
+2013-05-30 07:37:20.056000: Switching state: Scared
+
+2013-05-30 07:37:20.255000: Switching state: Scared
+
+2013-05-30 07:37:20.384000: Switching state: Scared
+
+2013-05-30 07:37:20.519000: Switching state: Scared
+
+2013-05-30 07:37:20.648000: Switching state: Scared
+
+2013-05-30 07:37:20.749000: Switching state: Scared
+
+2013-05-30 07:37:20.834000: Switching state: Lonely
+
+2013-05-30 07:41:08.252000: Switching state: Scared
+
+2013-05-30 07:41:08.454000: Switching state: Scared
+
+2013-05-30 07:41:08.655000: Switching state: Scared
+
+2013-05-30 07:41:08.818000: Switching state: Scared
+
+2013-05-30 07:41:08.998000: Switching state: Lonely
+
+2013-05-30 07:41:09.131000: Switching state: Hopeful
+
+2013-05-30 07:41:14.226000: Switching state: Sad
+
+2013-05-30 07:41:19.286000: Switching state: Lonely
+
+2013-05-30 08:05:22.984000: Switching state: Hopeful
+
+2013-05-30 08:05:28.077000: Switching state: Sad
+
+2013-05-30 08:05:33.170000: Switching state: Lonely
+
+2013-05-30 08:17:54.303000: Switching state: Hopeful
+
+2013-05-30 08:17:59.362000: Switching state: Sad
+
+2013-05-30 08:18:04.434000: Switching state: Lonely
+
+2013-05-30 08:21:40.078000: Switching state: Hopeful
+
+2013-05-30 08:21:45.277000: Switching state: Sad
+
+2013-05-30 08:21:50.354000: Switching state: Lonely
+
+2013-05-30 08:22:58.224000: Switching state: Hopeful
+
+2013-05-30 08:23:03.285000: Switching state: Sad
+
+2013-05-30 08:23:08.372000: Switching state: Lonely
+
+2013-05-30 08:23:54.114000: Switching state: Scared
+
+2013-05-30 08:23:54.206000: Switching state: Lonely
+
+2013-05-30 08:24:08.701000: Switching state: Hopeful
+
+2013-05-30 08:24:14.223000: Switching state: Sad
+
+2013-05-30 08:24:19.294000: Switching state: Lonely
+
+2013-05-30 08:24:41.398000: Switching state: Hopeful
+
+2013-05-30 08:24:46.485000: Switching state: Sad
+
+2013-05-30 08:24:51.559000: Switching state: Lonely
+
+2013-05-30 08:24:57.508000: Switching state: Hopeful
+
+2013-05-30 08:25:02.543000: Switching state: Sad
+
+2013-05-30 08:25:07.607000: Switching state: Lonely
+
+2013-05-30 08:25:22.608000: Switching state: Hopeful
+
+2013-05-30 08:25:27.668000: Switching state: Sad
+
+2013-05-30 08:25:32.054000: Switching state: Scared
+
+2013-05-30 08:25:32.181000: Switching state: Scared
+
+2013-05-30 08:25:32.300000: Switching state: Sad
+
+2013-05-30 08:25:37.385000: Switching state: Lonely
+
+2013-05-30 08:25:44.991000: Switching state: Hopeful
+
+2013-05-30 08:25:50.019000: Switching state: Sad
+
+2013-05-30 08:25:55.091000: Switching state: Lonely
+
+2013-05-30 08:26:40.194000: Switching state: Hopeful
+
+2013-05-30 08:26:45.202000: Switching state: Sad
+
+2013-05-30 08:26:50.336000: Switching state: Lonely
+
+2013-05-30 08:27:08.043000: Switching state: Hopeful
+
+2013-05-30 08:27:13.129000: Switching state: Sad
+
+2013-05-30 08:27:18.204000: Switching state: Lonely
+
+2013-05-30 08:28:09.792000: Switching state: Scared
+
+2013-05-30 08:28:09.917000: Switching state: Lonely
+
+2013-05-30 08:28:15.147000: Switching state: Hopeful
+
+2013-05-30 08:28:20.233000: Switching state: Sad
+
+2013-05-30 08:28:25.330000: Switching state: Lonely
+
+2013-05-30 08:30:24.199000: Switching state: Hopeful
+
+2013-05-30 08:30:29.221000: Switching state: Sad
+
+2013-05-30 08:30:34.291000: Switching state: Lonely
+
+2013-05-30 08:57:36.278000: Switching state: Scared
+
+2013-05-30 08:57:36.552000: Switching state: Scared
+
+2013-05-30 08:57:36.835000: Switching state: Scared
+
+2013-05-30 08:57:37.109000: Switching state: Scared
+
+2013-05-30 08:57:37.421000: Switching state: Scared
+
+2013-05-30 08:57:37.698000: Switching state: Scared
+
+2013-05-30 08:57:37.986000: Switching state: Scared
+
+2013-05-30 08:57:38.287000: Switching state: Scared
+
+2013-05-30 08:57:38.531000: Switching state: Scared
+
+2013-05-30 08:57:38.763000: Switching state: Scared
+
+2013-05-30 08:57:39.042000: Switching state: Scared
+
+2013-05-30 08:57:39.293000: Switching state: Scared
+
+2013-05-30 08:57:39.495000: Switching state: Scared
+
+2013-05-30 08:57:39.665000: Switching state: Scared
+
+2013-05-30 08:57:39.872000: Switching state: Lonely
+
+2013-05-30 08:57:40.069000: Switching state: Hopeful
+
+2013-05-30 08:57:45.135000: Switching state: Sad
+
+2013-05-30 08:57:50.331000: Switching state: Lonely
+
+2013-05-30 08:57:50.525000: Switching state: Hopeful
+
+2013-05-30 08:57:55.438000: Switching state: Choices
+
+2013-05-30 08:58:01.242000: Switching state: Happy
+
+2013-05-30 08:58:04.381000: Switching state: Lonely
+
+2013-05-30 08:58:04.557000: Switching state: Hopeful
+
+2013-05-30 08:58:12.438000: Switching state: Choices
+
+2013-05-30 08:58:17.422000: Switching state: Happy
+
+2013-05-30 08:58:20.511000: Switching state: Lonely
+
+2013-05-30 08:58:20.758000: Switching state: Hopeful
+
+2013-05-30 08:58:31.215000: Switching state: Sad
+
+2013-05-30 08:58:34.626000: Switching state: Scared
+
+2013-05-30 08:58:34.750000: Switching state: Sad
+
+2013-05-30 08:58:39.788000: Switching state: Lonely
+
+2013-05-30 09:09:20.493000: Switching state: Hopeful
+
+2013-05-30 09:09:25.583000: Switching state: Sad
+
+2013-05-30 09:09:30.656000: Switching state: Lonely
+
+2013-05-30 09:20:32.715000: Switching state: Scared
+
+2013-05-30 09:20:33.072000: Switching state: Scared
+
+2013-05-30 09:20:33.409000: Switching state: Scared
+
+2013-05-30 09:20:33.812000: Switching state: Scared
+
+2013-05-30 09:20:34.120000: Switching state: Scared
+
+2013-05-30 09:20:34.466000: Switching state: Scared
+
+2013-05-30 09:20:34.726000: Switching state: Scared
+
+2013-05-30 09:20:35.018000: Switching state: Scared
+
+2013-05-30 09:20:35.297000: Switching state: Scared
+
+2013-05-30 09:20:35.581000: Switching state: Scared
+
+2013-05-30 09:20:35.862000: Switching state: Scared
+
+2013-05-30 09:20:36.144000: Switching state: Scared
+
+2013-05-30 09:20:36.421000: Switching state: Scared
+
+2013-05-30 09:20:36.682000: Switching state: Scared
+
+2013-05-30 09:20:36.936000: Switching state: Scared
+
+2013-05-30 09:20:37.176000: Switching state: Scared
+
+2013-05-30 09:20:37.442000: Switching state: Scared
+
+2013-05-30 09:20:37.703000: Switching state: Scared
+
+2013-05-30 09:20:37.937000: Switching state: Scared
+
+2013-05-30 09:20:38.198000: Switching state: Scared
+
+2013-05-30 09:20:38.491000: Switching state: Lonely
+
+2013-05-30 09:20:38.787000: Switching state: Hopeful
+
+2013-05-30 09:20:50.601000: Switching state: Scared
+
+2013-05-30 09:20:50.733000: Switching state: Hopeful
+
+2013-05-30 09:20:56.535000: Switching state: Choices
+
+2013-05-30 09:21:02.803000: Switching state: Sad
+
+2013-05-30 09:21:07.915000: Switching state: Lonely
+
+2013-05-30 09:21:08.075000: Switching state: Hopeful
+
+2013-05-30 09:21:13.288000: Switching state: Choices
+
+2013-05-30 09:21:21.727000: Switching state: Happy
+
+2013-05-30 09:21:24.793000: Switching state: Lonely
+
+2013-05-30 09:21:24.946000: Switching state: Hopeful
+
+2013-05-30 09:21:32.004000: Switching state: Sad
+
+2013-05-30 09:21:37.105000: Switching state: Lonely
+
+2013-05-30 09:21:37.339000: Switching state: Hopeful
+
+2013-05-30 09:21:38.285000: Switching state: Scared
+
+2013-05-30 09:21:38.502000: Switching state: Hopeful
+
+2013-05-30 09:21:46.814000: Switching state: Sad
+
+2013-05-30 09:21:51.974000: Switching state: Lonely
+
+2013-05-30 09:21:52.162000: Switching state: Hopeful
+
+2013-05-30 09:21:57.795000: Switching state: Choices
+
+2013-05-30 09:22:03.343000: Switching state: Happy
+
+2013-05-30 09:22:06.398000: Switching state: Lonely
+
+2013-05-30 09:22:06.577000: Switching state: Hopeful
+
+2013-05-30 09:22:14.621000: Switching state: Sad
+
+2013-05-30 09:22:19.694000: Switching state: Lonely
+
+2013-05-30 09:22:20.686000: Switching state: Hopeful
+
+2013-05-30 09:22:25.790000: Switching state: Sad
+
+2013-05-30 09:22:30.889000: Switching state: Lonely
+
+2013-05-30 09:22:31.065000: Switching state: Hopeful
+
+2013-05-30 09:22:33.969000: Switching state: Choices
+
+2013-05-30 09:22:39.908000: Switching state: Sad
+
+2013-05-30 09:22:44.980000: Switching state: Lonely
+
+2013-05-30 09:22:45.338000: Switching state: Hopeful
+
+2013-05-30 09:22:49.378000: Switching state: Choices
+
+2013-05-30 09:22:54.809000: Switching state: Sad
+
+2013-05-30 09:22:59.944000: Switching state: Lonely
+
+2013-05-30 09:23:00.158000: Switching state: Hopeful
+
+2013-05-30 09:23:04.261000: Switching state: Choices
+
+2013-05-30 09:23:09.619000: Switching state: Sad
+
+2013-05-30 09:23:14.661000: Switching state: Lonely
+
+2013-05-30 09:23:22.937000: Switching state: Hopeful
+
+2013-05-30 09:23:47.239000: Switching state: Choices
+
+2013-05-30 09:23:54.203000: Switching state: Sad
+
+2013-05-30 09:23:59.245000: Switching state: Lonely
+
+2013-05-30 09:23:59.413000: Switching state: Hopeful
+
+2013-05-30 09:24:06.412000: Switching state: Sad
+
+2013-05-30 09:24:11.508000: Switching state: Lonely
+
+2013-05-30 09:24:11.706000: Switching state: Hopeful
+
+2013-05-30 09:24:21.606000: Switching state: Choices
+
+2013-05-30 09:24:27.333000: Switching state: Sad
+
+2013-05-30 09:24:32.477000: Switching state: Lonely
+
+2013-05-30 09:24:37.931000: Switching state: Hopeful
+
+2013-05-30 09:24:38.263000: Switching state: Scared
+
+2013-05-30 09:24:38.499000: Switching state: Scared
+
+2013-05-30 09:24:38.704000: Switching state: Scared
+
+2013-05-30 09:24:38.901000: Switching state: Scared
+
+2013-05-30 09:24:39.156000: Switching state: Scared
+
+2013-05-30 09:24:39.302000: Switching state: Scared
+
+2013-05-30 09:24:39.460000: Switching state: Scared
+
+2013-05-30 09:24:39.656000: Switching state: Scared
+
+2013-05-30 09:24:39.827000: Switching state: Scared
+
+2013-05-30 09:24:40.086000: Switching state: Scared
+
+2013-05-30 09:24:40.303000: Switching state: Scared
+
+2013-05-30 09:24:40.528000: Switching state: Scared
+
+2013-05-30 09:24:40.740000: Switching state: Scared
+
+2013-05-30 09:24:40.930000: Switching state: Scared
+
+2013-05-30 09:24:41.134000: Switching state: Scared
+
+2013-05-30 09:24:41.248000: Switching state: Scared
+
+2013-05-30 09:24:41.378000: Switching state: Hopeful
+
+2013-05-30 09:24:44.867000: Switching state: Scared
+
+2013-05-30 09:24:45.200000: Switching state: Scared
+
+2013-05-30 09:24:45.393000: Switching state: Scared
+
+2013-05-30 09:24:45.625000: Switching state: Scared
+
+2013-05-30 09:24:45.805000: Switching state: Scared
+
+2013-05-30 09:24:45.996000: Switching state: Scared
+
+2013-05-30 09:24:46.192000: Switching state: Scared
+
+2013-05-30 09:24:46.402000: Switching state: Scared
+
+2013-05-30 09:24:46.615000: Switching state: Scared
+
+2013-05-30 09:24:46.857000: Switching state: Scared
+
+2013-05-30 09:24:47.146000: Switching state: Hopeful
+
+2013-05-30 09:24:51.787000: Switching state: Choices
+
+2013-05-30 09:24:58.501000: Switching state: Sad
+
+2013-05-30 09:25:04.028000: Switching state: Lonely
+
+2013-05-30 09:25:04.212000: Switching state: Hopeful
+
+2013-05-30 09:25:11.316000: Switching state: Choices
+
+2013-05-30 09:25:17.819000: Switching state: Sad
+
+2013-05-30 09:25:20.376000: Switching state: Scared
+
+2013-05-30 09:25:20.582000: Switching state: Scared
+
+2013-05-30 09:25:20.771000: Switching state: Scared
+
+2013-05-30 09:25:20.986000: Switching state: Scared
+
+2013-05-30 09:25:21.168000: Switching state: Scared
+
+2013-05-30 09:25:21.325000: Switching state: Scared
+
+2013-05-30 09:25:21.497000: Switching state: Scared
+
+2013-05-30 09:25:21.690000: Switching state: Scared
+
+2013-05-30 09:25:21.863000: Switching state: Scared
+
+2013-05-30 09:25:22.039000: Switching state: Scared
+
+2013-05-30 09:25:22.232000: Switching state: Scared
+
+2013-05-30 09:25:22.425000: Switching state: Scared
+
+2013-05-30 09:25:22.642000: Switching state: Scared
+
+2013-05-30 09:25:22.811000: Switching state: Scared
+
+2013-05-30 09:25:23.062000: Switching state: Scared
+
+2013-05-30 09:25:23.273000: Switching state: Scared
+
+2013-05-30 09:25:23.482000: Switching state: Scared
+
+2013-05-30 09:25:23.691000: Switching state: Sad
+
+2013-05-30 09:25:24.350000: Switching state: Scared
+
+2013-05-30 09:25:24.545000: Switching state: Scared
+
+2013-05-30 09:25:24.795000: Switching state: Scared
+
+2013-05-30 09:25:24.994000: Switching state: Scared
+
+2013-05-30 09:25:25.175000: Switching state: Sad
+
+2013-05-30 09:25:30.245000: Switching state: Lonely
+
+2013-05-30 09:25:30.437000: Switching state: Hopeful
+
+2013-05-30 09:25:41.315000: Switching state: Sad
+
+2013-05-30 09:25:44.818000: Switching state: Scared
+
+2013-05-30 09:25:44.989000: Switching state: Sad
+
+2013-05-30 09:25:50.081000: Switching state: Lonely
+
+2013-05-30 09:25:50.227000: Switching state: Hopeful
+
+2013-05-30 09:25:55.484000: Switching state: Scared
+
+2013-05-30 09:25:55.619000: Switching state: Scared
+
+2013-05-30 09:25:55.740000: Switching state: Hopeful
+
+2013-05-30 09:26:00.772000: Switching state: Sad
+
+2013-05-30 09:26:05.861000: Switching state: Lonely
+
+2013-05-30 09:26:05.993000: Switching state: Hopeful
+
+2013-05-30 09:26:11.065000: Switching state: Sad
+
+2013-05-30 09:26:16.138000: Switching state: Lonely
+
+2013-05-30 09:26:16.307000: Switching state: Hopeful
+
+2013-05-30 09:26:21.410000: Switching state: Sad
+
+2013-05-30 09:26:26.534000: Switching state: Lonely
+
+2013-05-30 09:26:26.792000: Switching state: Hopeful
+
+2013-05-30 09:26:31.404000: Switching state: Scared
+
+2013-05-30 09:26:31.506000: Switching state: Hopeful
+
+2013-05-30 09:26:32.819000: Switching state: Scared
+
+2013-05-30 09:26:33.138000: Switching state: Scared
+
+2013-05-30 09:26:33.430000: Switching state: Scared
+
+2013-05-30 09:26:33.713000: Switching state: Scared
+
+2013-05-30 09:26:34.012000: Switching state: Scared
+
+2013-05-30 09:26:34.296000: Switching state: Hopeful
+
+2013-05-30 09:26:36.514000: Switching state: Scared
+
+2013-05-30 09:26:36.802000: Switching state: Scared
+
+2013-05-30 09:26:37.024000: Switching state: Scared
+
+2013-05-30 09:26:37.190000: Switching state: Scared
+
+2013-05-30 09:26:37.300000: Switching state: Scared
+
+2013-05-30 09:26:37.385000: Switching state: Hopeful
+
+2013-05-30 09:26:42.506000: Switching state: Sad
+
+2013-05-30 09:26:45.994000: Switching state: Scared
+
+2013-05-30 09:26:46.473000: Switching state: Scared
+
+2013-05-30 09:26:47.075000: Switching state: Scared
+
+2013-05-30 09:26:47.598000: Switching state: Scared
+
+2013-05-30 09:26:48.364000: Switching state: Sad
+
+2013-05-30 09:26:53.427000: Switching state: Lonely
+
+2013-05-30 09:27:03.778000: Switching state: Hopeful
+
+2013-05-30 09:27:08.806000: Switching state: Sad
+
+2013-05-30 09:27:13.885000: Switching state: Lonely
+
+2013-05-30 09:27:26.054000: Switching state: Scared
+
+2013-05-30 09:27:26.240000: Switching state: Scared
+
+2013-05-30 09:27:26.425000: Switching state: Scared
+
+2013-05-30 09:27:26.661000: Switching state: Scared
+
+2013-05-30 09:27:26.849000: Switching state: Scared
+
+2013-05-30 09:27:26.982000: Switching state: Scared
+
+2013-05-30 09:27:27.224000: Switching state: Lonely
+
+2013-05-30 09:27:43.313000: Switching state: Hopeful
+
+2013-05-30 09:27:48.344000: Switching state: Sad
+
+2013-05-30 09:27:53.456000: Switching state: Lonely
+
+2013-05-30 09:28:02.609000: Switching state: Hopeful
+
+2013-05-30 09:28:10.385000: Switching state: Choices
+
+2013-05-30 09:28:16.251000: Switching state: Sad
+
+2013-05-30 09:28:20.943000: Switching state: Scared
+
+2013-05-30 09:28:21.179000: Switching state: Scared
+
+2013-05-30 09:28:21.374000: Switching state: Scared
+
+2013-05-30 09:28:21.614000: Switching state: Sad
+
+2013-05-30 09:28:26.713000: Switching state: Lonely
+
+2013-05-30 09:28:31.058000: Switching state: Hopeful
+
+2013-05-30 09:28:36.026000: Switching state: Sad
+
+2013-05-30 09:28:41.114000: Switching state: Lonely
+
+2013-05-30 09:28:41.343000: Switching state: Hopeful
+
+2013-05-30 09:28:46.417000: Switching state: Sad
+
+2013-05-30 09:28:51.508000: Switching state: Lonely
+
+2013-05-30 09:28:52.380000: Switching state: Hopeful
+
+2013-05-30 09:28:57.392000: Switching state: Sad
+
+2013-05-30 09:29:02.456000: Switching state: Lonely
+
+2013-05-30 09:29:02.704000: Switching state: Hopeful
+
+2013-05-30 09:29:07.799000: Switching state: Sad
+
+2013-05-30 09:29:12.982000: Switching state: Lonely
+
+2013-05-30 09:29:13.227000: Switching state: Hopeful
+
+2013-05-30 09:29:20.314000: Switching state: Scared
+
+2013-05-30 09:29:20.532000: Switching state: Hopeful
+
+2013-05-30 09:29:32.055000: Switching state: Sad
+
+2013-05-30 09:29:37.128000: Switching state: Lonely
+
+2013-05-30 09:29:37.388000: Switching state: Hopeful
+
+2013-05-30 09:29:40.821000: Switching state: Scared
+
+2013-05-30 09:29:41.061000: Switching state: Scared
+
+2013-05-30 09:29:41.237000: Switching state: Hopeful
+
+2013-05-30 09:29:44.335000: Switching state: Scared
+
+2013-05-30 09:29:44.516000: Switching state: Hopeful
+
+2013-05-30 09:30:02.238000: Switching state: Sad
+
+2013-05-30 09:30:07.281000: Switching state: Lonely
+
+2013-05-30 09:30:07.985000: Switching state: Hopeful
+
+2013-05-30 09:30:12.913000: Switching state: Choices
+
+2013-05-30 09:30:19.005000: Switching state: Sad
+
+2013-05-30 09:30:19.565000: Switching state: Scared
+
+2013-05-30 09:30:19.758000: Switching state: Sad
+
+2013-05-30 09:30:24.799000: Switching state: Lonely
+
+2013-05-30 09:30:36.989000: Switching state: Hopeful
+
+2013-05-30 09:30:42.015000: Switching state: Sad
+
+2013-05-30 09:30:44.595000: Switching state: Scared
+
+2013-05-30 09:30:44.687000: Switching state: Sad
+
+2013-05-30 09:30:49.786000: Switching state: Lonely
+
+2013-05-30 09:30:56.427000: Switching state: Hopeful
+
+2013-05-30 09:31:01.162000: Switching state: Scared
+
+2013-05-30 09:31:01.500000: Switching state: Hopeful
+
+2013-05-30 09:31:06.522000: Switching state: Sad
+
+2013-05-30 09:31:11.579000: Switching state: Lonely
+
+2013-05-30 09:31:12.904000: Switching state: Hopeful
+
+2013-05-30 09:31:17.951000: Switching state: Sad
+
+2013-05-30 09:31:23.031000: Switching state: Lonely
+
+2013-05-30 09:31:42.408000: Switching state: Hopeful
+
+2013-05-30 09:31:47.495000: Switching state: Sad
+
+2013-05-30 09:31:52.551000: Switching state: Lonely
+
+2013-05-30 09:32:07.314000: Switching state: Scared
+
+2013-05-30 09:32:07.480000: Switching state: Scared
+
+2013-05-30 09:32:07.647000: Switching state: Scared
+
+2013-05-30 09:32:07.737000: Switching state: Lonely
+
+2013-05-30 09:32:11.792000: Switching state: Hopeful
+
+2013-05-30 09:32:16.872000: Switching state: Sad
+
+2013-05-30 09:32:21.943000: Switching state: Lonely
+
+2013-05-30 09:32:31.236000: Switching state: Hopeful
+
+2013-05-30 09:32:36.301000: Switching state: Sad
+
+2013-05-30 09:32:41.332000: Switching state: Lonely
+
+2013-05-30 09:32:44.160000: Switching state: Hopeful
+
+2013-05-30 09:32:49.169000: Switching state: Sad
+
+2013-05-30 09:32:54.250000: Switching state: Lonely
+
+2013-05-30 09:32:55.107000: Switching state: Hopeful
+
+2013-05-30 09:32:55.900000: Switching state: Scared
+
+2013-05-30 09:32:55.999000: Switching state: Hopeful
+
+2013-05-30 09:33:01.046000: Switching state: Sad
+
+2013-05-30 09:33:06.118000: Switching state: Lonely
+
+2013-05-30 09:33:57.958000: Switching state: Scared
+
+2013-05-30 09:33:58.134000: Switching state: Scared
+
+2013-05-30 09:33:58.359000: Switching state: Scared
+
+2013-05-30 09:33:58.536000: Switching state: Scared
+
+2013-05-30 09:33:58.684000: Switching state: Scared
+
+2013-05-30 09:33:58.773000: Switching state: Lonely
+
+2013-05-30 09:34:56.981000: Switching state: Scared
+
+2013-05-30 09:34:57.116000: Switching state: Scared
+
+2013-05-30 09:34:57.339000: Switching state: Lonely
+
+2013-05-30 09:36:34.473000: Switching state: Hopeful
+
+2013-05-30 09:36:39.529000: Switching state: Sad
+
+2013-05-30 09:36:44.600000: Switching state: Lonely
+
+2013-05-30 09:37:28.170000: Switching state: Scared
+
+2013-05-30 09:37:28.338000: Switching state: Scared
+
+2013-05-30 09:37:28.491000: Switching state: Scared
+
+2013-05-30 09:37:28.578000: Switching state: Lonely
+
+2013-05-30 09:38:39.992000: Switching state: Hopeful
+
+2013-05-30 09:38:41.891000: Switching state: Scared
+
+2013-05-30 09:38:42.056000: Switching state: Scared
+
+2013-05-30 09:38:42.262000: Switching state: Scared
+
+2013-05-30 09:38:42.450000: Switching state: Scared
+
+2013-05-30 09:38:42.661000: Switching state: Scared
+
+2013-05-30 09:38:42.803000: Switching state: Scared
+
+2013-05-30 09:38:42.920000: Switching state: Hopeful
+
+2013-05-30 09:38:47.949000: Switching state: Sad
+
+2013-05-30 09:38:53.027000: Switching state: Lonely
+
+2013-05-30 09:42:07.761000: Switching state: Hopeful
+
+2013-05-30 09:42:12.782000: Switching state: Sad
+
+2013-05-30 09:42:17.868000: Switching state: Lonely
+
+2013-05-30 09:44:44.172000: Switching state: Hopeful
+
+2013-05-30 09:44:49.236000: Switching state: Sad
+
+2013-05-30 09:44:54.274000: Switching state: Lonely
+
+2013-05-30 09:44:57.966000: Switching state: Hopeful
+
+2013-05-30 09:45:06.750000: Switching state: Sad
+
+2013-05-30 09:45:11.818000: Switching state: Lonely
+
+2013-05-30 09:45:13.293000: Switching state: Hopeful
+
+2013-05-30 09:45:18.361000: Switching state: Sad
+
+2013-05-30 09:45:23.398000: Switching state: Lonely
+
+2013-05-30 09:45:37.753000: Switching state: Hopeful
+
+2013-05-30 09:45:38.369000: Switching state: Scared
+
+2013-05-30 09:45:38.465000: Switching state: Hopeful
+
+2013-05-30 09:45:43.484000: Switching state: Sad
+
+2013-05-30 09:45:48.559000: Switching state: Lonely
+
+2013-05-30 09:48:39.313000: Switching state: Hopeful
+
+2013-05-30 09:48:45.031000: Switching state: Sad
+
+2013-05-30 09:48:50.103000: Switching state: Lonely
+
+2013-05-30 09:50:01.116000: Switching state: Scared
+
+2013-05-30 09:50:01.412000: Switching state: Scared
+
+2013-05-30 09:50:01.736000: Switching state: Scared
+
+2013-05-30 09:50:02.006000: Switching state: Scared
+
+2013-05-30 09:50:02.240000: Switching state: Scared
+
+2013-05-30 09:50:02.522000: Switching state: Scared
+
+2013-05-30 09:50:02.756000: Switching state: Scared
+
+2013-05-30 09:50:02.945000: Switching state: Scared
+
+2013-05-30 09:50:03.145000: Switching state: Scared
+
+2013-05-30 09:50:03.341000: Switching state: Scared
+
+2013-05-30 09:50:03.567000: Switching state: Scared
+
+2013-05-30 09:50:03.769000: Switching state: Scared
+
+2013-05-30 09:50:03.946000: Switching state: Scared
+
+2013-05-30 09:50:04.124000: Switching state: Scared
+
+2013-05-30 09:50:04.349000: Switching state: Scared
+
+2013-05-30 09:50:04.559000: Switching state: Scared
+
+2013-05-30 09:50:04.750000: Switching state: Lonely
+
+2013-05-30 09:50:04.943000: Switching state: Hopeful
+
+2013-05-30 09:50:10.137000: Switching state: Choices
+
+2013-05-30 09:50:28.517000: Switching state: Joke
+
+2013-05-30 09:50:37.655000: Switching state: Sad
+
+2013-05-30 09:50:42.735000: Switching state: Lonely
+
+2013-05-30 09:50:42.917000: Switching state: Hopeful
+
+2013-05-30 09:50:47.949000: Switching state: Sad
+
+2013-05-30 09:50:53.016000: Switching state: Lonely
+
+2013-05-30 09:50:53.213000: Switching state: Hopeful
+
+2013-05-30 09:50:58.196000: Switching state: Sad
+
+2013-05-30 09:51:03.278000: Switching state: Lonely
+
+2013-05-30 09:51:03.463000: Switching state: Hopeful
+
+2013-05-30 09:51:08.433000: Switching state: Sad
+
+2013-05-30 09:51:13.475000: Switching state: Lonely
+
+2013-05-30 09:53:09.665000: Switching state: Hopeful
+
+2013-05-30 09:53:14.755000: Switching state: Sad
+
+2013-05-30 09:53:19.830000: Switching state: Lonely
+
+2013-05-30 09:53:25.984000: Switching state: Hopeful
+
+2013-05-30 09:53:26.120000: Switching state: Scared
+
+2013-05-30 09:53:26.285000: Switching state: Hopeful
+
+2013-05-30 09:53:31.343000: Switching state: Sad
+
+2013-05-30 09:53:36.413000: Switching state: Lonely
+
+2013-05-30 09:55:04.484000: Switching state: Hopeful
+
+2013-05-30 09:55:09.566000: Switching state: Sad
+
+2013-05-30 09:55:14.640000: Switching state: Lonely
+
+2013-05-30 09:59:16.491000: Switching state: Hopeful
+
+2013-05-30 09:59:18.782000: Switching state: Scared
+
+2013-05-30 09:59:19.013000: Switching state: Scared
+
+2013-05-30 09:59:19.252000: Switching state: Scared
+
+2013-05-30 09:59:19.473000: Switching state: Scared
+
+2013-05-30 09:59:19.611000: Switching state: Hopeful
+
+2013-05-30 09:59:24.647000: Switching state: Sad
+
+2013-05-30 09:59:29.685000: Switching state: Lonely
+
+2013-05-30 10:01:10.994000: Switching state: Hopeful
+
+2013-05-30 10:01:16.020000: Switching state: Sad
+
+2013-05-30 10:01:21.093000: Switching state: Lonely
+
+2013-05-30 10:02:39.656000: Switching state: Hopeful
+
+2013-05-30 10:02:44.673000: Switching state: Sad
+
+2013-05-30 10:02:49.748000: Switching state: Lonely
+
+2013-05-30 10:03:56.763000: Switching state: Hopeful
+
+2013-05-30 10:03:58.574000: Switching state: Scared
+
+2013-05-30 10:03:58.777000: Switching state: Scared
+
+2013-05-30 10:03:58.975000: Switching state: Scared
+
+2013-05-30 10:03:59.105000: Switching state: Scared
+
+2013-05-30 10:03:59.229000: Switching state: Scared
+
+2013-05-30 10:03:59.316000: Switching state: Hopeful
+
+2013-05-30 10:04:03.806000: Switching state: Scared
+
+2013-05-30 10:04:04.029000: Switching state: Scared
+
+2013-05-30 10:04:04.301000: Switching state: Scared
+
+2013-05-30 10:04:04.542000: Switching state: Scared
+
+2013-05-30 10:04:04.828000: Switching state: Scared
+
+2013-05-30 10:04:05.061000: Switching state: Scared
+
+2013-05-30 10:04:05.400000: Switching state: Scared
+
+2013-05-30 10:04:05.671000: Switching state: Scared
+
+2013-05-30 10:04:05.962000: Switching state: Scared
+
+2013-05-30 10:04:06.200000: Switching state: Scared
+
+2013-05-30 10:04:06.436000: Switching state: Scared
+
+2013-05-30 10:04:06.688000: Switching state: Scared
+
+2013-05-30 10:04:06.954000: Switching state: Scared
+
+2013-05-30 10:04:07.242000: Switching state: Scared
+
+2013-05-30 10:04:07.509000: Switching state: Scared
+
+2013-05-30 10:04:07.772000: Switching state: Scared
+
+2013-05-30 10:04:07.986000: Switching state: Scared
+
+2013-05-30 10:04:08.183000: Switching state: Scared
+
+2013-05-30 10:04:08.417000: Switching state: Hopeful
+
+2013-05-30 10:04:13.393000: Switching state: Sad
+
+2013-05-30 10:04:16.821000: Switching state: Scared
+
+2013-05-30 10:04:17.041000: Switching state: Sad
+
+2013-05-30 10:04:20.178000: Switching state: Scared
+
+2013-05-30 10:04:20.315000: Switching state: Scared
+
+2013-05-30 10:04:20.450000: Switching state: Scared
+
+2013-05-30 10:04:20.565000: Switching state: Sad
+
+2013-05-30 10:04:25.643000: Switching state: Lonely
+
+2013-05-30 10:04:30.702000: Switching state: Hopeful
+
+2013-05-30 10:04:37.261000: Switching state: Sad
+
+2013-05-30 10:04:42.326000: Switching state: Lonely
+
+2013-05-30 10:05:34.402000: Switching state: Hopeful
+
+2013-05-30 10:05:34.600000: Switching state: Scared
+
+2013-05-30 10:05:34.803000: Switching state: Scared
+
+2013-05-30 10:05:34.950000: Switching state: Scared
+
+2013-05-30 10:05:35.052000: Switching state: Scared
+
+2013-05-30 10:05:35.239000: Switching state: Hopeful
+
+2013-05-30 10:05:40.246000: Switching state: Sad
+
+2013-05-30 10:05:45.314000: Switching state: Lonely
+
+2013-05-30 10:06:13.678000: Switching state: Scared
+
+2013-05-30 10:06:13.876000: Switching state: Scared
+
+2013-05-30 10:06:14.154000: Switching state: Scared
+
+2013-05-30 10:06:14.395000: Switching state: Scared
+
+2013-05-30 10:06:14.615000: Switching state: Scared
+
+2013-05-30 10:06:14.867000: Switching state: Scared
+
+2013-05-30 10:06:15.127000: Switching state: Scared
+
+2013-05-30 10:06:15.412000: Switching state: Scared
+
+2013-05-30 10:06:15.685000: Switching state: Scared
+
+2013-05-30 10:06:15.925000: Switching state: Scared
+
+2013-05-30 10:06:16.158000: Switching state: Scared
+
+2013-05-30 10:06:16.593000: Switching state: Lonely
+
+2013-05-30 10:06:16.819000: Switching state: Hopeful
+
+2013-05-30 10:06:26.131000: Switching state: Choices
+
+2013-05-30 10:06:31.681000: Switching state: Happy
+
+2013-05-30 10:06:34.798000: Switching state: Lonely
+
+2013-05-30 10:06:35: Switching state: Hopeful
+
+2013-05-30 10:06:40.330000: Switching state: Choices
+
+2013-05-30 10:06:46.402000: Switching state: Sad
+
+2013-05-30 10:06:48.677000: Switching state: Scared
+
+2013-05-30 10:06:48.881000: Switching state: Scared
+
+2013-05-30 10:06:49.078000: Switching state: Scared
+
+2013-05-30 10:06:49.287000: Switching state: Scared
+
+2013-05-30 10:06:49.484000: Switching state: Scared
+
+2013-05-30 10:06:49.775000: Switching state: Scared
+
+2013-05-30 10:06:50.008000: Switching state: Scared
+
+2013-05-30 10:06:50.175000: Switching state: Scared
+
+2013-05-30 10:06:50.337000: Switching state: Scared
+
+2013-05-30 10:06:50.448000: Switching state: Sad
+
+2013-05-30 10:06:54.741000: Switching state: Scared
+
+2013-05-30 10:06:54.950000: Switching state: Scared
+
+2013-05-30 10:06:55.101000: Switching state: Sad
+
+2013-05-30 10:07:00.154000: Switching state: Lonely
+
+2013-05-30 10:08:02.969000: Switching state: Hopeful
+
+2013-05-30 10:08:08.052000: Switching state: Sad
+
+2013-05-30 10:08:13.121000: Switching state: Lonely
+
+2013-05-30 10:08:23.046000: Switching state: Hopeful
+
+2013-05-30 10:08:28.119000: Switching state: Sad
+
+2013-05-30 10:08:33.232000: Switching state: Lonely
+
+2013-05-30 10:08:33.495000: Switching state: Hopeful
+
+2013-05-30 10:08:38.518000: Switching state: Sad
+
+2013-05-30 10:08:43.588000: Switching state: Lonely
+
+2013-05-30 10:09:29.345000: Switching state: Hopeful
+
+2013-05-30 10:09:34.655000: Switching state: Sad
+
+2013-05-30 10:09:39.761000: Switching state: Lonely
+
+2013-05-30 10:09:39.924000: Switching state: Hopeful
+
+2013-05-30 10:09:45.096000: Switching state: Sad
+
+2013-05-30 10:09:50.183000: Switching state: Lonely
+
+2013-05-30 10:09:51.170000: Switching state: Hopeful
+
+2013-05-30 10:09:56.224000: Switching state: Sad
+
+2013-05-30 10:10:01.328000: Switching state: Lonely
+
+2013-05-30 10:10:36.927000: Switching state: Hopeful
+
+2013-05-30 10:10:37.869000: Switching state: Scared
+
+2013-05-30 10:10:38.069000: Switching state: Scared
+
+2013-05-30 10:10:38.272000: Switching state: Scared
+
+2013-05-30 10:10:38.430000: Switching state: Scared
+
+2013-05-30 10:10:38.535000: Switching state: Hopeful
+
+2013-05-30 10:10:43.544000: Switching state: Sad
+
+2013-05-30 10:10:48.655000: Switching state: Lonely
+
+2013-05-30 10:10:48.851000: Switching state: Hopeful
+
+2013-05-30 10:10:52.595000: Switching state: Choices
+
+2013-05-30 10:10:55.207000: Switching state: Scared
+
+2013-05-30 10:10:55.410000: Switching state: Scared
+
+2013-05-30 10:10:55.607000: Switching state: Scared
+
+2013-05-30 10:10:55.809000: Switching state: Scared
+
+2013-05-30 10:10:56.006000: Switching state: Scared
+
+2013-05-30 10:10:56.206000: Switching state: Scared
+
+2013-05-30 10:10:56.413000: Switching state: Scared
+
+2013-05-30 10:10:56.606000: Switching state: Scared
+
+2013-05-30 10:10:56.974000: Switching state: Choices
+
+2013-05-30 10:11:04.245000: Switching state: Sad
+
+2013-05-30 10:11:09.285000: Switching state: Lonely
+
+2013-05-30 10:11:09.421000: Switching state: Hopeful
+
+2013-05-30 10:11:14.552000: Switching state: Choices
+
+2013-05-30 10:11:17.190000: Switching state: Happy
+
+2013-05-30 10:11:20.302000: Switching state: Lonely
+
+2013-05-30 10:11:20.496000: Switching state: Hopeful
+
+2013-05-30 10:11:26.499000: Switching state: Scared
+
+2013-05-30 10:11:26.680000: Switching state: Scared
+
+2013-05-30 10:11:26.866000: Switching state: Scared
+
+2013-05-30 10:11:27.039000: Switching state: Scared
+
+2013-05-30 10:11:27.233000: Switching state: Scared
+
+2013-05-30 10:11:27.414000: Switching state: Scared
+
+2013-05-30 10:11:27.614000: Switching state: Scared
+
+2013-05-30 10:11:27.811000: Switching state: Scared
+
+2013-05-30 10:11:28.017000: Switching state: Scared
+
+2013-05-30 10:11:28.214000: Switching state: Scared
+
+2013-05-30 10:11:28.416000: Switching state: Scared
+
+2013-05-30 10:11:28.616000: Switching state: Scared
+
+2013-05-30 10:11:28.815000: Switching state: Scared
+
+2013-05-30 10:11:29.017000: Switching state: Scared
+
+2013-05-30 10:11:29.215000: Switching state: Scared
+
+2013-05-30 10:11:29.410000: Switching state: Hopeful
+
+2013-05-30 10:11:34.466000: Switching state: Sad
+
+2013-05-30 10:11:39.559000: Switching state: Lonely
+
+2013-05-30 10:11:43.680000: Switching state: Hopeful
+
+2013-05-30 10:11:48.770000: Switching state: Sad
+
+2013-05-30 10:11:53.845000: Switching state: Lonely
+
+2013-05-30 10:14:12.954000: Switching state: Scared
+
+2013-05-30 10:14:13.159000: Switching state: Scared
+
+2013-05-30 10:14:13.351000: Switching state: Scared
+
+2013-05-30 10:14:13.540000: Switching state: Scared
+
+2013-05-30 10:14:13.642000: Switching state: Lonely
+
+2013-05-30 10:16:54.013000: Switching state: Hopeful
+
+2013-05-30 10:16:59.140000: Switching state: Sad
+
+2013-05-30 10:17:04.196000: Switching state: Lonely
+
+2013-05-30 10:17:04.468000: Switching state: Hopeful
+
+2013-05-30 10:17:10.437000: Switching state: Choices
+
+2013-05-30 10:17:21.417000: Switching state: Sad
+
+2013-05-30 10:17:26.511000: Switching state: Lonely
+
+2013-05-30 10:17:26.687000: Switching state: Hopeful
+
+2013-05-30 10:17:31.480000: Switching state: Choices
+
+2013-05-30 10:17:35.155000: Switching state: Happy
+
+2013-05-30 10:17:38.231000: Switching state: Lonely
+
+2013-05-30 10:17:38.369000: Switching state: Hopeful
+
+2013-05-30 10:17:42.764000: Switching state: Scared
+
+2013-05-30 10:17:42.951000: Switching state: Scared
+
+2013-05-30 10:17:43.144000: Switching state: Scared
+
+2013-05-30 10:17:43.347000: Switching state: Scared
+
+2013-05-30 10:17:43.552000: Switching state: Scared
+
+2013-05-30 10:17:43.765000: Switching state: Scared
+
+2013-05-30 10:17:43.914000: Switching state: Hopeful
+
+2013-05-30 10:17:46.647000: Switching state: Scared
+
+2013-05-30 10:17:46.874000: Switching state: Hopeful
+
+2013-05-30 10:18:01.519000: Switching state: Choices
+
+2013-05-30 10:18:11.123000: Switching state: Joke
+
+2013-05-30 10:18:20.237000: Switching state: Sad
+
+2013-05-30 10:18:25.342000: Switching state: Lonely
+
+2013-05-30 10:18:25.550000: Switching state: Hopeful
+
+2013-05-30 10:18:30.592000: Switching state: Sad
+
+2013-05-30 10:18:32.593000: Switching state: Scared
+
+2013-05-30 10:18:32.819000: Switching state: Scared
+
+2013-05-30 10:18:32.947000: Switching state: Scared
+
+2013-05-30 10:18:33.062000: Switching state: Sad
+
+2013-05-30 10:18:38.130000: Switching state: Lonely
+
+2013-05-30 10:21:08.205000: Switching state: Hopeful
+
+2013-05-30 10:21:15.005000: Switching state: Choices
+
+2013-05-30 10:21:20.670000: Switching state: Sad
+
+2013-05-30 10:21:25.709000: Switching state: Lonely
+
+2013-05-30 10:21:25.893000: Switching state: Hopeful
+
+2013-05-30 10:21:30.243000: Switching state: Choices
+
+2013-05-30 10:21:35.985000: Switching state: Sad
+
+2013-05-30 10:21:41.026000: Switching state: Lonely
+
+2013-05-30 10:21:41.246000: Switching state: Hopeful
+
+2013-05-30 10:21:46.796000: Switching state: Choices
+
+2013-05-30 10:21:52.778000: Switching state: Sad
+
+2013-05-30 10:21:57.856000: Switching state: Lonely
+
+2013-05-30 10:22:35.205000: Switching state: Hopeful
+
+2013-05-30 10:22:37.595000: Switching state: Scared
+
+2013-05-30 10:22:38.076000: Switching state: Scared
+
+2013-05-30 10:22:38.365000: Switching state: Scared
+
+2013-05-30 10:22:38.673000: Switching state: Scared
+
+2013-05-30 10:22:38.973000: Switching state: Scared
+
+2013-05-30 10:22:39.263000: Switching state: Scared
+
+2013-05-30 10:22:39.563000: Switching state: Scared
+
+2013-05-30 10:22:39.865000: Switching state: Scared
+
+2013-05-30 10:22:40.165000: Switching state: Scared
+
+2013-05-30 10:22:40.470000: Switching state: Scared
+
+2013-05-30 10:22:40.718000: Switching state: Scared
+
+2013-05-30 10:22:40.940000: Switching state: Scared
+
+2013-05-30 10:22:41.146000: Switching state: Scared
+
+2013-05-30 10:22:41.364000: Switching state: Scared
+
+2013-05-30 10:22:41.597000: Switching state: Scared
+
+2013-05-30 10:22:41.828000: Switching state: Scared
+
+2013-05-30 10:22:42.034000: Switching state: Scared
+
+2013-05-30 10:22:42.275000: Switching state: Scared
+
+2013-05-30 10:22:42.504000: Switching state: Scared
+
+2013-05-30 10:22:42.713000: Switching state: Scared
+
+2013-05-30 10:22:42.909000: Switching state: Scared
+
+2013-05-30 10:22:43.097000: Switching state: Scared
+
+2013-05-30 10:22:43.296000: Switching state: Scared
+
+2013-05-30 10:22:43.540000: Switching state: Scared
+
+2013-05-30 10:22:43.754000: Switching state: Scared
+
+2013-05-30 10:22:43.942000: Switching state: Scared
+
+2013-05-30 10:22:44.175000: Switching state: Scared
+
+2013-05-30 10:22:44.414000: Switching state: Scared
+
+2013-05-30 10:22:44.610000: Switching state: Scared
+
+2013-05-30 10:22:44.834000: Switching state: Scared
+
+2013-05-30 10:22:45.075000: Switching state: Scared
+
+2013-05-30 10:22:45.320000: Switching state: Scared
+
+2013-05-30 10:22:45.554000: Switching state: Scared
+
+2013-05-30 10:22:45.787000: Switching state: Scared
+
+2013-05-30 10:22:46.058000: Switching state: Scared
+
+2013-05-30 10:22:46.327000: Switching state: Scared
+
+2013-05-30 10:22:46.623000: Switching state: Scared
+
+2013-05-30 10:22:46.920000: Switching state: Scared
+
+2013-05-30 10:22:47.183000: Switching state: Scared
+
+2013-05-30 10:22:47.442000: Switching state: Scared
+
+2013-05-30 10:22:47.742000: Switching state: Hopeful
+
+2013-05-30 10:22:52.753000: Switching state: Sad
+
+2013-05-30 10:22:57.853000: Switching state: Lonely
+
+2013-05-30 10:22:58.051000: Switching state: Hopeful
+
+2013-05-30 10:23:05.042000: Switching state: Choices
+
+2013-05-30 10:23:12.055000: Switching state: Happy
+
+2013-05-30 10:23:15.116000: Switching state: Lonely
+
+2013-05-30 10:23:15.289000: Switching state: Hopeful
+
+2013-05-30 10:23:19.355000: Switching state: Choices
+
+2013-05-30 10:23:22.496000: Switching state: Scared
+
+2013-05-30 10:23:22.665000: Switching state: Choices
+
+2013-05-30 10:23:27.936000: Switching state: Sad
+
+2013-05-30 10:23:33.053000: Switching state: Lonely
+
+2013-05-30 10:23:33.256000: Switching state: Hopeful
+
+2013-05-30 10:23:37.772000: Switching state: Choices
+
+2013-05-30 10:23:59.422000: Switching state: Joke
+
+2013-05-30 10:24:08.548000: Switching state: Sad
+
+2013-05-30 10:24:13.677000: Switching state: Lonely
+
+2013-05-30 10:24:13.841000: Switching state: Hopeful
+
+2013-05-30 10:24:21.996000: Switching state: Sad
+
+2013-05-30 10:24:27.067000: Switching state: Lonely
+
+2013-05-30 10:29:11.993000: Switching state: Hopeful
+
+2013-05-30 10:29:17.181000: Switching state: Sad
+
+2013-05-30 10:29:22.255000: Switching state: Lonely
+
+2013-05-30 10:29:22.456000: Switching state: Hopeful
+
+2013-05-30 10:29:32.828000: Switching state: Choices
+
+2013-05-30 10:29:44.978000: Switching state: Happy
+
+2013-05-30 10:29:48.080000: Switching state: Lonely
+
+2013-05-30 10:29:48.317000: Switching state: Hopeful
+
+2013-05-30 10:29:58.615000: Switching state: Scared
+
+2013-05-30 10:29:58.794000: Switching state: Scared
+
+2013-05-30 10:29:58.984000: Switching state: Scared
+
+2013-05-30 10:29:59.188000: Switching state: Scared
+
+2013-05-30 10:29:59.346000: Switching state: Scared
+
+2013-05-30 10:29:59.460000: Switching state: Hopeful
+
+2013-05-30 10:30:01.790000: Switching state: Scared
+
+2013-05-30 10:30:01.928000: Switching state: Hopeful
+
+2013-05-30 10:30:06.224000: Switching state: Scared
+
+2013-05-30 10:30:06.430000: Switching state: Scared
+
+2013-05-30 10:30:06.629000: Switching state: Scared
+
+2013-05-30 10:30:06.837000: Switching state: Scared
+
+2013-05-30 10:30:07.018000: Switching state: Scared
+
+2013-05-30 10:30:07.173000: Switching state: Scared
+
+2013-05-30 10:30:07.313000: Switching state: Scared
+
+2013-05-30 10:30:07.498000: Switching state: Hopeful
+
+2013-05-30 10:30:08.821000: Switching state: Scared
+
+2013-05-30 10:30:08.962000: Switching state: Scared
+
+2013-05-30 10:30:09.152000: Switching state: Scared
+
+2013-05-30 10:30:09.281000: Switching state: Scared
+
+2013-05-30 10:30:09.499000: Switching state: Hopeful
+
+2013-05-30 10:30:14.505000: Switching state: Sad
+
+2013-05-30 10:30:19.706000: Switching state: Lonely
+
+2013-05-30 10:30:19.953000: Switching state: Hopeful
+
+2013-05-30 10:30:25.018000: Switching state: Sad
+
+2013-05-30 10:30:30.161000: Switching state: Lonely
+
+2013-05-30 10:30:30.379000: Switching state: Hopeful
+
+2013-05-30 10:30:35.358000: Switching state: Sad
+
+2013-05-30 10:30:40.431000: Switching state: Lonely
+
+2013-05-30 10:30:41.306000: Switching state: Scared
+
+2013-05-30 10:30:41.498000: Switching state: Scared
+
+2013-05-30 10:30:41.718000: Switching state: Scared
+
+2013-05-30 10:30:41.944000: Switching state: Scared
+
+2013-05-30 10:30:42.133000: Switching state: Scared
+
+2013-05-30 10:30:42.336000: Switching state: Scared
+
+2013-05-30 10:30:42.555000: Switching state: Scared
+
+2013-05-30 10:30:42.737000: Switching state: Scared
+
+2013-05-30 10:30:42.865000: Switching state: Scared
+
+2013-05-30 10:30:43.010000: Switching state: Lonely
+
+2013-05-30 10:30:56.132000: Switching state: Hopeful
+
+2013-05-30 10:31:01.182000: Switching state: Sad
+
+2013-05-30 10:31:06.251000: Switching state: Lonely
+
+2013-05-30 10:31:29.535000: Switching state: Hopeful
+
+2013-05-30 10:31:34.580000: Switching state: Sad
+
+2013-05-30 10:31:39.638000: Switching state: Lonely
+
+2013-05-30 10:31:47.016000: Switching state: Hopeful
+
+2013-05-30 10:31:52.067000: Switching state: Sad
+
+2013-05-30 10:31:57.169000: Switching state: Lonely
+
+2013-05-30 10:32:14.343000: Switching state: Scared
+
+2013-05-30 10:32:14.521000: Switching state: Lonely
+
+2013-05-30 10:32:14.673000: Switching state: Scared
+
+2013-05-30 10:32:14.848000: Switching state: Lonely
+
+2013-05-30 10:32:15.023000: Switching state: Scared
+
+2013-05-30 10:32:15.200000: Switching state: Scared
+
+2013-05-30 10:32:15.370000: Switching state: Scared
+
+2013-05-30 10:32:15.505000: Switching state: Scared
+
+2013-05-30 10:32:15.640000: Switching state: Scared
+
+2013-05-30 10:32:15.815000: Switching state: Lonely
+
+2013-05-30 10:32:16.005000: Switching state: Scared
+
+2013-05-30 10:32:16.147000: Switching state: Lonely
+
+2013-05-30 10:32:16.270000: Switching state: Hopeful
+
+2013-05-30 10:32:21.326000: Switching state: Sad
+
+2013-05-30 10:32:26.397000: Switching state: Lonely
+
+2013-05-30 10:32:43.095000: Switching state: Hopeful
+
+2013-05-30 10:32:45.263000: Switching state: Scared
+
+2013-05-30 10:32:45.428000: Switching state: Scared
+
+2013-05-30 10:32:45.569000: Switching state: Scared
+
+2013-05-30 10:32:45.701000: Switching state: Scared
+
+2013-05-30 10:32:45.848000: Switching state: Scared
+
+2013-05-30 10:32:46.005000: Switching state: Scared
+
+2013-05-30 10:32:46.169000: Switching state: Scared
+
+2013-05-30 10:32:46.300000: Switching state: Scared
+
+2013-05-30 10:32:46.467000: Switching state: Scared
+
+2013-05-30 10:32:46.771000: Switching state: Hopeful
+
+2013-05-30 10:32:51.805000: Switching state: Sad
+
+2013-05-30 10:32:56.861000: Switching state: Lonely
+
+2013-05-30 10:33:13.878000: Switching state: Hopeful
+
+2013-05-30 10:33:20.172000: Switching state: Sad
+
+2013-05-30 10:33:24.927000: Switching state: Scared
+
+2013-05-30 10:33:25.134000: Switching state: Scared
+
+2013-05-30 10:33:25.348000: Switching state: Scared
+
+2013-05-30 10:33:25.556000: Switching state: Scared
+
+2013-05-30 10:33:25.797000: Switching state: Scared
+
+2013-05-30 10:33:25.982000: Switching state: Scared
+
+2013-05-30 10:33:26.148000: Switching state: Scared
+
+2013-05-30 10:33:26.241000: Switching state: Scared
+
+2013-05-30 10:33:26.577000: Switching state: Scared
+
+2013-05-30 10:33:26.795000: Switching state: Scared
+
+2013-05-30 10:33:27.011000: Switching state: Scared
+
+2013-05-30 10:33:27.164000: Switching state: Scared
+
+2013-05-30 10:33:27.330000: Switching state: Scared
+
+2013-05-30 10:33:27.565000: Switching state: Scared
+
+2013-05-30 10:33:27.805000: Switching state: Scared
+
+2013-05-30 10:33:28.039000: Switching state: Scared
+
+2013-05-30 10:33:28.265000: Switching state: Scared
+
+2013-05-30 10:33:28.496000: Switching state: Scared
+
+2013-05-30 10:33:28.748000: Switching state: Scared
+
+2013-05-30 10:33:29.040000: Switching state: Scared
+
+2013-05-30 10:33:29.386000: Switching state: Scared
+
+2013-05-30 10:33:29.686000: Switching state: Scared
+
+2013-05-30 10:33:29.839000: Switching state: Scared
+
+2013-05-30 10:33:29.973000: Switching state: Scared
+
+2013-05-30 10:33:30.175000: Switching state: Scared
+
+2013-05-30 10:33:30.399000: Switching state: Scared
+
+2013-05-30 10:33:30.669000: Switching state: Scared
+
+2013-05-30 10:33:30.925000: Switching state: Scared
+
+2013-05-30 10:33:31.167000: Switching state: Scared
+
+2013-05-30 10:33:31.463000: Switching state: Scared
+
+2013-05-30 10:33:31.778000: Switching state: Scared
+
+2013-05-30 10:33:32.106000: Switching state: Scared
+
+2013-05-30 10:33:32.367000: Switching state: Scared
+
+2013-05-30 10:33:32.614000: Switching state: Scared
+
+2013-05-30 10:33:32.898000: Switching state: Scared
+
+2013-05-30 10:33:33.170000: Switching state: Scared
+
+2013-05-30 10:33:33.456000: Switching state: Scared
+
+2013-05-30 10:33:33.673000: Switching state: Scared
+
+2013-05-30 10:33:33.895000: Switching state: Scared
+
+2013-05-30 10:33:34.133000: Switching state: Scared
+
+2013-05-30 10:33:34.394000: Switching state: Scared
+
+2013-05-30 10:33:34.657000: Switching state: Scared
+
+2013-05-30 10:33:34.916000: Switching state: Scared
+
+2013-05-30 10:33:35.201000: Switching state: Scared
+
+2013-05-30 10:33:35.503000: Switching state: Scared
+
+2013-05-30 10:33:35.747000: Switching state: Scared
+
+2013-05-30 10:33:35.999000: Switching state: Scared
+
+2013-05-30 10:33:36.239000: Switching state: Scared
+
+2013-05-30 10:33:36.494000: Switching state: Scared
+
+2013-05-30 10:33:37.067000: Switching state: Sad
+
+2013-05-30 10:33:42.204000: Switching state: Lonely
+
+2013-05-30 10:33:42.489000: Switching state: Hopeful
+
+2013-05-30 10:33:57.957000: Switching state: Sad
+
+2013-05-30 10:33:59.016000: Switching state: Scared
+
+2013-05-30 10:33:59.287000: Switching state: Scared
+
+2013-05-30 10:33:59.543000: Switching state: Scared
+
+2013-05-30 10:33:59.717000: Switching state: Sad
+
+2013-05-30 10:34:00.812000: Switching state: Scared
+
+2013-05-30 10:34:00.924000: Switching state: Sad
+
+2013-05-30 10:34:06.031000: Switching state: Lonely
+
+2013-05-30 10:34:06.279000: Switching state: Hopeful
+
+2013-05-30 10:34:14.329000: Switching state: Choices
+
+2013-05-30 10:34:22.703000: Switching state: Joke
+
+2013-05-30 10:34:31.871000: Switching state: Sad
+
+2013-05-30 10:34:37.057000: Switching state: Lonely
+
+2013-05-30 10:34:37.290000: Switching state: Hopeful
+
+2013-05-30 10:34:44.464000: Switching state: Sad
+
+2013-05-30 10:34:49.539000: Switching state: Lonely
+
+2013-05-30 10:35:14.488000: Switching state: Hopeful
+
+2013-05-30 10:35:21.459000: Switching state: Choices
+
+2013-05-30 10:35:28.538000: Switching state: Sad
+
+2013-05-30 10:35:31.884000: Switching state: Scared
+
+2013-05-30 10:35:32.129000: Switching state: Scared
+
+2013-05-30 10:35:32.306000: Switching state: Sad
+
+2013-05-30 10:35:37.371000: Switching state: Lonely
+
+2013-05-30 10:35:37.545000: Switching state: Hopeful
+
+2013-05-30 10:35:45.316000: Switching state: Choices
+
+2013-05-30 10:35:51.581000: Switching state: Sad
+
+2013-05-30 10:35:56.636000: Switching state: Lonely
+
+2013-05-30 10:35:59.236000: Switching state: Hopeful
+
+2013-05-30 10:36:03.526000: Switching state: Choices
+
+2013-05-30 10:36:26.078000: Switching state: Sad
+
+2013-05-30 10:36:31.137000: Switching state: Lonely
+
+2013-05-30 10:36:34.134000: Switching state: Hopeful
+
+2013-05-30 10:36:39.004000: Switching state: Choices
+
+2013-05-30 10:36:59.618000: Switching state: Sad
+
+2013-05-30 10:37:04.670000: Switching state: Lonely
+
+2013-05-30 10:37:07.068000: Switching state: Hopeful
+
+2013-05-30 10:37:10.628000: Switching state: Choices
+
+2013-05-30 10:37:20.351000: Switching state: Joke
+
+2013-05-30 10:37:29.476000: Switching state: Sad
+
+2013-05-30 10:37:34.636000: Switching state: Lonely
+
+2013-05-30 10:37:34.867000: Switching state: Hopeful
+
+2013-05-30 10:37:38.399000: Switching state: Choices
+
+2013-05-30 10:37:44.527000: Switching state: Joke
+
+2013-05-30 10:37:53.665000: Switching state: Sad
+
+2013-05-30 10:37:58.706000: Switching state: Lonely
+
+2013-05-30 10:37:58.878000: Switching state: Hopeful
+
+2013-05-30 10:38:02.746000: Switching state: Choices
+
+2013-05-30 10:38:06.087000: Switching state: Happy
+
+2013-05-30 10:38:09.185000: Switching state: Lonely
+
+2013-05-30 10:38:09.356000: Switching state: Hopeful
+
+2013-05-30 10:38:16.843000: Switching state: Sad
+
+2013-05-30 10:38:21.913000: Switching state: Lonely
+
+2013-05-30 10:45:19.539000: Switching state: Hopeful
+
+2013-05-30 10:45:24.615000: Switching state: Sad
+
+2013-05-30 10:45:29.706000: Switching state: Lonely
+
+2013-05-30 10:45:29.876000: Switching state: Hopeful
+
+2013-05-30 10:45:34.518000: Switching state: Choices
+
+2013-05-30 10:45:39.151000: Switching state: Happy
+
+2013-05-30 10:45:42.289000: Switching state: Lonely
+
+2013-05-30 10:45:42.462000: Switching state: Hopeful
+
+2013-05-30 10:45:46.522000: Switching state: Choices
+
+2013-05-30 10:45:49.292000: Switching state: Happy
+
+2013-05-30 10:45:52.330000: Switching state: Lonely
+
+2013-05-30 10:45:52.500000: Switching state: Hopeful
+
+2013-05-30 10:45:58.361000: Switching state: Choices
+
+2013-05-30 10:46:03.033000: Switching state: Happy
+
+2013-05-30 10:46:06.127000: Switching state: Lonely
+
+2013-05-30 10:46:06.329000: Switching state: Hopeful
+
+2013-05-30 10:46:12.124000: Switching state: Choices
+
+2013-05-30 10:46:41.911000: Switching state: Sad
+
+2013-05-30 10:46:47.085000: Switching state: Lonely
+
+2013-05-30 10:46:47.374000: Switching state: Hopeful
+
+2013-05-30 10:46:52.766000: Switching state: Sad
+
+2013-05-30 10:46:57.881000: Switching state: Lonely
+
+2013-05-30 10:46:58.145000: Switching state: Hopeful
+
+2013-05-30 10:47:03.273000: Switching state: Sad
+
+2013-05-30 10:47:08.363000: Switching state: Lonely
+
+2013-05-30 10:47:08.514000: Switching state: Hopeful
+
+2013-05-30 10:47:11.201000: Switching state: Scared
+
+2013-05-30 10:47:11.431000: Switching state: Scared
+
+2013-05-30 10:47:11.653000: Switching state: Scared
+
+2013-05-30 10:47:11.842000: Switching state: Scared
+
+2013-05-30 10:47:12.005000: Switching state: Scared
+
+2013-05-30 10:47:12.335000: Switching state: Hopeful
+
+2013-05-30 10:47:17.354000: Switching state: Sad
+
+2013-05-30 10:47:22.544000: Switching state: Lonely
+
+2013-05-30 10:47:22.939000: Switching state: Hopeful
+
+2013-05-30 10:47:27.940000: Switching state: Sad
+
+2013-05-30 10:47:33.041000: Switching state: Lonely
+
+2013-05-30 10:47:39.096000: Switching state: Hopeful
+
+2013-05-30 10:47:42.952000: Switching state: Scared
+
+2013-05-30 10:47:43.236000: Switching state: Scared
+
+2013-05-30 10:47:43.562000: Switching state: Scared
+
+2013-05-30 10:47:43.770000: Switching state: Scared
+
+2013-05-30 10:47:44.156000: Switching state: Scared
+
+2013-05-30 10:47:44.504000: Switching state: Scared
+
+2013-05-30 10:47:44.793000: Switching state: Scared
+
+2013-05-30 10:47:45.082000: Switching state: Scared
+
+2013-05-30 10:47:45.324000: Switching state: Scared
+
+2013-05-30 10:47:45.508000: Switching state: Hopeful
+
+2013-05-30 10:47:50.727000: Switching state: Sad
+
+2013-05-30 10:47:55.800000: Switching state: Lonely
+
+2013-05-30 10:49:07.194000: Switching state: Hopeful
+
+2013-05-30 10:49:13.939000: Switching state: Choices
+
+2013-05-30 10:49:20.497000: Switching state: Sad
+
+2013-05-30 10:49:22.689000: Switching state: Scared
+
+2013-05-30 10:49:22.784000: Switching state: Sad
+
+2013-05-30 10:49:27.852000: Switching state: Lonely
+
+2013-05-30 10:49:28.050000: Switching state: Hopeful
+
+2013-05-30 10:49:34.144000: Switching state: Choices
+
+2013-05-30 10:49:40.119000: Switching state: Sad
+
+2013-05-30 10:49:45.187000: Switching state: Lonely
+
+2013-05-30 10:49:45.355000: Switching state: Hopeful
+
+2013-05-30 10:49:53.028000: Switching state: Choices
+
+2013-05-30 10:50:04.918000: Switching state: Sad
+
+2013-05-30 10:50:10.012000: Switching state: Lonely
+
+2013-05-30 10:50:10.181000: Switching state: Hopeful
+
+2013-05-30 10:50:13.283000: Switching state: Scared
+
+2013-05-30 10:50:13.565000: Switching state: Scared
+
+2013-05-30 10:50:13.762000: Switching state: Scared
+
+2013-05-30 10:50:14.015000: Switching state: Scared
+
+2013-05-30 10:50:14.225000: Switching state: Scared
+
+2013-05-30 10:50:14.374000: Switching state: Scared
+
+2013-05-30 10:50:14.565000: Switching state: Hopeful
+
+2013-05-30 10:50:19.656000: Switching state: Sad
+
+2013-05-30 10:50:24.830000: Switching state: Lonely
+
+2013-05-30 10:50:25.092000: Switching state: Hopeful
+
+2013-05-30 10:50:32.736000: Switching state: Choices
+
+2013-05-30 10:50:38.581000: Switching state: Happy
+
+2013-05-30 10:50:41.721000: Switching state: Lonely
+
+2013-05-30 10:50:41.894000: Switching state: Hopeful
+
+2013-05-30 10:50:44.543000: Switching state: Choices
+
+2013-05-30 10:50:47.178000: Switching state: Happy
+
+2013-05-30 10:50:50.289000: Switching state: Lonely
+
+2013-05-30 10:50:50.440000: Switching state: Hopeful
+
+2013-05-30 10:50:57.198000: Switching state: Sad
+
+2013-05-30 10:51:02.271000: Switching state: Lonely
+
+2013-05-30 10:51:02.463000: Switching state: Hopeful
+
+2013-05-30 10:51:09.354000: Switching state: Scared
+
+2013-05-30 10:51:09.703000: Switching state: Scared
+
+2013-05-30 10:51:09.882000: Switching state: Scared
+
+2013-05-30 10:51:10.068000: Switching state: Scared
+
+2013-05-30 10:51:10.204000: Switching state: Scared
+
+2013-05-30 10:51:10.422000: Switching state: Hopeful
+
+2013-05-30 10:51:15.420000: Switching state: Sad
+
+2013-05-30 10:51:20.496000: Switching state: Lonely
+
+2013-05-30 10:57:49.803000: Switching state: Hopeful
+
+2013-05-30 10:57:54.843000: Switching state: Sad
+
+2013-05-30 10:57:59.915000: Switching state: Lonely
+
+2013-05-30 10:59:46.835000: Switching state: Hopeful
+
+2013-05-30 10:59:54.755000: Switching state: Choices
+
+2013-05-30 11:00:04.565000: Switching state: Happy
+
+2013-05-30 11:00:07.637000: Switching state: Lonely
+
+2013-05-30 11:00:07.835000: Switching state: Hopeful
+
+2013-05-30 11:00:17.565000: Switching state: Sad
+
+2013-05-30 11:00:22.384000: Switching state: Scared
+
+2013-05-30 11:00:22.668000: Switching state: Scared
+
+2013-05-30 11:00:22.900000: Switching state: Scared
+
+2013-05-30 11:00:23.134000: Switching state: Scared
+
+2013-05-30 11:00:23.360000: Switching state: Scared
+
+2013-05-30 11:00:23.572000: Switching state: Scared
+
+2013-05-30 11:00:23.749000: Switching state: Scared
+
+2013-05-30 11:00:23.907000: Switching state: Scared
+
+2013-05-30 11:00:24.041000: Switching state: Scared
+
+2013-05-30 11:00:24.165000: Switching state: Scared
+
+2013-05-30 11:00:24.256000: Switching state: Sad
+
+2013-05-30 11:00:29.325000: Switching state: Lonely
+
+2013-05-30 11:00:38.797000: Switching state: Hopeful
+
+2013-05-30 11:00:43.806000: Switching state: Sad
+
+2013-05-30 11:00:48.877000: Switching state: Lonely
+
+2013-05-30 11:05:28.032000: Switching state: Hopeful
+
+2013-05-30 11:05:32.174000: Switching state: Scared
+
+2013-05-30 11:05:32.440000: Switching state: Scared
+
+2013-05-30 11:05:32.698000: Switching state: Scared
+
+2013-05-30 11:05:33.029000: Switching state: Scared
+
+2013-05-30 11:05:33.424000: Switching state: Scared
+
+2013-05-30 11:05:33.679000: Switching state: Scared
+
+2013-05-30 11:05:33.984000: Switching state: Scared
+
+2013-05-30 11:05:34.279000: Switching state: Scared
+
+2013-05-30 11:05:34.585000: Switching state: Scared
+
+2013-05-30 11:05:34.881000: Switching state: Scared
+
+2013-05-30 11:05:35.161000: Switching state: Scared
+
+2013-05-30 11:05:35.340000: Switching state: Hopeful
+
+2013-05-30 11:05:49.455000: Switching state: Choices
+
+2013-05-30 11:05:56.892000: Switching state: Happy
+
+2013-05-30 11:06:00.061000: Switching state: Lonely
+
+2013-05-30 11:06:00.317000: Switching state: Hopeful
+
+2013-05-30 11:06:13.932000: Switching state: Sad
+
+2013-05-30 11:06:19.103000: Switching state: Lonely
+
+2013-05-30 11:06:19.306000: Switching state: Hopeful
+
+2013-05-30 11:06:26.219000: Switching state: Sad
+
+2013-05-30 11:06:31.325000: Switching state: Lonely
+
+2013-05-30 11:06:31.623000: Switching state: Hopeful
+
+2013-05-30 11:06:33.887000: Switching state: Scared
+
+2013-05-30 11:06:34.217000: Switching state: Scared
+
+2013-05-30 11:06:34.512000: Switching state: Scared
+
+2013-05-30 11:06:34.850000: Switching state: Scared
+
+2013-05-30 11:06:35.222000: Switching state: Scared
+
+2013-05-30 11:06:35.544000: Switching state: Scared
+
+2013-05-30 11:06:35.865000: Switching state: Scared
+
+2013-05-30 11:06:36.183000: Switching state: Scared
+
+2013-05-30 11:06:36.476000: Switching state: Scared
+
+2013-05-30 11:06:36.767000: Switching state: Scared
+
+2013-05-30 11:06:37.046000: Switching state: Scared
+
+2013-05-30 11:06:37.266000: Switching state: Scared
+
+2013-05-30 11:06:37.349000: Switching state: Hopeful
+
+2013-05-30 11:06:47.290000: Switching state: Sad
+
+2013-05-30 11:06:50.246000: Switching state: Scared
+
+2013-05-30 11:06:50.587000: Switching state: Scared
+
+2013-05-30 11:06:50.918000: Switching state: Sad
+
+2013-05-30 11:06:54.895000: Switching state: Scared
+
+2013-05-30 11:06:55.139000: Switching state: Scared
+
+2013-05-30 11:06:55.326000: Switching state: Scared
+
+2013-05-30 11:06:55.563000: Switching state: Scared
+
+2013-05-30 11:06:55.813000: Switching state: Scared
+
+2013-05-30 11:06:56.075000: Switching state: Scared
+
+2013-05-30 11:06:56.309000: Switching state: Scared
+
+2013-05-30 11:06:56.551000: Switching state: Scared
+
+2013-05-30 11:06:56.805000: Switching state: Scared
+
+2013-05-30 11:06:57.048000: Switching state: Scared
+
+2013-05-30 11:06:57.256000: Switching state: Scared
+
+2013-05-30 11:06:57.434000: Switching state: Scared
+
+2013-05-30 11:06:57.637000: Switching state: Scared
+
+2013-05-30 11:06:57.847000: Switching state: Scared
+
+2013-05-30 11:06:58.109000: Switching state: Scared
+
+2013-05-30 11:06:58.378000: Switching state: Scared
+
+2013-05-30 11:06:58.648000: Switching state: Scared
+
+2013-05-30 11:06:58.918000: Switching state: Scared
+
+2013-05-30 11:06:59.191000: Switching state: Scared
+
+2013-05-30 11:06:59.402000: Switching state: Scared
+
+2013-05-30 11:06:59.662000: Switching state: Scared
+
+2013-05-30 11:06:59.864000: Switching state: Scared
+
+2013-05-30 11:07:00.063000: Switching state: Scared
+
+2013-05-30 11:07:00.239000: Switching state: Scared
+
+2013-05-30 11:07:00.442000: Switching state: Scared
+
+2013-05-30 11:07:00.638000: Switching state: Scared
+
+2013-05-30 11:07:00.840000: Switching state: Scared
+
+2013-05-30 11:07:01.034000: Switching state: Scared
+
+2013-05-30 11:07:01.189000: Switching state: Scared
+
+2013-05-30 11:07:01.352000: Switching state: Scared
+
+2013-05-30 11:07:01.477000: Switching state: Scared
+
+2013-05-30 11:07:01.672000: Switching state: Sad
+
+2013-05-30 11:07:06.017000: Switching state: Scared
+
+2013-05-30 11:07:06.270000: Switching state: Scared
+
+2013-05-30 11:07:06.561000: Switching state: Scared
+
+2013-05-30 11:07:06.816000: Switching state: Scared
+
+2013-05-30 11:07:07.101000: Switching state: Scared
+
+2013-05-30 11:07:07.336000: Switching state: Scared
+
+2013-05-30 11:07:07.564000: Switching state: Scared
+
+2013-05-30 11:07:07.827000: Switching state: Scared
+
+2013-05-30 11:07:08.092000: Switching state: Scared
+
+2013-05-30 11:07:08.376000: Switching state: Scared
+
+2013-05-30 11:07:09.093000: Switching state: Sad
+
+2013-05-30 11:07:10.494000: Switching state: Scared
+
+2013-05-30 11:07:10.791000: Switching state: Scared
+
+2013-05-30 11:07:11.120000: Switching state: Scared
+
+2013-05-30 11:07:11.350000: Switching state: Scared
+
+2013-05-30 11:07:11.581000: Switching state: Scared
+
+2013-05-30 11:07:11.789000: Switching state: Scared
+
+2013-05-30 11:07:12.135000: Switching state: Scared
+
+2013-05-30 11:07:12.354000: Switching state: Scared
+
+2013-05-30 11:07:12.652000: Switching state: Scared
+
+2013-05-30 11:07:12.918000: Switching state: Scared
+
+2013-05-30 11:07:13.164000: Switching state: Scared
+
+2013-05-30 11:07:13.363000: Switching state: Scared
+
+2013-05-30 11:07:13.566000: Switching state: Scared
+
+2013-05-30 11:07:13.794000: Switching state: Scared
+
+2013-05-30 11:07:14.102000: Switching state: Scared
+
+2013-05-30 11:07:14.321000: Switching state: Scared
+
+2013-05-30 11:07:14.500000: Switching state: Scared
+
+2013-05-30 11:07:14.596000: Switching state: Scared
+
+2013-05-30 11:07:14.818000: Switching state: Sad
+
+2013-05-30 11:07:19.888000: Switching state: Lonely
+
+2013-05-30 11:07:30.654000: Switching state: Hopeful
+
+2013-05-30 11:07:33.059000: Switching state: Scared
+
+2013-05-30 11:07:33.354000: Switching state: Scared
+
+2013-05-30 11:07:33.655000: Switching state: Hopeful
+
+2013-05-30 11:07:38.701000: Switching state: Sad
+
+2013-05-30 11:07:43.813000: Switching state: Lonely
+
+2013-05-30 11:08:00.975000: Switching state: Hopeful
+
+2013-05-30 11:08:02.462000: Switching state: Scared
+
+2013-05-30 11:08:02.729000: Switching state: Scared
+
+2013-05-30 11:08:03.043000: Switching state: Scared
+
+2013-05-30 11:08:03.345000: Switching state: Scared
+
+2013-05-30 11:08:03.704000: Switching state: Scared
+
+2013-05-30 11:08:04.062000: Switching state: Scared
+
+2013-05-30 11:08:04.404000: Switching state: Scared
+
+2013-05-30 11:08:04.727000: Switching state: Scared
+
+2013-05-30 11:08:04.976000: Switching state: Scared
+
+2013-05-30 11:08:05.205000: Switching state: Scared
+
+2013-05-30 11:08:05.464000: Switching state: Scared
+
+2013-05-30 11:08:05.776000: Switching state: Scared
+
+2013-05-30 11:08:06.183000: Switching state: Scared
+
+2013-05-30 11:08:06.454000: Switching state: Scared
+
+2013-05-30 11:08:06.686000: Switching state: Scared
+
+2013-05-30 11:08:06.875000: Switching state: Scared
+
+2013-05-30 11:08:07.113000: Switching state: Scared
+
+2013-05-30 11:08:07.327000: Switching state: Scared
+
+2013-05-30 11:08:07.530000: Switching state: Scared
+
+2013-05-30 11:08:07.734000: Switching state: Scared
+
+2013-05-30 11:08:07.903000: Switching state: Hopeful
+
+2013-05-30 11:08:12.956000: Switching state: Sad
+
+2013-05-30 11:08:18.044000: Switching state: Lonely
+
+2013-05-30 11:08:18.242000: Switching state: Hopeful
+
+2013-05-30 11:08:20.701000: Switching state: Scared
+
+2013-05-30 11:08:20.816000: Switching state: Hopeful
+
+2013-05-30 11:08:27.790000: Switching state: Choices
+
+2013-05-30 11:08:32.324000: Switching state: Scared
+
+2013-05-30 11:08:32.689000: Switching state: Choices
+
+2013-05-30 11:08:33.484000: Switching state: Scared
+
+2013-05-30 11:08:33.959000: Switching state: Scared
+
+2013-05-30 11:08:34.356000: Switching state: Scared
+
+2013-05-30 11:08:34.767000: Switching state: Scared
+
+2013-05-30 11:08:34.996000: Switching state: Scared
+
+2013-05-30 11:08:35.262000: Switching state: Choices
+
+2013-05-30 11:08:40.691000: Switching state: Sad
+
+2013-05-30 11:08:45.774000: Switching state: Lonely
+
+2013-05-30 11:08:45.968000: Switching state: Hopeful
+
+2013-05-30 11:08:53.296000: Switching state: Choices
+
+2013-05-30 11:09:06.775000: Switching state: Happy
+
+2013-05-30 11:09:09.816000: Switching state: Lonely
+
+2013-05-30 11:09:09.986000: Switching state: Hopeful
+
+2013-05-30 11:09:15.135000: Switching state: Choices
+
+2013-05-30 11:09:18.867000: Switching state: Happy
+
+2013-05-30 11:09:21.966000: Switching state: Lonely
+
+2013-05-30 11:09:22.142000: Switching state: Hopeful
+
+2013-05-30 11:09:30.101000: Switching state: Choices
+
+2013-05-30 11:09:46.044000: Switching state: Joke
+
+2013-05-30 11:09:55.170000: Switching state: Sad
+
+2013-05-30 11:10:00.310000: Switching state: Lonely
+
+2013-05-30 11:10:00.512000: Switching state: Hopeful
+
+2013-05-30 11:10:02.608000: Switching state: Scared
+
+2013-05-30 11:10:02.808000: Switching state: Scared
+
+2013-05-30 11:10:03: Switching state: Scared
+
+2013-05-30 11:10:03.161000: Switching state: Scared
+
+2013-05-30 11:10:03.294000: Switching state: Scared
+
+2013-05-30 11:10:03.412000: Switching state: Hopeful
+
+2013-05-30 11:10:08.452000: Switching state: Sad
+
+2013-05-30 11:10:13.555000: Switching state: Lonely
+
+2013-05-30 11:11:40.083000: Switching state: Hopeful
+
+2013-05-30 11:11:45.115000: Switching state: Sad
+
+2013-05-30 11:11:50.311000: Switching state: Lonely
+
+2013-05-30 11:19:04.774000: Switching state: Scared
+
+2013-05-30 11:19:05.078000: Switching state: Scared
+
+2013-05-30 11:19:05.328000: Switching state: Scared
+
+2013-05-30 11:19:05.555000: Switching state: Scared
+
+2013-05-30 11:19:05.780000: Switching state: Scared
+
+2013-05-30 11:19:06.011000: Switching state: Scared
+
+2013-05-30 11:19:06.240000: Switching state: Scared
+
+2013-05-30 11:19:06.467000: Switching state: Scared
+
+2013-05-30 11:19:06.714000: Switching state: Scared
+
+2013-05-30 11:19:06.946000: Switching state: Scared
+
+2013-05-30 11:19:07.172000: Switching state: Scared
+
+2013-05-30 11:19:07.379000: Switching state: Scared
+
+2013-05-30 11:19:07.570000: Switching state: Scared
+
+2013-05-30 11:19:07.811000: Switching state: Scared
+
+2013-05-30 11:19:08.009000: Switching state: Scared
+
+2013-05-30 11:19:08.229000: Switching state: Scared
+
+2013-05-30 11:19:08.450000: Switching state: Scared
+
+2013-05-30 11:19:08.639000: Switching state: Scared
+
+2013-05-30 11:19:08.846000: Switching state: Scared
+
+2013-05-30 11:19:09.042000: Switching state: Scared
+
+2013-05-30 11:19:09.249000: Switching state: Scared
+
+2013-05-30 11:19:09.460000: Switching state: Scared
+
+2013-05-30 11:19:09.702000: Switching state: Scared
+
+2013-05-30 11:19:10.044000: Switching state: Scared
+
+2013-05-30 11:19:10.286000: Switching state: Scared
+
+2013-05-30 11:19:10.510000: Switching state: Scared
+
+2013-05-30 11:19:10.753000: Switching state: Scared
+
+2013-05-30 11:19:10.981000: Switching state: Scared
+
+2013-05-30 11:19:11.181000: Switching state: Scared
+
+2013-05-30 11:19:11.441000: Switching state: Scared
+
+2013-05-30 11:19:11.646000: Switching state: Scared
+
+2013-05-30 11:19:11.878000: Switching state: Scared
+
+2013-05-30 11:19:12.174000: Switching state: Scared
+
+2013-05-30 11:19:12.480000: Switching state: Scared
+
+2013-05-30 11:19:12.709000: Switching state: Scared
+
+2013-05-30 11:19:12.972000: Switching state: Scared
+
+2013-05-30 11:19:13.178000: Switching state: Scared
+
+2013-05-30 11:19:13.581000: Switching state: Lonely
+
+2013-05-30 11:19:13.795000: Switching state: Hopeful
+
+2013-05-30 11:19:18.903000: Switching state: Sad
+
+2013-05-30 11:19:23.957000: Switching state: Lonely
+
+2013-05-30 11:32:28.911000: Switching state: Scared
+
+2013-05-30 11:32:29.182000: Switching state: Scared
+
+2013-05-30 11:32:29.412000: Switching state: Scared
+
+2013-05-30 11:32:29.665000: Switching state: Lonely
+
+2013-05-30 11:32:29.897000: Switching state: Hopeful
+
+2013-05-30 11:32:37.255000: Switching state: Sad
+
+2013-05-30 11:32:42.349000: Switching state: Lonely
+
+2013-05-30 11:32:42.569000: Switching state: Hopeful
+
+2013-05-30 11:32:49.347000: Switching state: Choices
+
+2013-05-30 11:33:04.131000: Switching state: Sad
+
+2013-05-30 11:33:09.189000: Switching state: Lonely
+
+2013-05-30 11:33:42.096000: Switching state: Hopeful
+
+2013-05-30 11:33:47.229000: Switching state: Sad
+
+2013-05-30 11:33:52.324000: Switching state: Lonely
+
+2013-05-30 11:33:52.515000: Switching state: Hopeful
+
+2013-05-30 11:33:57.568000: Switching state: Sad
+
+2013-05-30 11:34:02.650000: Switching state: Lonely
+
+2013-05-30 11:34:05.557000: Switching state: Hopeful
+
+2013-05-30 11:34:10.646000: Switching state: Sad
+
+2013-05-30 11:34:15.720000: Switching state: Lonely
+
+2013-05-30 11:34:16.686000: Switching state: Hopeful
+
+2013-05-30 11:34:21.725000: Switching state: Sad
+
+2013-05-30 11:34:26.795000: Switching state: Lonely
+
+2013-05-30 11:34:27.388000: Switching state: Hopeful
+
+2013-05-30 11:34:36.878000: Switching state: Sad
+
+2013-05-30 11:34:41.983000: Switching state: Lonely
+
+2013-05-30 11:34:50.360000: Switching state: Hopeful
+
+2013-05-30 11:34:55.407000: Switching state: Scared
+
+2013-05-30 11:34:55.667000: Switching state: Hopeful
+
+2013-05-30 11:34:56.043000: Switching state: Scared
+
+2013-05-30 11:34:56.147000: Switching state: Hopeful
+
+2013-05-30 11:35:01.203000: Switching state: Sad
+
+2013-05-30 11:35:06.270000: Switching state: Lonely
+
+2013-05-30 11:35:16.029000: Switching state: Hopeful
+
+2013-05-30 11:35:21.134000: Switching state: Sad
+
+2013-05-30 11:35:26.188000: Switching state: Lonely
+
+2013-05-30 11:36:11.859000: Switching state: Hopeful
+
+2013-05-30 11:36:16.935000: Switching state: Sad
+
+2013-05-30 11:36:22.007000: Switching state: Lonely
+
+2013-05-30 11:36:44.135000: Switching state: Scared
+
+2013-05-30 11:36:44.386000: Switching state: Scared
+
+2013-05-30 11:36:44.605000: Switching state: Scared
+
+2013-05-30 11:36:44.784000: Switching state: Scared
+
+2013-05-30 11:36:44.911000: Switching state: Scared
+
+2013-05-30 11:36:45.031000: Switching state: Lonely
+
+2013-05-30 11:37:08.760000: Switching state: Hopeful
+
+2013-05-30 11:37:13.825000: Switching state: Sad
+
+2013-05-30 11:37:18.930000: Switching state: Lonely
+
+2013-05-30 11:38:35.274000: Switching state: Hopeful
+
+2013-05-30 11:38:41.006000: Switching state: Choices
+
+2013-05-30 11:38:43.286000: Switching state: Scared
+
+2013-05-30 11:38:43.414000: Switching state: Choices
+
+2013-05-30 11:38:48.413000: Switching state: Sad
+
+2013-05-30 11:38:53.489000: Switching state: Lonely
+
+2013-05-30 11:42:25.071000: Switching state: Scared
+
+2013-05-30 11:42:25.249000: Switching state: Scared
+
+2013-05-30 11:42:25.457000: Switching state: Scared
+
+2013-05-30 11:42:25.698000: Switching state: Scared
+
+2013-05-30 11:42:25.954000: Switching state: Scared
+
+2013-05-30 11:42:26.240000: Switching state: Scared
+
+2013-05-30 11:42:26.474000: Switching state: Scared
+
+2013-05-30 11:42:26.751000: Switching state: Scared
+
+2013-05-30 11:42:26.982000: Switching state: Scared
+
+2013-05-30 11:42:27.251000: Switching state: Scared
+
+2013-05-30 11:42:27.503000: Switching state: Scared
+
+2013-05-30 11:42:27.749000: Switching state: Scared
+
+2013-05-30 11:42:28.044000: Switching state: Scared
+
+2013-05-30 11:42:28.298000: Switching state: Lonely
+
+2013-05-30 11:42:28.583000: Switching state: Hopeful
+
+2013-05-30 11:42:39.304000: Switching state: Sad
+
+2013-05-30 11:42:44.422000: Switching state: Lonely
+
+2013-05-30 11:42:44.660000: Switching state: Hopeful
+
+2013-05-30 11:42:53.988000: Switching state: Sad
+
+2013-05-30 11:42:59.190000: Switching state: Lonely
+
+2013-05-30 11:42:59.394000: Switching state: Hopeful
+
+2013-05-30 11:43:07.040000: Switching state: Choices
+
+2013-05-30 11:43:13.274000: Switching state: Sad
+
+2013-05-30 11:43:18.412000: Switching state: Lonely
+
+2013-05-30 11:43:18.617000: Switching state: Hopeful
+
+2013-05-30 11:43:25.814000: Switching state: Choices
+
+2013-05-30 11:43:29.993000: Switching state: Happy
+
+2013-05-30 11:43:33.099000: Switching state: Lonely
+
+2013-05-30 11:43:33.343000: Switching state: Hopeful
+
+2013-05-30 11:43:37.695000: Switching state: Scared
+
+2013-05-30 11:43:37.896000: Switching state: Scared
+
+2013-05-30 11:43:38.085000: Switching state: Scared
+
+2013-05-30 11:43:38.346000: Switching state: Scared
+
+2013-05-30 11:43:38.571000: Switching state: Hopeful
+
+2013-05-30 11:43:43.566000: Switching state: Sad
+
+2013-05-30 11:43:48.724000: Switching state: Lonely
+
+2013-05-30 11:44:01.373000: Switching state: Hopeful
+
+2013-05-30 11:44:06.424000: Switching state: Sad
+
+2013-05-30 11:44:11.463000: Switching state: Lonely
+
+2013-05-30 11:46:51.036000: Switching state: Hopeful
+
+2013-05-30 11:46:56.080000: Switching state: Sad
+
+2013-05-30 11:47:01.181000: Switching state: Lonely
+
+2013-05-30 11:47:01.363000: Switching state: Hopeful
+
+2013-05-30 11:47:08.335000: Switching state: Sad
+
+2013-05-30 11:47:13.458000: Switching state: Lonely
+
+2013-05-30 11:47:13.643000: Switching state: Hopeful
+
+2013-05-30 11:47:20.428000: Switching state: Sad
+
+2013-05-30 11:47:25.753000: Switching state: Lonely
+
+2013-05-30 11:47:25.976000: Switching state: Hopeful
+
+2013-05-30 11:47:31.001000: Switching state: Choices
+
+2013-05-30 11:47:39.133000: Switching state: Happy
+
+2013-05-30 11:47:42.183000: Switching state: Lonely
+
+2013-05-30 11:47:42.356000: Switching state: Hopeful
+
+2013-05-30 11:47:48.386000: Switching state: Choices
+
+2013-05-30 11:47:51.832000: Switching state: Happy
+
+2013-05-30 11:47:54.917000: Switching state: Lonely
+
+2013-05-30 11:47:55.109000: Switching state: Hopeful
+
+2013-05-30 11:48:00.109000: Switching state: Sad
+
+2013-05-30 11:48:05.158000: Switching state: Lonely
+
+2013-05-30 11:48:05.356000: Switching state: Hopeful
+
+2013-05-30 11:48:09.081000: Switching state: Choices
+
+2013-05-30 11:48:12.595000: Switching state: Happy
+
+2013-05-30 11:48:15.683000: Switching state: Lonely
+
+2013-05-30 11:48:15.861000: Switching state: Hopeful
+
+2013-05-30 11:48:21.773000: Switching state: Sad
+
+2013-05-30 11:48:26.893000: Switching state: Lonely
+
+2013-05-30 11:48:27.068000: Switching state: Hopeful
+
+2013-05-30 11:48:32.213000: Switching state: Choices
+
+2013-05-30 11:48:35.781000: Switching state: Happy
+
+2013-05-30 11:48:38.866000: Switching state: Lonely
+
+2013-05-30 11:48:39.008000: Switching state: Hopeful
+
+2013-05-30 11:48:44.060000: Switching state: Sad
+
+2013-05-30 11:48:49.130000: Switching state: Lonely
+
+2013-05-30 11:49:52.575000: Switching state: Hopeful
+
+2013-05-30 11:49:56.064000: Switching state: Scared
+
+2013-05-30 11:49:56.293000: Switching state: Scared
+
+2013-05-30 11:49:56.489000: Switching state: Scared
+
+2013-05-30 11:49:56.666000: Switching state: Scared
+
+2013-05-30 11:49:56.857000: Switching state: Scared
+
+2013-05-30 11:49:57.009000: Switching state: Scared
+
+2013-05-30 11:49:57.230000: Switching state: Hopeful
+
+2013-05-30 11:50:02.236000: Switching state: Sad
+
+2013-05-30 11:50:07.312000: Switching state: Lonely
+
+2013-05-30 11:53:51.879000: Switching state: Hopeful
+
+2013-05-30 11:53:57.092000: Switching state: Sad
+
+2013-05-30 11:54:02.165000: Switching state: Lonely
+
+2013-05-30 11:54:02.453000: Switching state: Hopeful
+
+2013-05-30 11:54:07.483000: Switching state: Sad
+
+2013-05-30 11:54:12.696000: Switching state: Lonely
+
+2013-05-30 11:54:13.051000: Switching state: Hopeful
+
+2013-05-30 11:54:18.220000: Switching state: Sad
+
+2013-05-30 11:54:23.362000: Switching state: Lonely
+
+2013-05-30 11:54:23.595000: Switching state: Hopeful
+
+2013-05-30 11:54:33.771000: Switching state: Choices
+
+2013-05-30 11:54:41.213000: Switching state: Sad
+
+2013-05-30 11:54:46.372000: Switching state: Lonely
+
+2013-05-30 11:54:46.685000: Switching state: Hopeful
+
+2013-05-30 11:54:55.496000: Switching state: Choices
+
+2013-05-30 11:55:01.072000: Switching state: Happy
+
+2013-05-30 11:55:04.221000: Switching state: Lonely
+
+2013-05-30 11:55:04.512000: Switching state: Hopeful
+
+2013-05-30 11:55:10.721000: Switching state: Choices
+
+2013-05-30 11:55:19.676000: Switching state: Happy
+
+2013-05-30 11:55:22.857000: Switching state: Lonely
+
+2013-05-30 11:55:23.253000: Switching state: Hopeful
+
+2013-05-30 11:55:27.985000: Switching state: Scared
+
+2013-05-30 11:55:28.120000: Switching state: Hopeful
+
+2013-05-30 11:55:33.221000: Switching state: Sad
+
+2013-05-30 11:55:38.293000: Switching state: Lonely
+
+2013-05-30 11:55:43.586000: Switching state: Scared
+
+2013-05-30 11:55:43.885000: Switching state: Lonely
+
+2013-05-30 11:55:44.059000: Switching state: Hopeful
+
+2013-05-30 11:55:49.038000: Switching state: Sad
+
+2013-05-30 11:55:54.111000: Switching state: Lonely
+
+2013-05-30 11:58:25.213000: Switching state: Scared
+
+2013-05-30 11:58:25.452000: Switching state: Scared
+
+2013-05-30 11:58:25.654000: Switching state: Scared
+
+2013-05-30 11:58:25.850000: Switching state: Scared
+
+2013-05-30 11:58:26.002000: Switching state: Scared
+
+2013-05-30 11:58:26.143000: Switching state: Scared
+
+2013-05-30 11:58:26.327000: Switching state: Scared
+
+2013-05-30 11:58:26.451000: Switching state: Scared
+
+2013-05-30 11:58:26.602000: Switching state: Scared
+
+2013-05-30 11:58:26.766000: Switching state: Scared
+
+2013-05-30 11:58:26.905000: Switching state: Scared
+
+2013-05-30 11:58:27: Switching state: Scared
+
+2013-05-30 11:58:27.225000: Switching state: Lonely
+
+2013-05-30 11:58:49.299000: Switching state: Hopeful
+
+2013-05-30 11:58:54.410000: Switching state: Sad
+
+2013-05-30 11:58:59.603000: Switching state: Lonely
+
+2013-05-30 11:58:59.843000: Switching state: Hopeful
+
+2013-05-30 11:59:05.973000: Switching state: Choices
+
+2013-05-30 11:59:17.390000: Switching state: Joke
+
+2013-05-30 11:59:26.497000: Switching state: Sad
+
+2013-05-30 11:59:31.533000: Switching state: Lonely
+
+2013-05-30 11:59:31.713000: Switching state: Hopeful
+
+2013-05-30 11:59:34.943000: Switching state: Scared
+
+2013-05-30 11:59:35.191000: Switching state: Scared
+
+2013-05-30 11:59:35.427000: Switching state: Scared
+
+2013-05-30 11:59:35.621000: Switching state: Hopeful
+
+2013-05-30 11:59:41.861000: Switching state: Choices
+
+2013-05-30 11:59:48.686000: Switching state: Happy
+
+2013-05-30 11:59:51.771000: Switching state: Lonely
+
+2013-05-30 11:59:51.961000: Switching state: Hopeful
+
+2013-05-30 11:59:56.887000: Switching state: Scared
+
+2013-05-30 11:59:57.013000: Switching state: Hopeful
+
+2013-05-30 12:00:02.049000: Switching state: Sad
+
+2013-05-30 12:00:07.119000: Switching state: Lonely
+
+2013-05-30 12:02:50.601000: Switching state: Hopeful
+
+2013-05-30 12:02:55.950000: Switching state: Sad
+
+2013-05-30 12:02:59.603000: Switching state: Scared
+
+2013-05-30 12:02:59.749000: Switching state: Scared
+
+2013-05-30 12:02:59.906000: Switching state: Scared
+
+2013-05-30 12:03:00.071000: Switching state: Scared
+
+2013-05-30 12:03:00.244000: Switching state: Scared
+
+2013-05-30 12:03:00.411000: Switching state: Scared
+
+2013-05-30 12:03:00.576000: Switching state: Scared
+
+2013-05-30 12:03:00.750000: Switching state: Scared
+
+2013-05-30 12:03:00.986000: Switching state: Sad
+
+2013-05-30 12:03:06.056000: Switching state: Lonely
+
+2013-05-30 12:04:58.676000: Switching state: Scared
+
+2013-05-30 12:04:58.775000: Switching state: Lonely
+
+2013-05-30 12:05:22.982000: Switching state: Hopeful
+
+2013-05-30 12:05:28.143000: Switching state: Sad
+
+2013-05-30 12:05:33.267000: Switching state: Lonely
+
+2013-05-30 12:05:33.503000: Switching state: Hopeful
+
+2013-05-30 12:05:45.705000: Switching state: Choices
+
+2013-05-30 12:05:51.307000: Switching state: Sad
+
+2013-05-30 12:05:56.381000: Switching state: Lonely
+
+2013-05-30 12:05:56.555000: Switching state: Hopeful
+
+2013-05-30 12:05:57.596000: Switching state: Scared
+
+2013-05-30 12:05:57.794000: Switching state: Scared
+
+2013-05-30 12:05:57.993000: Switching state: Scared
+
+2013-05-30 12:05:58.181000: Switching state: Scared
+
+2013-05-30 12:05:58.374000: Switching state: Scared
+
+2013-05-30 12:05:58.546000: Switching state: Hopeful
+
+2013-05-30 12:06:03.549000: Switching state: Sad
+
+2013-05-30 12:06:08.658000: Switching state: Lonely
+
+2013-05-30 12:06:08.808000: Switching state: Hopeful
+
+2013-05-30 12:06:13.788000: Switching state: Sad
+
+2013-05-30 12:06:18.858000: Switching state: Lonely
+
+2013-05-30 12:06:18.997000: Switching state: Hopeful
+
+2013-05-30 12:06:24.047000: Switching state: Sad
+
+2013-05-30 12:06:29.185000: Switching state: Lonely
+
+2013-05-30 12:06:29.407000: Switching state: Hopeful
+
+2013-05-30 12:06:37.759000: Switching state: Choices
+
+2013-05-30 12:06:47.813000: Switching state: Happy
+
+2013-05-30 12:06:50.942000: Switching state: Lonely
+
+2013-05-30 12:06:51.144000: Switching state: Hopeful
+
+2013-05-30 12:06:56.541000: Switching state: Choices
+
+2013-05-30 12:07:02.437000: Switching state: Sad
+
+2013-05-30 12:07:07.520000: Switching state: Lonely
+
+2013-05-30 12:07:07.725000: Switching state: Hopeful
+
+2013-05-30 12:07:12.726000: Switching state: Sad
+
+2013-05-30 12:07:17.850000: Switching state: Lonely
+
+2013-05-30 12:07:18.088000: Switching state: Hopeful
+
+2013-05-30 12:07:23.569000: Switching state: Sad
+
+2013-05-30 12:07:28.156000: Switching state: Scared
+
+2013-05-30 12:07:28.251000: Switching state: Sad
+
+2013-05-30 12:07:33.320000: Switching state: Lonely
+
+2013-05-30 12:07:41.542000: Switching state: Hopeful
+
+2013-05-30 12:07:45.576000: Switching state: Scared
+
+2013-05-30 12:07:45.713000: Switching state: Scared
+
+2013-05-30 12:07:45.851000: Switching state: Hopeful
+
+2013-05-30 12:07:50.936000: Switching state: Sad
+
+2013-05-30 12:07:54.439000: Switching state: Scared
+
+2013-05-30 12:07:54.599000: Switching state: Scared
+
+2013-05-30 12:07:54.767000: Switching state: Scared
+
+2013-05-30 12:07:54.960000: Switching state: Scared
+
+2013-05-30 12:07:55.158000: Switching state: Scared
+
+2013-05-30 12:07:55.297000: Switching state: Scared
+
+2013-05-30 12:07:55.430000: Switching state: Scared
+
+2013-05-30 12:07:55.585000: Switching state: Scared
+
+2013-05-30 12:07:55.754000: Switching state: Scared
+
+2013-05-30 12:07:55.879000: Switching state: Scared
+
+2013-05-30 12:07:56.110000: Switching state: Sad
+
+2013-05-30 12:08:01.179000: Switching state: Lonely
+
+2013-05-30 12:08:10.578000: Switching state: Hopeful
+
+2013-05-30 12:08:11.096000: Switching state: Scared
+
+2013-05-30 12:08:11.301000: Switching state: Scared
+
+2013-05-30 12:08:11.540000: Switching state: Scared
+
+2013-05-30 12:08:11.766000: Switching state: Scared
+
+2013-05-30 12:08:11.952000: Switching state: Scared
+
+2013-05-30 12:08:12.124000: Switching state: Scared
+
+2013-05-30 12:08:12.294000: Switching state: Scared
+
+2013-05-30 12:08:12.459000: Switching state: Scared
+
+2013-05-30 12:08:12.552000: Switching state: Hopeful
+
+2013-05-30 12:08:17.586000: Switching state: Sad
+
+2013-05-30 12:08:21.832000: Switching state: Scared
+
+2013-05-30 12:08:22.091000: Switching state: Scared
+
+2013-05-30 12:08:22.386000: Switching state: Scared
+
+2013-05-30 12:08:22.607000: Switching state: Scared
+
+2013-05-30 12:08:22.875000: Switching state: Scared
+
+2013-05-30 12:08:23.120000: Switching state: Scared
+
+2013-05-30 12:08:23.404000: Switching state: Scared
+
+2013-05-30 12:08:23.625000: Switching state: Scared
+
+2013-05-30 12:08:23.821000: Switching state: Scared
+
+2013-05-30 12:08:24.035000: Switching state: Scared
+
+2013-05-30 12:08:24.228000: Switching state: Scared
+
+2013-05-30 12:08:24.470000: Switching state: Scared
+
+2013-05-30 12:08:24.701000: Switching state: Scared
+
+2013-05-30 12:08:24.879000: Switching state: Scared
+
+2013-05-30 12:08:25.101000: Switching state: Scared
+
+2013-05-30 12:08:25.300000: Switching state: Scared
+
+2013-05-30 12:08:25.539000: Switching state: Scared
+
+2013-05-30 12:08:25.951000: Switching state: Sad
+
+2013-05-30 12:08:31.005000: Switching state: Lonely
+
+2013-05-30 12:08:31.219000: Switching state: Hopeful
+
+2013-05-30 12:08:37.794000: Switching state: Choices
+
+2013-05-30 12:08:45.478000: Switching state: Happy
+
+2013-05-30 12:08:48.615000: Switching state: Lonely
+
+2013-05-30 12:08:48.849000: Switching state: Hopeful
+
+2013-05-30 12:09:04.059000: Switching state: Choices
+
+2013-05-30 12:09:08.996000: Switching state: Happy
+
+2013-05-30 12:09:12.048000: Switching state: Lonely
+
+2013-05-30 12:09:12.252000: Switching state: Hopeful
+
+2013-05-30 12:09:13.395000: Switching state: Scared
+
+2013-05-30 12:09:13.477000: Switching state: Hopeful
+
+2013-05-30 12:09:15.712000: Switching state: Scared
+
+2013-05-30 12:09:15.853000: Switching state: Scared
+
+2013-05-30 12:09:16.086000: Switching state: Hopeful
+
+2013-05-30 12:09:23.526000: Switching state: Sad
+
+2013-05-30 12:09:28.593000: Switching state: Lonely
+
+2013-05-30 12:09:30.135000: Switching state: Hopeful
+
+2013-05-30 12:09:33.858000: Switching state: Scared
+
+2013-05-30 12:09:34.106000: Switching state: Scared
+
+2013-05-30 12:09:34.351000: Switching state: Scared
+
+2013-05-30 12:09:34.578000: Switching state: Scared
+
+2013-05-30 12:09:34.816000: Switching state: Scared
+
+2013-05-30 12:09:35.044000: Switching state: Scared
+
+2013-05-30 12:09:35.267000: Switching state: Scared
+
+2013-05-30 12:09:35.499000: Switching state: Scared
+
+2013-05-30 12:09:35.707000: Switching state: Scared
+
+2013-05-30 12:09:35.955000: Switching state: Scared
+
+2013-05-30 12:09:36.179000: Switching state: Scared
+
+2013-05-30 12:09:36.377000: Switching state: Scared
+
+2013-05-30 12:09:36.575000: Switching state: Scared
+
+2013-05-30 12:09:36.789000: Switching state: Scared
+
+2013-05-30 12:09:36.991000: Switching state: Scared
+
+2013-05-30 12:09:37.187000: Switching state: Scared
+
+2013-05-30 12:09:37.334000: Switching state: Scared
+
+2013-05-30 12:09:37.546000: Switching state: Scared
+
+2013-05-30 12:09:37.730000: Switching state: Scared
+
+2013-05-30 12:09:37.905000: Switching state: Scared
+
+2013-05-30 12:09:38.091000: Switching state: Scared
+
+2013-05-30 12:09:38.266000: Switching state: Scared
+
+2013-05-30 12:09:38.455000: Switching state: Scared
+
+2013-05-30 12:09:38.675000: Switching state: Scared
+
+2013-05-30 12:09:38.927000: Switching state: Scared
+
+2013-05-30 12:09:39.097000: Switching state: Scared
+
+2013-05-30 12:09:39.293000: Switching state: Scared
+
+2013-05-30 12:09:39.484000: Switching state: Scared
+
+2013-05-30 12:09:39.662000: Switching state: Scared
+
+2013-05-30 12:09:39.808000: Switching state: Scared
+
+2013-05-30 12:09:39.985000: Switching state: Scared
+
+2013-05-30 12:09:40.117000: Switching state: Scared
+
+2013-05-30 12:09:40.259000: Switching state: Scared
+
+2013-05-30 12:09:40.390000: Switching state: Scared
+
+2013-05-30 12:09:40.556000: Switching state: Scared
+
+2013-05-30 12:09:40.687000: Switching state: Scared
+
+2013-05-30 12:09:40.832000: Switching state: Scared
+
+2013-05-30 12:09:41.010000: Switching state: Scared
+
+2013-05-30 12:09:41.158000: Switching state: Scared
+
+2013-05-30 12:09:41.295000: Switching state: Scared
+
+2013-05-30 12:09:41.463000: Switching state: Scared
+
+2013-05-30 12:09:41.634000: Switching state: Scared
+
+2013-05-30 12:09:41.793000: Switching state: Scared
+
+2013-05-30 12:09:41.923000: Switching state: Scared
+
+2013-05-30 12:09:42.125000: Switching state: Scared
+
+2013-05-30 12:09:42.289000: Switching state: Scared
+
+2013-05-30 12:09:42.460000: Switching state: Scared
+
+2013-05-30 12:09:42.637000: Switching state: Scared
+
+2013-05-30 12:09:42.830000: Switching state: Scared
+
+2013-05-30 12:09:42.990000: Switching state: Scared
+
+2013-05-30 12:09:43.125000: Switching state: Scared
+
+2013-05-30 12:09:43.279000: Switching state: Scared
+
+2013-05-30 12:09:43.507000: Switching state: Scared
+
+2013-05-30 12:09:43.771000: Switching state: Scared
+
+2013-05-30 12:09:44.088000: Switching state: Scared
+
+2013-05-30 12:09:44.384000: Switching state: Scared
+
+2013-05-30 12:09:44.690000: Switching state: Scared
+
+2013-05-30 12:09:44.989000: Switching state: Scared
+
+2013-05-30 12:09:45.333000: Switching state: Scared
+
+2013-05-30 12:09:45.606000: Switching state: Scared
+
+2013-05-30 12:09:45.896000: Switching state: Scared
+
+2013-05-30 12:09:46.216000: Switching state: Scared
+
+2013-05-30 12:09:46.458000: Switching state: Scared
+
+2013-05-30 12:09:46.748000: Switching state: Scared
+
+2013-05-30 12:09:47.033000: Switching state: Scared
+
+2013-05-30 12:09:47.279000: Switching state: Scared
+
+2013-05-30 12:09:47.481000: Switching state: Scared
+
+2013-05-30 12:09:47.682000: Switching state: Scared
+
+2013-05-30 12:09:47.914000: Switching state: Scared
+
+2013-05-30 12:09:48.159000: Switching state: Scared
+
+2013-05-30 12:09:48.392000: Switching state: Scared
+
+2013-05-30 12:09:48.678000: Switching state: Scared
+
+2013-05-30 12:09:49.025000: Switching state: Scared
+
+2013-05-30 12:09:49.200000: Switching state: Scared
+
+2013-05-30 12:09:49.357000: Switching state: Scared
+
+2013-05-30 12:09:49.495000: Switching state: Scared
+
+2013-05-30 12:09:49.633000: Switching state: Scared
+
+2013-05-30 12:09:49.766000: Switching state: Scared
+
+2013-05-30 12:09:49.895000: Switching state: Scared
+
+2013-05-30 12:09:50.081000: Switching state: Scared
+
+2013-05-30 12:09:50.240000: Switching state: Scared
+
+2013-05-30 12:09:50.423000: Switching state: Scared
+
+2013-05-30 12:09:50.655000: Switching state: Scared
+
+2013-05-30 12:09:50.899000: Switching state: Scared
+
+2013-05-30 12:09:51.090000: Switching state: Scared
+
+2013-05-30 12:09:51.289000: Switching state: Scared
+
+2013-05-30 12:09:51.477000: Switching state: Scared
+
+2013-05-30 12:09:51.687000: Switching state: Scared
+
+2013-05-30 12:09:51.837000: Switching state: Scared
+
+2013-05-30 12:09:51.960000: Switching state: Scared
+
+2013-05-30 12:09:52.076000: Switching state: Scared
+
+2013-05-30 12:09:52.191000: Switching state: Hopeful
+
+2013-05-30 12:09:57.224000: Switching state: Sad
+
+2013-05-30 12:10:02.289000: Switching state: Lonely
+
+2013-05-30 12:10:12.215000: Switching state: Hopeful
+
+2013-05-30 12:10:17.240000: Switching state: Sad
+
+2013-05-30 12:10:22.281000: Switching state: Lonely
+
+2013-05-30 12:10:40.883000: Switching state: Hopeful
+
+2013-05-30 12:10:41.148000: Switching state: Scared
+
+2013-05-30 12:10:41.273000: Switching state: Hopeful
+
+2013-05-30 12:10:46.499000: Switching state: Scared
+
+2013-05-30 12:10:46.812000: Switching state: Scared
+
+2013-05-30 12:10:47.102000: Switching state: Scared
+
+2013-05-30 12:10:47.418000: Switching state: Scared
+
+2013-05-30 12:10:47.690000: Switching state: Scared
+
+2013-05-30 12:10:48.032000: Switching state: Scared
+
+2013-05-30 12:10:48.374000: Switching state: Scared
+
+2013-05-30 12:10:48.730000: Switching state: Scared
+
+2013-05-30 12:10:49.092000: Switching state: Scared
+
+2013-05-30 12:10:49.441000: Switching state: Scared
+
+2013-05-30 12:10:49.776000: Switching state: Scared
+
+2013-05-30 12:10:50.115000: Switching state: Scared
+
+2013-05-30 12:10:50.534000: Switching state: Scared
+
+2013-05-30 12:10:50.906000: Switching state: Scared
+
+2013-05-30 12:10:51.300000: Switching state: Scared
+
+2013-05-30 12:10:51.770000: Switching state: Scared
+
+2013-05-30 12:10:52.256000: Switching state: Hopeful
+
+2013-05-30 12:10:57.268000: Switching state: Sad
+
+2013-05-30 12:10:58.835000: Switching state: Scared
+
+2013-05-30 12:10:59.079000: Switching state: Scared
+
+2013-05-30 12:10:59.404000: Switching state: Scared
+
+2013-05-30 12:10:59.688000: Switching state: Scared
+
+2013-05-30 12:10:59.967000: Switching state: Scared
+
+2013-05-30 12:11:00.217000: Switching state: Scared
+
+2013-05-30 12:11:00.471000: Switching state: Scared
+
+2013-05-30 12:11:00.752000: Switching state: Scared
+
+2013-05-30 12:11:00.999000: Switching state: Scared
+
+2013-05-30 12:11:01.317000: Switching state: Scared
+
+2013-05-30 12:11:01.616000: Switching state: Scared
+
+2013-05-30 12:11:01.997000: Switching state: Scared
+
+2013-05-30 12:11:02.369000: Switching state: Scared
+
+2013-05-30 12:11:02.780000: Switching state: Scared
+
+2013-05-30 12:11:03.134000: Switching state: Scared
+
+2013-05-30 12:11:03.429000: Switching state: Scared
+
+2013-05-30 12:11:03.727000: Switching state: Scared
+
+2013-05-30 12:11:04.014000: Switching state: Scared
+
+2013-05-30 12:11:04.346000: Switching state: Scared
+
+2013-05-30 12:11:04.621000: Switching state: Scared
+
+2013-05-30 12:11:04.968000: Switching state: Scared
+
+2013-05-30 12:11:05.308000: Switching state: Scared
+
+2013-05-30 12:11:05.705000: Switching state: Scared
+
+2013-05-30 12:11:06.092000: Switching state: Scared
+
+2013-05-30 12:11:06.496000: Switching state: Scared
+
+2013-05-30 12:11:06.858000: Switching state: Scared
+
+2013-05-30 12:11:07.165000: Switching state: Scared
+
+2013-05-30 12:11:07.542000: Switching state: Scared
+
+2013-05-30 12:11:07.932000: Switching state: Scared
+
+2013-05-30 12:11:08.201000: Switching state: Scared
+
+2013-05-30 12:11:08.523000: Switching state: Scared
+
+2013-05-30 12:11:08.791000: Switching state: Scared
+
+2013-05-30 12:11:09.140000: Switching state: Scared
+
+2013-05-30 12:11:09.479000: Switching state: Scared
+
+2013-05-30 12:11:09.779000: Switching state: Scared
+
+2013-05-30 12:11:10.113000: Switching state: Scared
+
+2013-05-30 12:11:10.465000: Switching state: Scared
+
+2013-05-30 12:11:10.758000: Switching state: Scared
+
+2013-05-30 12:11:11.061000: Switching state: Scared
+
+2013-05-30 12:11:11.358000: Switching state: Scared
+
+2013-05-30 12:11:11.657000: Switching state: Scared
+
+2013-05-30 12:11:11.930000: Switching state: Scared
+
+2013-05-30 12:11:12.242000: Switching state: Scared
+
+2013-05-30 12:11:12.537000: Switching state: Scared
+
+2013-05-30 12:11:12.812000: Switching state: Scared
+
+2013-05-30 12:11:13.138000: Switching state: Scared
+
+2013-05-30 12:11:13.408000: Switching state: Scared
+
+2013-05-30 12:11:13.699000: Switching state: Scared
+
+2013-05-30 12:11:13.992000: Switching state: Scared
+
+2013-05-30 12:11:14.229000: Switching state: Scared
+
+2013-05-30 12:11:14.484000: Switching state: Scared
+
+2013-05-30 12:11:14.784000: Switching state: Scared
+
+2013-05-30 12:11:15.068000: Switching state: Scared
+
+2013-05-30 12:11:15.307000: Switching state: Sad
+
+2013-05-30 12:11:20.427000: Switching state: Lonely
+
+2013-05-30 12:12:02.232000: Switching state: Scared
+
+2013-05-30 12:12:02.619000: Switching state: Scared
+
+2013-05-30 12:12:02.882000: Switching state: Scared
+
+2013-05-30 12:12:03.200000: Switching state: Scared
+
+2013-05-30 12:12:03.580000: Switching state: Lonely
+
+2013-05-30 12:12:07: Switching state: Hopeful
+
+2013-05-30 12:12:12.115000: Switching state: Sad
+
+2013-05-30 12:12:17.284000: Switching state: Lonely
+
+2013-05-30 12:12:17.568000: Switching state: Hopeful
+
+2013-05-30 12:12:22.937000: Switching state: Sad
+
+2013-05-30 12:12:23.729000: Switching state: Scared
+
+2013-05-30 12:12:24.002000: Switching state: Scared
+
+2013-05-30 12:12:24.251000: Switching state: Scared
+
+2013-05-30 12:12:24.465000: Switching state: Sad
+
+2013-05-30 12:12:29.597000: Switching state: Lonely
+
+2013-05-30 12:12:29.745000: Switching state: Hopeful
+
+2013-05-30 12:12:41.615000: Switching state: Sad
+
+2013-05-30 12:12:46.698000: Switching state: Lonely
+
+2013-05-30 12:12:46.876000: Switching state: Hopeful
+
+2013-05-30 12:12:51.987000: Switching state: Sad
+
+2013-05-30 12:12:57.083000: Switching state: Lonely
+
+2013-05-30 12:12:57.229000: Switching state: Hopeful
+
+2013-05-30 12:12:58.217000: Switching state: Scared
+
+2013-05-30 12:12:58.374000: Switching state: Scared
+
+2013-05-30 12:12:58.464000: Switching state: Hopeful
+
+2013-05-30 12:13:03.550000: Switching state: Sad
+
+2013-05-30 12:13:08.606000: Switching state: Lonely
+
+2013-05-30 12:13:10.200000: Switching state: Hopeful
+
+2013-05-30 12:13:15.212000: Switching state: Sad
+
+2013-05-30 12:13:20.273000: Switching state: Lonely
+
+2013-05-30 12:13:20.441000: Switching state: Hopeful
+
+2013-05-30 12:13:23.218000: Switching state: Scared
+
+2013-05-30 12:13:23.417000: Switching state: Scared
+
+2013-05-30 12:13:23.628000: Switching state: Scared
+
+2013-05-30 12:13:23.830000: Switching state: Scared
+
+2013-05-30 12:13:24.058000: Switching state: Scared
+
+2013-05-30 12:13:24.276000: Switching state: Scared
+
+2013-05-30 12:13:24.488000: Switching state: Scared
+
+2013-05-30 12:13:24.691000: Switching state: Scared
+
+2013-05-30 12:13:24.932000: Switching state: Scared
+
+2013-05-30 12:13:25.132000: Switching state: Scared
+
+2013-05-30 12:13:25.344000: Switching state: Scared
+
+2013-05-30 12:13:25.553000: Switching state: Scared
+
+2013-05-30 12:13:25.757000: Switching state: Scared
+
+2013-05-30 12:13:25.950000: Switching state: Scared
+
+2013-05-30 12:13:26.124000: Switching state: Hopeful
+
+2013-05-30 12:13:31.988000: Switching state: Choices
+
+2013-05-30 12:13:40.187000: Switching state: Happy
+
+2013-05-30 12:13:43.359000: Switching state: Lonely
+
+2013-05-30 12:13:43.589000: Switching state: Hopeful
+
+2013-05-30 12:13:47.187000: Switching state: Scared
+
+2013-05-30 12:13:47.346000: Switching state: Hopeful
+
+2013-05-30 12:13:52.430000: Switching state: Scared
+
+2013-05-30 12:13:52.608000: Switching state: Scared
+
+2013-05-30 12:13:52.885000: Switching state: Hopeful
+
+2013-05-30 12:13:57.895000: Switching state: Sad
+
+2013-05-30 12:14:02.993000: Switching state: Lonely
+
+2013-05-30 12:14:34.053000: Switching state: Scared
+
+2013-05-30 12:14:34.253000: Switching state: Scared
+
+2013-05-30 12:14:34.416000: Switching state: Scared
+
+2013-05-30 12:14:34.565000: Switching state: Scared
+
+2013-05-30 12:14:34.691000: Switching state: Lonely
+
+2013-05-30 12:18:59.694000: Switching state: Hopeful
+
+2013-05-30 12:19:04.985000: Switching state: Sad
+
+2013-05-30 12:19:10.064000: Switching state: Lonely
+
+2013-05-30 12:19:21.450000: Switching state: Hopeful
+
+2013-05-30 12:19:31.674000: Switching state: Choices
+
+2013-05-30 12:19:36.911000: Switching state: Sad
+
+2013-05-30 12:19:42.016000: Switching state: Lonely
+
+2013-05-30 12:19:42.217000: Switching state: Hopeful
+
+2013-05-30 12:19:45.045000: Switching state: Choices
+
+2013-05-30 12:19:47.747000: Switching state: Happy
+
+2013-05-30 12:19:50.782000: Switching state: Lonely
+
+2013-05-30 12:19:50.949000: Switching state: Hopeful
+
+2013-05-30 12:19:55.351000: Switching state: Choices
+
+2013-05-30 12:19:57.961000: Switching state: Happy
+
+2013-05-30 12:20:00.323000: Switching state: Scared
+
+2013-05-30 12:20:00.419000: Switching state: Scared
+
+2013-05-30 12:20:00.525000: Switching state: Scared
+
+2013-05-30 12:20:00.652000: Switching state: Scared
+
+2013-05-30 12:20:00.792000: Switching state: Scared
+
+2013-05-30 12:20:00.916000: Switching state: Scared
+
+2013-05-30 12:20:01.174000: Switching state: Happy
+
+2013-05-30 12:20:04.245000: Switching state: Lonely
+
+2013-05-30 12:20:21.936000: Switching state: Hopeful
+
+2013-05-30 12:20:27.050000: Switching state: Sad
+
+2013-05-30 12:20:32.140000: Switching state: Lonely
+
+2013-05-30 12:24:58.146000: Switching state: Hopeful
+
+2013-05-30 12:25:03.167000: Switching state: Sad
+
+2013-05-30 12:25:08.269000: Switching state: Lonely
+
+2013-05-30 12:25:46.554000: Switching state: Hopeful
+
+2013-05-30 12:25:54.515000: Switching state: Choices
+
+2013-05-30 12:25:58.221000: Switching state: Happy
+
+2013-05-30 12:26:01.319000: Switching state: Lonely
+
+2013-05-30 12:26:01.996000: Switching state: Hopeful
+
+2013-05-30 12:26:06.588000: Switching state: Choices
+
+2013-05-30 12:26:10.366000: Switching state: Happy
+
+2013-05-30 12:26:13.429000: Switching state: Lonely
+
+2013-05-30 12:26:13.593000: Switching state: Hopeful
+
+2013-05-30 12:26:20.476000: Switching state: Sad
+
+2013-05-30 12:26:25.546000: Switching state: Lonely
+
+2013-05-30 12:30:29.856000: Switching state: Hopeful
+
+2013-05-30 12:30:34.887000: Switching state: Sad
+
+2013-05-30 12:30:40.010000: Switching state: Lonely
+
+2013-05-30 12:30:40.546000: Switching state: Hopeful
+
+2013-05-30 12:30:48.900000: Switching state: Choices
+
+2013-05-30 12:30:53.197000: Switching state: Happy
+
+2013-05-30 12:30:56.258000: Switching state: Lonely
+
+2013-05-30 12:30:56.428000: Switching state: Hopeful
+
+2013-05-30 12:30:58.851000: Switching state: Scared
+
+2013-05-30 12:30:58.943000: Switching state: Hopeful
+
+2013-05-30 12:31:03.953000: Switching state: Sad
+
+2013-05-30 12:31:09.022000: Switching state: Lonely
+
+2013-05-30 12:48:39.762000: Switching state: Hopeful
+
+2013-05-30 12:48:47.637000: Switching state: Sad
+
+2013-05-30 12:48:52.681000: Switching state: Lonely
+
+2013-05-30 12:50:37.358000: Switching state: Hopeful
+
+2013-05-30 12:50:42.385000: Switching state: Sad
+
+2013-05-30 12:50:47.427000: Switching state: Lonely
+
+2013-05-30 12:52:38.020000: Switching state: Hopeful
+
+2013-05-30 12:52:43.037000: Switching state: Sad
+
+2013-05-30 12:52:48.111000: Switching state: Lonely
+
+2013-05-30 12:52:52.065000: Switching state: Hopeful
+
+2013-05-30 12:52:57.386000: Switching state: Sad
+
+2013-05-30 12:53:02.456000: Switching state: Lonely
+
+2013-05-30 12:54:18.456000: Switching state: Hopeful
+
+2013-05-30 12:54:21.972000: Switching state: Choices
+
+2013-05-30 12:54:28.840000: Switching state: Sad
+
+2013-05-30 12:54:33.916000: Switching state: Lonely
+
+2013-05-30 12:55:20.483000: Switching state: Hopeful
+
+2013-05-30 12:55:25.459000: Switching state: Sad
+
+2013-05-30 12:55:30.531000: Switching state: Lonely
+
+2013-05-30 12:56:37.257000: Switching state: Hopeful
+
+2013-05-30 12:56:43.269000: Switching state: Choices
+
+2013-05-30 12:56:47.636000: Switching state: Happy
+
+2013-05-30 12:56:50.738000: Switching state: Lonely
+
+2013-05-30 12:56:50.906000: Switching state: Hopeful
+
+2013-05-30 12:56:58.151000: Switching state: Sad
+
+2013-05-30 12:57:03.611000: Switching state: Lonely
+
+2013-05-30 12:58:30.521000: Switching state: Hopeful
+
+2013-05-30 12:58:35.544000: Switching state: Sad
+
+2013-05-30 12:58:40.616000: Switching state: Lonely
+
+2013-05-30 12:59:31.121000: Switching state: Hopeful
+
+2013-05-30 12:59:33.822000: Switching state: Scared
+
+2013-05-30 12:59:33.988000: Switching state: Scared
+
+2013-05-30 12:59:34.160000: Switching state: Scared
+
+2013-05-30 12:59:34.330000: Switching state: Scared
+
+2013-05-30 12:59:34.500000: Switching state: Scared
+
+2013-05-30 12:59:34.704000: Switching state: Hopeful
+
+2013-05-30 12:59:39.711000: Switching state: Sad
+
+2013-05-30 12:59:44.753000: Switching state: Lonely
+
+2013-05-30 13:01:38.807000: Switching state: Hopeful
+
+2013-05-30 13:01:43.861000: Switching state: Sad
+
+2013-05-30 13:01:48.932000: Switching state: Lonely
+
+2013-05-30 13:03:44.361000: Switching state: Hopeful
+
+2013-05-30 13:03:49.384000: Switching state: Sad
+
+2013-05-30 13:03:54.455000: Switching state: Lonely
+
+2013-05-30 13:05:54.263000: Switching state: Scared
+
+2013-05-30 13:05:54.513000: Switching state: Scared
+
+2013-05-30 13:05:54.735000: Switching state: Scared
+
+2013-05-30 13:05:54.857000: Switching state: Scared
+
+2013-05-30 13:05:54.986000: Switching state: Scared
+
+2013-05-30 13:05:55.129000: Switching state: Scared
+
+2013-05-30 13:05:55.255000: Switching state: Scared
+
+2013-05-30 13:05:55.369000: Switching state: Lonely
+
+2013-05-30 13:11:58.778000: Switching state: Hopeful
+
+2013-05-30 13:12:03.859000: Switching state: Sad
+
+2013-05-30 13:12:08.932000: Switching state: Lonely
+
+2013-05-30 13:12:16.960000: Switching state: Hopeful
+
+2013-05-30 13:12:17.791000: Switching state: Scared
+
+2013-05-30 13:12:17.909000: Switching state: Hopeful
+
+2013-05-30 13:12:22.916000: Switching state: Sad
+
+2013-05-30 13:12:28.016000: Switching state: Lonely
+
+2013-05-30 13:12:46.222000: Switching state: Hopeful
+
+2013-05-30 13:12:51.206000: Switching state: Sad
+
+2013-05-30 13:12:56.243000: Switching state: Lonely
+
+2013-05-30 13:13:09.446000: Switching state: Hopeful
+
+2013-05-30 13:13:09.605000: Switching state: Scared
+
+2013-05-30 13:13:09.730000: Switching state: Hopeful
+
+2013-05-30 13:13:14.763000: Switching state: Sad
+
+2013-05-30 13:13:19.833000: Switching state: Lonely
+
+2013-05-30 13:13:58.102000: Switching state: Hopeful
+
+2013-05-30 13:14:03.111000: Switching state: Sad
+
+2013-05-30 13:14:08.180000: Switching state: Lonely
+
+2013-05-30 13:14:11.997000: Switching state: Hopeful
+
+2013-05-30 13:14:25.263000: Switching state: Sad
+
+2013-05-30 13:14:30.331000: Switching state: Lonely
+
+2013-05-30 13:14:33.118000: Switching state: Hopeful
+
+2013-05-30 13:14:38.141000: Switching state: Sad
+
+2013-05-30 13:14:43.200000: Switching state: Lonely
+
+2013-05-30 13:14:46.440000: Switching state: Hopeful
+
+2013-05-30 13:14:50.822000: Switching state: Scared
+
+2013-05-30 13:14:51.055000: Switching state: Scared
+
+2013-05-30 13:14:51.258000: Switching state: Scared
+
+2013-05-30 13:14:51.451000: Switching state: Scared
+
+2013-05-30 13:14:51.611000: Switching state: Scared
+
+2013-05-30 13:14:51.771000: Switching state: Scared
+
+2013-05-30 13:14:51.934000: Switching state: Scared
+
+2013-05-30 13:14:52.108000: Switching state: Scared
+
+2013-05-30 13:14:52.238000: Switching state: Scared
+
+2013-05-30 13:14:52.335000: Switching state: Scared
+
+2013-05-30 13:14:52.475000: Switching state: Scared
+
+2013-05-30 13:14:52.594000: Switching state: Hopeful
+
+2013-05-30 13:14:57.685000: Switching state: Sad
+
+2013-05-30 13:15:02.765000: Switching state: Lonely
+
+2013-05-30 13:15:22.403000: Switching state: Hopeful
+
+2013-05-30 13:15:27.411000: Switching state: Sad
+
+2013-05-30 13:15:28.110000: Switching state: Scared
+
+2013-05-30 13:15:28.291000: Switching state: Sad
+
+2013-05-30 13:15:33.330000: Switching state: Lonely
+
+2013-05-30 13:15:59.733000: Switching state: Scared
+
+2013-05-30 13:15:59.930000: Switching state: Scared
+
+2013-05-30 13:16:00.122000: Switching state: Scared
+
+2013-05-30 13:16:00.317000: Switching state: Scared
+
+2013-05-30 13:16:00.519000: Switching state: Scared
+
+2013-05-30 13:16:00.678000: Switching state: Scared
+
+2013-05-30 13:16:00.825000: Switching state: Lonely
+
+2013-05-30 13:16:32.249000: Switching state: Scared
+
+2013-05-30 13:16:32.484000: Switching state: Scared
+
+2013-05-30 13:16:32.723000: Switching state: Scared
+
+2013-05-30 13:16:32.967000: Switching state: Scared
+
+2013-05-30 13:16:33.206000: Switching state: Scared
+
+2013-05-30 13:16:33.464000: Switching state: Scared
+
+2013-05-30 13:16:33.690000: Switching state: Scared
+
+2013-05-30 13:16:33.920000: Switching state: Scared
+
+2013-05-30 13:16:34.125000: Switching state: Scared
+
+2013-05-30 13:16:34.326000: Switching state: Scared
+
+2013-05-30 13:16:34.564000: Switching state: Scared
+
+2013-05-30 13:16:34.803000: Switching state: Scared
+
+2013-05-30 13:16:35.033000: Switching state: Scared
+
+2013-05-30 13:16:35.283000: Switching state: Scared
+
+2013-05-30 13:16:35.565000: Switching state: Scared
+
+2013-05-30 13:16:35.785000: Switching state: Scared
+
+2013-05-30 13:16:35.943000: Switching state: Scared
+
+2013-05-30 13:16:36.067000: Switching state: Scared
+
+2013-05-30 13:16:36.157000: Switching state: Lonely
+
+2013-05-30 13:16:39.271000: Switching state: Hopeful
+
+2013-05-30 13:16:50.448000: Switching state: Scared
+
+2013-05-30 13:16:50.574000: Switching state: Hopeful
+
+2013-05-30 13:16:54.043000: Switching state: Choices
+
+2013-05-30 13:16:57.260000: Switching state: Happy
+
+2013-05-30 13:17:00.370000: Switching state: Lonely
+
+2013-05-30 13:17:00.549000: Switching state: Hopeful
+
+2013-05-30 13:17:04.068000: Switching state: Choices
+
+2013-05-30 13:17:09.870000: Switching state: Sad
+
+2013-05-30 13:17:14.925000: Switching state: Lonely
+
+2013-05-30 13:17:17.480000: Switching state: Hopeful
+
+2013-05-30 13:17:18.239000: Switching state: Scared
+
+2013-05-30 13:17:18.446000: Switching state: Scared
+
+2013-05-30 13:17:18.662000: Switching state: Scared
+
+2013-05-30 13:17:18.867000: Switching state: Scared
+
+2013-05-30 13:17:19.077000: Switching state: Scared
+
+2013-05-30 13:17:19.306000: Switching state: Scared
+
+2013-05-30 13:17:19.523000: Switching state: Scared
+
+2013-05-30 13:17:19.779000: Switching state: Scared
+
+2013-05-30 13:17:20.036000: Switching state: Scared
+
+2013-05-30 13:17:20.251000: Switching state: Scared
+
+2013-05-30 13:17:20.515000: Switching state: Scared
+
+2013-05-30 13:17:20.753000: Switching state: Scared
+
+2013-05-30 13:17:20.998000: Switching state: Scared
+
+2013-05-30 13:17:21.286000: Switching state: Scared
+
+2013-05-30 13:17:21.588000: Switching state: Scared
+
+2013-05-30 13:17:21.835000: Switching state: Scared
+
+2013-05-30 13:17:22.058000: Switching state: Scared
+
+2013-05-30 13:17:22.312000: Switching state: Hopeful
+
+2013-05-30 13:17:27.654000: Switching state: Sad
+
+2013-05-30 13:17:32.746000: Switching state: Lonely
+
+2013-05-30 13:17:48.324000: Switching state: Hopeful
+
+2013-05-30 13:17:53.364000: Switching state: Sad
+
+2013-05-30 13:17:58.439000: Switching state: Lonely
+
+2013-05-30 13:19:15.499000: Switching state: Hopeful
+
+2013-05-30 13:19:20.100000: Switching state: Scared
+
+2013-05-30 13:19:20.354000: Switching state: Scared
+
+2013-05-30 13:19:20.543000: Switching state: Scared
+
+2013-05-30 13:19:20.706000: Switching state: Scared
+
+2013-05-30 13:19:20.866000: Switching state: Scared
+
+2013-05-30 13:19:21.022000: Switching state: Scared
+
+2013-05-30 13:19:21.250000: Switching state: Scared
+
+2013-05-30 13:19:21.456000: Switching state: Scared
+
+2013-05-30 13:19:21.657000: Switching state: Scared
+
+2013-05-30 13:19:21.886000: Switching state: Scared
+
+2013-05-30 13:19:22.122000: Switching state: Scared
+
+2013-05-30 13:19:22.402000: Switching state: Scared
+
+2013-05-30 13:19:22.622000: Switching state: Scared
+
+2013-05-30 13:19:22.847000: Switching state: Scared
+
+2013-05-30 13:19:23.047000: Switching state: Scared
+
+2013-05-30 13:19:23.266000: Switching state: Scared
+
+2013-05-30 13:19:23.449000: Switching state: Scared
+
+2013-05-30 13:19:23.659000: Switching state: Scared
+
+2013-05-30 13:19:23.849000: Switching state: Scared
+
+2013-05-30 13:19:24.061000: Switching state: Scared
+
+2013-05-30 13:19:24.271000: Switching state: Scared
+
+2013-05-30 13:19:24.454000: Switching state: Scared
+
+2013-05-30 13:19:24.656000: Switching state: Scared
+
+2013-05-30 13:19:24.850000: Switching state: Scared
+
+2013-05-30 13:19:25.048000: Switching state: Scared
+
+2013-05-30 13:19:25.227000: Switching state: Scared
+
+2013-05-30 13:19:25.426000: Switching state: Scared
+
+2013-05-30 13:19:25.623000: Switching state: Scared
+
+2013-05-30 13:19:25.885000: Switching state: Scared
+
+2013-05-30 13:19:26.127000: Switching state: Scared
+
+2013-05-30 13:19:26.404000: Switching state: Scared
+
+2013-05-30 13:19:26.691000: Switching state: Scared
+
+2013-05-30 13:19:27.030000: Switching state: Hopeful
+
+2013-05-30 13:19:27.921000: Switching state: Scared
+
+2013-05-30 13:19:28.247000: Switching state: Scared
+
+2013-05-30 13:19:28.603000: Switching state: Scared
+
+2013-05-30 13:19:28.891000: Switching state: Scared
+
+2013-05-30 13:19:29.468000: Switching state: Scared
+
+2013-05-30 13:19:29.847000: Switching state: Scared
+
+2013-05-30 13:19:30.208000: Switching state: Scared
+
+2013-05-30 13:19:30.598000: Switching state: Scared
+
+2013-05-30 13:19:31.394000: Switching state: Hopeful
+
+2013-05-30 13:19:36.366000: Switching state: Sad
+
+2013-05-30 13:19:41.437000: Switching state: Lonely
+
+2013-05-30 13:20:14.784000: Switching state: Hopeful
+
+2013-05-30 13:20:19.842000: Switching state: Sad
+
+2013-05-30 13:20:24.911000: Switching state: Lonely
+
+2013-05-30 13:33:07.070000: Switching state: Hopeful
+
+2013-05-30 13:33:12.108000: Switching state: Sad
+
+2013-05-30 13:33:17.622000: Switching state: Lonely
+
+2013-05-30 13:33:17.820000: Switching state: Hopeful
+
+2013-05-30 13:33:27.423000: Switching state: Choices
+
+2013-05-30 13:33:34.307000: Switching state: Happy
+
+2013-05-30 13:33:37.400000: Switching state: Lonely
+
+2013-05-30 13:33:37.566000: Switching state: Hopeful
+
+2013-05-30 13:33:43.240000: Switching state: Choices
+
+2013-05-30 13:33:52.882000: Switching state: Sad
+
+2013-05-30 13:33:57.994000: Switching state: Lonely
+
+2013-05-30 13:33:58.157000: Switching state: Hopeful
+
+2013-05-30 13:34:04.491000: Switching state: Choices
+
+2013-05-30 13:34:10.730000: Switching state: Sad
+
+2013-05-30 13:34:15.828000: Switching state: Lonely
+
+2013-05-30 13:34:15.964000: Switching state: Hopeful
+
+2013-05-30 13:34:23.766000: Switching state: Sad
+
+2013-05-30 13:34:28.838000: Switching state: Lonely
+
+2013-05-30 13:34:28.978000: Switching state: Hopeful
+
+2013-05-30 13:34:34.077000: Switching state: Sad
+
+2013-05-30 13:34:39.175000: Switching state: Lonely
+
+2013-05-30 13:34:45.994000: Switching state: Hopeful
+
+2013-05-30 13:34:50.414000: Switching state: Choices
+
+2013-05-30 13:34:54.818000: Switching state: Happy
+
+2013-05-30 13:34:57.965000: Switching state: Lonely
+
+2013-05-30 13:34:58.189000: Switching state: Hopeful
+
+2013-05-30 13:35:03.177000: Switching state: Sad
+
+2013-05-30 13:35:08.268000: Switching state: Lonely
+
+2013-05-30 13:43:57.220000: Switching state: Scared
+
+2013-05-30 13:43:57.485000: Switching state: Lonely
+
+2013-05-30 13:43:57.719000: Switching state: Hopeful
+
+2013-05-30 13:44:07.324000: Switching state: Choices
+
+2013-05-30 13:44:13.015000: Switching state: Sad
+
+2013-05-30 13:44:18.164000: Switching state: Lonely
+
+2013-05-30 13:44:18.359000: Switching state: Hopeful
+
+2013-05-30 13:44:18.567000: Switching state: Scared
+
+2013-05-30 13:44:18.781000: Switching state: Scared
+
+2013-05-30 13:44:19.046000: Switching state: Scared
+
+2013-05-30 13:44:19.269000: Switching state: Scared
+
+2013-05-30 13:44:19.469000: Switching state: Scared
+
+2013-05-30 13:44:19.738000: Switching state: Scared
+
+2013-05-30 13:44:19.974000: Switching state: Scared
+
+2013-05-30 13:44:20.182000: Switching state: Scared
+
+2013-05-30 13:44:20.404000: Switching state: Scared
+
+2013-05-30 13:44:20.642000: Switching state: Scared
+
+2013-05-30 13:44:20.951000: Switching state: Scared
+
+2013-05-30 13:44:21.185000: Switching state: Scared
+
+2013-05-30 13:44:21.444000: Switching state: Scared
+
+2013-05-30 13:44:21.686000: Switching state: Scared
+
+2013-05-30 13:44:21.914000: Switching state: Scared
+
+2013-05-30 13:44:22.149000: Switching state: Scared
+
+2013-05-30 13:44:22.401000: Switching state: Scared
+
+2013-05-30 13:44:22.641000: Switching state: Scared
+
+2013-05-30 13:44:22.881000: Switching state: Scared
+
+2013-05-30 13:44:23.100000: Switching state: Scared
+
+2013-05-30 13:44:23.278000: Switching state: Scared
+
+2013-05-30 13:44:23.452000: Switching state: Scared
+
+2013-05-30 13:44:23.622000: Switching state: Scared
+
+2013-05-30 13:44:23.741000: Switching state: Hopeful
+
+2013-05-30 13:44:28.750000: Switching state: Sad
+
+2013-05-30 13:44:33.819000: Switching state: Lonely
+
+2013-05-30 13:56:30.789000: Switching state: Hopeful
+
+2013-05-30 13:56:31.834000: Switching state: Scared
+
+2013-05-30 13:56:32.079000: Switching state: Hopeful
+
+2013-05-30 13:56:32.308000: Switching state: Scared
+
+2013-05-30 13:56:32.538000: Switching state: Scared
+
+2013-05-30 13:56:32.750000: Switching state: Scared
+
+2013-05-30 13:56:32.936000: Switching state: Scared
+
+2013-05-30 13:56:33.049000: Switching state: Hopeful
+
+2013-05-30 13:56:38.150000: Switching state: Sad
+
+2013-05-30 13:56:43.188000: Switching state: Lonely
+
+2013-05-30 13:56:47.183000: Switching state: Hopeful
+
+2013-05-30 13:56:52.324000: Switching state: Sad
+
+2013-05-30 13:56:57.440000: Switching state: Lonely
+
+2013-05-30 13:56:57.648000: Switching state: Hopeful
+
+2013-05-30 13:57:02.734000: Switching state: Sad
+
+2013-05-30 13:57:07.862000: Switching state: Lonely
+
+2013-05-30 13:57:08.041000: Switching state: Hopeful
+
+2013-05-30 13:57:13.061000: Switching state: Sad
+
+2013-05-30 13:57:18.098000: Switching state: Lonely
+
+2013-05-30 13:57:18.234000: Switching state: Hopeful
+
+2013-05-30 13:57:23.286000: Switching state: Sad
+
+2013-05-30 13:57:28.423000: Switching state: Lonely
+
+2013-05-30 13:57:28.615000: Switching state: Hopeful
+
+2013-05-30 13:57:33.705000: Switching state: Sad
+
+2013-05-30 13:57:38.880000: Switching state: Lonely
+
+2013-05-30 13:57:39.078000: Switching state: Hopeful
+
+2013-05-30 13:57:45.247000: Switching state: Choices
+
+2013-05-30 13:57:52.574000: Switching state: Sad
+
+2013-05-30 13:57:57.709000: Switching state: Lonely
+
+2013-05-30 13:57:57.856000: Switching state: Hopeful
+
+2013-05-30 13:58:02.919000: Switching state: Scared
+
+2013-05-30 13:58:03.154000: Switching state: Scared
+
+2013-05-30 13:58:03.421000: Switching state: Scared
+
+2013-05-30 13:58:03.666000: Switching state: Scared
+
+2013-05-30 13:58:03.878000: Switching state: Hopeful
+
+2013-05-30 13:58:08.205000: Switching state: Choices
+
+2013-05-30 13:58:12.671000: Switching state: Happy
+
+2013-05-30 13:58:15.772000: Switching state: Lonely
+
+2013-05-30 13:58:15.975000: Switching state: Hopeful
+
+2013-05-30 13:58:19.933000: Switching state: Choices
+
+2013-05-30 13:58:23.135000: Switching state: Happy
+
+2013-05-30 13:58:26.210000: Switching state: Lonely
+
+2013-05-30 13:58:26.365000: Switching state: Hopeful
+
+2013-05-30 13:58:32.572000: Switching state: Choices
+
+2013-05-30 13:58:42.883000: Switching state: Sad
+
+2013-05-30 13:58:48.003000: Switching state: Lonely
+
+2013-05-30 13:58:48.245000: Switching state: Hopeful
+
+2013-05-30 13:58:53.263000: Switching state: Sad
+
+2013-05-30 13:58:58.419000: Switching state: Lonely
+
+2013-05-30 13:58:58.619000: Switching state: Hopeful
+
+2013-05-30 13:59:03.672000: Switching state: Sad
+
+2013-05-30 13:59:06.432000: Switching state: Scared
+
+2013-05-30 13:59:06.669000: Switching state: Scared
+
+2013-05-30 13:59:06.903000: Switching state: Scared
+
+2013-05-30 13:59:07.141000: Switching state: Scared
+
+2013-05-30 13:59:07.300000: Switching state: Scared
+
+2013-05-30 13:59:07.427000: Switching state: Sad
+
+2013-05-30 13:59:12.497000: Switching state: Lonely
+
+2013-05-30 14:04:35.940000: Switching state: Scared
+
+2013-05-30 14:04:36.213000: Switching state: Lonely
+
+2013-05-30 14:04:36.438000: Switching state: Hopeful
+
+2013-05-30 14:04:41.451000: Switching state: Sad
+
+2013-05-30 14:04:46.523000: Switching state: Lonely
+
+2013-05-30 14:04:54.371000: Switching state: Hopeful
+
+2013-05-30 14:04:59.436000: Switching state: Sad
+
+2013-05-30 14:05:04.505000: Switching state: Lonely
+
+2013-05-30 14:06:00.868000: Switching state: Scared
+
+2013-05-30 14:06:01.028000: Switching state: Lonely
+
